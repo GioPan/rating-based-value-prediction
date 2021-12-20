@@ -1,0 +1,3562 @@
+39151,94308,Marko Dmitrovic,NA,NA,0
+11673,139336,Paulo Oliveira,NA,NA,0
+6213,87469,Jose Angel,NA,NA,0
+52516,266795,Gonzalo Escalante,NA,NA,0
+3184,153427,Bebe,NA,NA,0
+6317,60890,Fabian Orellana,NA,NA,0
+6842,142027,Pablo Hervias,NA,NA,0
+6697,71548,Anaitz Arbilla Zabala,NA,NA,0
+45217,311287,Martinez,NA,NA,0
+6918,263727,Joan Jordan,NA,NA,0
+6374,138935,Sergio Alvarez,NA,NA,0
+9697,75446,Pablo Ezequiel de Blasis,NA,NA,0
+6747,154059,Charles Dias de Oliveira,NA,NA,0
+31839,305956,Nano,NA,NA,0
+5285,128488,Alejandro Galvez,NA,NA,0
+44972,286849,Jordi Calavera Espinach,NA,NA,0
+10829,93936,Kike,NA,NA,0
+6568,127108,Florian Lejeune,NA,NA,0
+6676,238868,Ruben Pena,NA,NA,0
+62654,374077,Christian Rivera Hernandez,NA,NA,0
+6746,58115,Yoel Rodriguez,NA,NA,0
+45437,281755,Ivan Alejo Peralta,NA,NA,0
+6971,39907,Papakouli Diop,NA,NA,0
+9664,8176,Oier Olazabal,NA,NA,0
+52405,240360,Esteban Ariel Saveljich,NA,NA,0
+3571,126516,Antonio Luna,NA,NA,0
+6535,71905,Coke,NA,NA,0
+11821,151470,Nikola Vukcevic,NA,NA,0
+61798,245014,Enis Bardhi,NA,NA,0
+7887,125783,Sanjin Prcic,NA,NA,0
+3241,67548,Ruben Rochina,NA,NA,0
+21521,274862,Moses Daddy-Ajala Simon,NA,NA,0
+74113,254290,Raphael Dwamena,NA,NA,0
+6579,212391,Roger,NA,NA,0
+42504,118997,Aitor Fernandez,NA,NA,0
+31808,248330,Chema,NA,NA,0
+70802,302991,Erick Cathriel Cabaco Almada,NA,NA,0
+6914,203778,Ivan Lopez,NA,NA,0
+7427,129679,Cheick Doukoure,NA,NA,0
+3612,120095,Jose Campana,NA,NA,0
+6837,282371,Ivi,NA,NA,0
+6724,208890,Samuel Garcia Sanchez,NA,NA,0
+6912,252677,Jose Luis Morales,NA,NA,0
+11893,332612,Emmanuel Boateng,NA,NA,0
+32181,140082,Armando Sadiku,NA,NA,0
+6011,25412,Pedro Lopez,NA,NA,0
+9669,54217,Raul Fernandez,NA,NA,0
+31886,158791,Sergio Postigo Redondo,NA,NA,0
+6989,125931,Tono,NA,NA,0
+64790,262980,Jefferson Andres Lerma Solis,NA,NA,0
+6751,26199,Verza,0.0346645,0.141346,1
+6767,263860,Jason Remeseiro,NA,NA,0
+4931,49347,Mitchell James Langerak,NA,NA,0
+6750,101742,Angel Trujillo,NA,NA,0
+6809,263856,Victor Camarasa,NA,NA,0
+6658,213260,Ruben Garcia,NA,NA,0
+11756,243541,Deyverson,NA,NA,0
+48073,211395,Mauricio Cuero,NA,NA,0
+44664,221321,Joaquin Fernandez,-0.191357,0.00857864,56
+6847,260230,Moi,NA,NA,0
+31902,62144,Antonito,NA,NA,0
+43512,247250,Ruben Alcaraz,NA,NA,0
+65550,404688,Waldo Rubio Martin,NA,NA,0
+31451,65263,Jordi Masip,NA,NA,0
+6254,51667,Kiko,NA,NA,0
+70262,357884,Fernando Calero Villa,NA,NA,0
+31763,71204,Javier Moyano Lujano,NA,NA,0
+6867,207922,Luismi,NA,NA,0
+31899,307519,Fede San Emeterio,NA,NA,0
+31958,288453,Antonio Dominguez,NA,NA,0
+45369,337066,Laureano Antonio Villa Suarez,NA,NA,0
+20618,251106,Enes Ünal,-0.142142,0.0637406,459
+42686,256429,Sergio Guardiola Navarro,NA,NA,0
+31964,338425,Alejandro Berenguer Remiro,NA,NA,0
+9791,71206,Nauzet Perez,NA,NA,0
+31911,298589,David Garcia,NA,NA,0
+2852,42920,Fran Merida,NA,NA,0
+31377,145769,Sergio Leon,NA,NA,0
+11865,234811,Rui Silva,NA,NA,0
+775,137648,Sverrir Ingi Ingason,NA,NA,0
+6790,170472,Dimitri Foulquier,NA,NA,0
+8984,73092,Rene Krhin,NA,NA,0
+16663,42714,Mehdi Carcela-Gonzalez,NA,NA,0
+7635,129893,Molla Wague,NA,NA,0
+7704,93759,Matthieu Saunier,NA,NA,0
+6552,63689,Fran Rico,NA,NA,0
+41939,294568,Omer Atzili,NA,NA,0
+6990,113045,Ruben Perez,NA,NA,0
+6871,133794,Edgar Mendez,NA,NA,0
+6795,185245,Jhon Cordoba,NA,NA,0
+39130,226006,Emanuel Insua,NA,NA,0
+6039,44735,Aythami Artiles Oliva,NA,NA,0
+64244,303140,Mauricio Lemos Merladet,NA,NA,0
+31230,64363,Daniel Castellano Betancor,NA,NA,0
+31784,223068,Pedro Taunausu Dominguez Placeres,NA,NA,0
+9194,95438,Marko Livaja,NA,NA,0
+2915,16922,Kevin-Prince Boateng,NA,NA,0
+6558,203043,Pedro Bigas Rigo,NA,NA,0
+31873,228584,David Simon,NA,NA,0
+31431,153236,Vicente Gomez,NA,NA,0
+31565,202984,Roque Mesa Quevedo,NA,NA,0
+6659,153238,Jonathan Viera Ramos,NA,NA,0
+31637,110366,Sergio Ezequiel Araujo,NA,NA,0
+6862,96540,Alfredo Ortuno,NA,NA,0
+6623,184767,Ximo Navarro,NA,NA,0
+3522,45121,Loïc Remy,NA,NA,0
+7230,30929,Gabriel Penalba,NA,NA,0
+2987,5957,Alberto Aquilani,NA,NA,0
+20537,216463,Imoh Ezekiel,NA,NA,0
+6711,199321,Ruben Blanco,-0.218329,-0.012563,360
+45095,297194,Ivan Villar,-0.20644,0.00566759,91
+41186,64134,Nestor Alejandro Araujo Razo,NA,NA,0
+31582,164055,David Junca,NA,NA,0
+6616,119905,Hugo Mallo Novegil,NA,NA,0
+21519,192735,Stanislav Lobotka,NA,NA,0
+6946,207924,Jozabed Sanchez,NA,NA,0
+45580,309110,Brais Mendez Portela,NA,NA,0
+12386,167798,Andrew Hjulsager,NA,NA,0
+73321,396894,Maximiliano Gomez Gonzalez,NA,NA,0
+6264,61546,Facundo Roncaglia,NA,NA,0
+64804,216240,Lucas Rene Olaza Catrofe,NA,NA,0
+20411,181619,Robert Mazan,NA,NA,0
+43726,221315,Kevin Vazquez,NA,NA,0
+30517,137616,Okay Yokuslu,NA,NA,0
+70208,423444,Francisco Jose Beltran Peinado,NA,NA,0
+12365,252641,Pione Sisto,NA,NA,0
+65816,283223,Emre Mor,NA,NA,0
+7795,58818,Claudio Beauvue,NA,NA,0
+45075,349873,Juan Hernandez,NA,NA,0
+3558,72047,Iago Aspas Juncal,NA,NA,0
+84786,259930,Gabriel Matias Fernandez Leites,NA,NA,0
+9674,45912,Sergio Alvarez,NA,NA,0
+6288,65237,Andreu Fontas,NA,NA,0
+6572,30677,Gustavo Daniel Cabral,NA,NA,0
+6653,175446,Jonathan Castro Otto,NA,NA,0
+7630,63463,Daniel Wass,NA,NA,0
+45621,230222,Alvaro Lemos,NA,NA,0
+14307,83895,Marcelo Diaz,NA,NA,0
+6911,91763,Pablo Hernandez,NA,NA,0
+45351,336828,Pape Cheikh Diop Gueye,NA,NA,0
+21636,280701,Theo Bongonda,NA,NA,0
+65215,291247,Dejan Drazic,NA,NA,0
+2108,98596,John Alberto Guidetti,NA,NA,0
+6927,92947,Sergi Gomez,NA,NA,0
+6771,276111,David Costas Cordal,NA,NA,0
+6889,168959,Nemanja Radoja,NA,NA,0
+31739,272679,Jose Naranjo,NA,NA,0
+6488,64598,Bernardo Espinosa,NA,NA,0
+6781,262939,Johan Mojica,NA,NA,0
+6483,158795,David Timor,NA,NA,0
+6417,59323,Christian Ricardo Stuani Curbelo,NA,NA,0
+31542,131275,Choco Lozano,NA,NA,0
+3666,74228,Marc Muniesa,NA,NA,0
+6887,66099,Carles Planas Antolinez,NA,NA,0
+31682,242497,Pere Pons Riera,NA,NA,0
+6834,99353,Cristian Portu,NA,NA,0
+45581,337946,Jairo Izquierdo,NA,NA,0
+14187,75287,Seydou Doumbia,NA,NA,0
+31323,51663,Pedro Alcala,NA,NA,0
+68043,202318,Farid Boulaya,NA,NA,0
+6570,69660,Jonas Ramalho,NA,NA,0
+31430,115333,Juanpe,NA,NA,0
+31789,132921,Aday,NA,NA,0
+45298,261504,Aleix Garcia,-0.190668,0.0183619,104
+9680,67808,Borja Garcia,NA,NA,0
+72353,382773,Jonathan Josue Rubio Toro,NA,NA,0
+72320,531829,Daniel Escriche Romero,NA,NA,0
+70159,256567,Aleksandar Jovanovic,NA,NA,0
+6490,67546,Jorge Pulido Mayoral,NA,NA,0
+6859,56777,Luisinho,NA,NA,0
+70226,448628,Javier Galan Gil,NA,NA,0
+44843,162056,Gonzalo Melero Manzanares,NA,NA,0
+31611,223073,Eugeni Valderrama,NA,NA,0
+43583,210143,Alejandro Gallar Flaguera,NA,NA,0
+7382,98512,Serdar Gurler,NA,NA,0
+31652,71918,David Ferreiro Quiroga,NA,NA,0
+44954,114060,Enrique Gallego Puigsech,NA,NA,0
+45081,226012,Soria,NA,NA,0
+67023,333323,Filip Manojlovic,NA,NA,0
+31947,221150,Djene Dakonam,NA,NA,0
+31497,188838,Bruno Gonzalez,NA,NA,0
+75485,376514,Mathias Olivera Miramontes,NA,NA,0
+63817,273152,Nemanja Maksimovic,NA,NA,0
+39092,129693,Gaku Shibasaki,NA,NA,0
+74571,398886,Merveille Ndockyt,NA,NA,0
+52208,95736,Leandro Chichizola,NA,NA,0
+31793,246335,Ruben Yanez,NA,NA,0
+3307,70245,Ignasi Miquel Pons,NA,NA,0
+6370,102423,Leandro Cabrera,NA,NA,0
+6694,44699,Vitorino Gabriel Pacheco Antunes,NA,NA,0
+6544,76746,Damian Suarez,NA,NA,0
+9668,51426,Markel Bergara,NA,NA,0
+66410,290249,Mauro Wilney Arambarri Rosa,NA,NA,0
+70216,339820,Amath Diedhiou,NA,NA,0
+64583,282410,Jose Carlos Lazo Romero,NA,NA,0
+6907,242532,Robert Ibanez,NA,NA,0
+6250,51510,Angel Rodriguez,NA,NA,0
+31895,227961,Jaime Mata Arnaiz,NA,NA,0
+6886,174344,Faycal Fajr,NA,NA,0
+6346,138803,Francisco Portillo Soler,NA,NA,0
+3011,28285,Daniel Pacheco Lobato,NA,NA,0
+6511,57825,Jorge Molina Vidal,NA,NA,0
+6770,129515,Chuli,NA,NA,0
+6527,74230,Pablo Sarabia,NA,NA,0
+6855,165467,Stole Dimitrievski,NA,NA,0
+3653,85289,Jordi Amat Maas,NA,NA,0
+6944,189458,Emiliano Velazquez,NA,NA,0
+70395,449796,Alejandro Catena Marugan,NA,NA,0
+72321,355627,Sergio Akieme Rodriguez,NA,NA,0
+64557,380598,Santiago Comesana Veiga,NA,NA,0
+29904,195605,Jose Angel Pozo la Rosa,NA,NA,0
+2991,74297,Gael Kakuta,NA,NA,0
+6522,182963,Alhassane Bangoura,NA,NA,0
+6106,58497,Alberto Garcia,NA,NA,0
+6901,106837,Abdoulaye,NA,NA,0
+31856,281773,Jose Leon,NA,NA,0
+5969,30321,Oscar Trejo,NA,NA,0
+6732,257062,Alvaro Garcia,NA,NA,0
+6774,288318,Adrian Embarba Blazquez,NA,NA,0
+6520,7923,Roberto Trashorras Gayoso,NA,NA,0
+6507,70898,Jose Antonio Dorado,NA,NA,0
+6642,46215,Javi Guerra,NA,NA,0
+6928,193098,Alexandre Moreno Lopera,NA,NA,0
+21885,229604,Geronimo Rulli,NA,NA,0
+39128,229804,Aritz Elustondo Irribarria,NA,NA,0
+6373,142419,Raul Navas,NA,NA,0
+70441,289255,Andoni Gorosabel Espinosa,NA,NA,0
+6463,59344,Asier Illarramendi Andonegu,NA,NA,0
+64798,355628,Igor Zubeldia Elorza,NA,NA,0
+6565,99352,Ruben Pardo,NA,NA,0
+6340,126737,Juanmi,-0.0604246,0.103771,81
+6850,122155,Willian Jose,NA,NA,0
+45374,289236,Jon Bautista Orgilles,NA,NA,0
+5529,26065,Miguel Angel Moya,NA,NA,0
+6714,246291,Diego Llorente,NA,NA,0
+6529,51046,Hector Moreno,NA,NA,0
+7680,206947,Kevin Rodrigues,NA,NA,0
+6805,197135,Joseba Zaldua Bengoetxea,NA,NA,0
+31862,338424,Mikel Merino,NA,NA,0
+45697,351478,Mikel Oiarzabal Ugarte,NA,NA,0
+3634,177847,Adnan Januzaj,NA,NA,0
+6396,73319,Alberto de la Bella,NA,NA,0
+6399,59375,David Zurutuza Veillet,NA,NA,0
+5751,37501,Imanol Agirretxe Arruti,NA,NA,0
+31268,76285,Tono,NA,NA,0
+6496,158863,Inigo Martinez,NA,NA,0
+6695,221986,Litri,NA,NA,0
+31898,304250,David Concha Salas,NA,NA,0
+44994,280730,Alvaro Odriozola,NA,NA,0
+45591,289257,Jon Guridi Aldalur,NA,NA,0
+6885,58345,Jonathas Cristian de Jesus,NA,NA,0
+5441,30749,Mariano Barbosa,NA,NA,0
+52422,11111,Ramiro Funes Mori,NA,NA,0
+45624,197602,Ruben Semedo,NA,NA,0
+70539,411294,Juan Fernandez Blanco,NA,NA,0
+72018,466298,Santiago Caseres,NA,NA,0
+6008,56134,Javi Fuego,NA,NA,0
+6756,188854,Manu Trigueros,NA,NA,0
+45305,222571,Ramiro Guerra Pereyra,NA,NA,0
+65214,357885,Pablo Fornals Malla,NA,NA,0
+66181,413262,Daniel Raba Antoli,NA,NA,0
+45931,294894,Leonardo Gabriel Suarez,NA,NA,0
+68250,315110,Karl Toko Ekambi,NA,NA,0
+6049,57522,Andres Fernandez,NA,NA,0
+6485,183647,Alvaro Gonzalez,NA,NA,0
+70369,399776,Pau Francisco Torres,NA,NA,0
+6595,65318,Jaume Costa,NA,NA,0
+6221,73250,Mario Gaspar,NA,NA,0
+6078,65467,Vicente Iborra de la Fuente,NA,NA,0
+9246,63186,Roberto Soriano,NA,NA,0
+70432,335225,Manuel Morlanes Arino,NA,NA,0
+9279,82048,Nicola Sansone,NA,NA,0
+64945,336646,Akram Hassan Afif,NA,NA,0
+6932,177467,Gerard Moreno,NA,NA,0
+6737,119235,Carlos Arturo Bacca Ahumada,NA,NA,0
+6064,51710,Sergio Asenjo,NA,NA,0
+6327,62920,Victor Ruiz,NA,NA,0
+8237,5856,Daniele Bonera,NA,NA,0
+3521,77737,Alfred N'Diaye,NA,NA,0
+6331,60445,Jonathan dos Santos,NA,NA,0
+6784,98322,Denis Cheryshev,NA,NA,0
+6908,195171,Samuel Castillejo Azuaga,NA,NA,0
+8805,37579,Alexandre Pato,NA,NA,0
+45758,356197,Alfonso Pedraza Sag,NA,NA,0
+63682,278992,Cristian Omar Espinoza,NA,NA,0
+7403,127048,Cedric Bakambu,NA,NA,0
+45906,357565,Rodrigo Hernandez Cascante,NA,NA,0
+6864,165007,Denis Suarez,-0.117805,0.0473051,87
+6948,286384,Eric Bertrand Bailly,NA,NA,0
+6893,214316,Luciano Vietto,NA,NA,0
+20897,129561,Sergey Chernik,NA,NA,0
+68184,256902,Modou Diagne,NA,NA,0
+7019,56802,Vincent Muratori,NA,NA,0
+68211,205497,Tobias Badila Kouendolo,NA,NA,0
+68361,357072,Christ Emmanuel Fait Maouassa,NA,NA,0
+67729,77348,Julien Cetout,NA,NA,0
+7626,66791,Diallo Guidileye,NA,NA,0
+68014,127098,Anthony Koura,NA,NA,0
+67017,182891,Thomas Didillon,NA,NA,0
+11782,85295,Ivan Balliu,NA,NA,0
+30964,117509,Chris Philipps,NA,NA,0
+7041,18955,Renaud Cohade,NA,NA,0
+7167,12508,Yann Jouffre,NA,NA,0
+68235,263951,Hamza Sakhi,NA,NA,0
+7666,170927,Simon Falette,NA,NA,0
+68431,344886,Matthieu Udol,NA,NA,0
+9773,98274,Jonathan Rivierez,NA,NA,0
+4627,52112,Georges Constant Mandjeck,NA,NA,0
+68054,222859,Florent Mollet,NA,NA,0
+7711,205587,Opa Nguette,NA,NA,0
+68358,344888,Habibou Mouhamadou Diallo,NA,NA,0
+4901,53173,Philipp Wollscheid,NA,NA,0
+75793,351072,Vahid Selimovic,NA,NA,0
+70805,316760,Vincent Thill,-0.201988,0.00926913,128
+7437,81460,Nolan Roux,NA,NA,0
+3753,61637,Emmanuel Riviere,NA,NA,0
+68076,157484,Quentin Beunardeau,NA,NA,0
+68284,291200,Moussa Niakhate,NA,NA,0
+52638,216714,Geronimo Poblete,NA,NA,0
+11874,203655,Cafu,NA,NA,0
+82259,415701,Alexis Larriere,NA,NA,0
+70803,344892,Gauthier Hein,NA,NA,0
+7598,190786,Baptiste Reynet,NA,NA,0
+39246,201737,Christopher Jullien,NA,NA,0
+73128,164277,Gen Shōji,NA,NA,0
+70789,344072,Kelvin Amian Adou,NA,NA,0
+7818,203517,Steven Moreira,NA,NA,0
+39225,236041,Alexis Blin,NA,NA,0
+7892,170460,Jessy Pi,NA,NA,0
+7773,20463,Corentin Jean,NA,NA,0
+7577,122797,Andy Delort,NA,NA,0
+3611,127194,Yaya Sanogo,NA,NA,0
+9291,72578,Mauro Daniel Goicoechea Furia,NA,NA,0
+7734,170903,Steeve Yago,NA,NA,0
+68144,276895,Steven Fortes,NA,NA,0
+7815,220878,Issiaga Sylla,NA,NA,0
+70799,318520,Clement Michelin,NA,NA,0
+70811,375885,Ibrahim Sangare,NA,NA,0
+7966,290533,Yann Bodiger,NA,NA,0
+10287,58097,John Joseph Bostock,-0.02817,0.134218,11
+75569,412671,Quentin Boisgard,NA,NA,0
+7618,28140,Max-Alain Gradel,NA,NA,0
+7074,77828,Mathieu Dossevi,NA,NA,0
+38135,265504,Firmin Mubele Ndombe,NA,NA,0
+39113,289587,Aaron Leya Iseka,NA,NA,0
+7373,123160,Marc Vidal,NA,NA,0
+65874,272622,Issa Diop,NA,NA,0
+7894,123021,Francois Moubandje,NA,NA,0
+21026,148754,Wergiton do Rosario Calmon,NA,NA,0
+2014,80205,Jakup Jimmy Durmaz,NA,NA,0
+7928,36500,Ola Toivonen,NA,NA,0
+65873,357117,Alban Lafont,-0.132215,0.0908455,456
+7862,160222,Uros Spajic,NA,NA,0
+7967,73457,Aleksandar Pesic,NA,NA,0
+7693,44686,Yannick Cahuzac,NA,NA,0
+9772,282041,Presnel Kimpembe,NA,NA,0
+7755,29241,Thiago Emiliano da Silva,NA,NA,0
+5275,126719,Juan Bernat Velasco,NA,NA,0
+14551,100986,Thomas Meunier,NA,NA,0
+6863,45184,Grzegorz Krychowiak,NA,NA,0
+7682,102558,Marco Verratti,NA,NA,0
+63726,348795,Giovani Lo Celso,NA,NA,0
+4912,85148,Julian Draxler,NA,NA,0
+77226,395516,Moussa Diaby,NA,NA,0
+66111,342229,Kylian Mbappe Lottin,NA,NA,0
+4413,45660,Eric Maxim Choupo-Moting,NA,NA,0
+4935,45672,Kevin Trapp,NA,NA,0
+7905,181767,Marquinhos,NA,NA,0
+66420,228948,Thilo Kehrer,NA,NA,0
+7475,126710,Layvin Kurzawa,NA,NA,0
+9461,166237,Leandro Daniel Paredes,-0.0825345,0.0948889,7
+66171,344381,Christopher Nkunku,NA,NA,0
+6726,68290,Neymar,NA,NA,0
+6598,134936,Jese,NA,NA,0
+3782,45320,Angel di Maria,NA,NA,0
+7828,48280,Edinson Cavani,NA,NA,0
+76973,370846,Timothy Weah,NA,NA,0
+7824,120629,Alphonse Areola,NA,NA,0
+7610,55215,Javier Pastore,NA,NA,0
+7355,127032,Serge Alain Stephane Aurier,NA,NA,0
+39307,225122,Goncalo Manuel Ganchinho Guedes,NA,NA,0
+7441,127160,Benjamin Stambouli,NA,NA,0
+7740,182913,Adrien Rabiot-Provost,NA,NA,0
+9756,77100,Lucas,NA,NA,0
+76033,282028,Remy Descamps,NA,NA,0
+5460,15951,Daniel Alves da Silva,NA,NA,0
+6205,23914,Lassana Diarra,NA,NA,0
+6281,61812,Yuri Berchiche Izeta,NA,NA,0
+52661,296802,Walter Benitez,NA,NA,0
+70786,344596,Malang Sarr,NA,NA,0
+4688,16136,Dante,NA,NA,0
+69296,323379,Racine Coly,NA,NA,0
+71817,318523,Romain Perraud,NA,NA,0
+74992,416108,Youcef Attal,NA,NA,0
+68349,157507,Adrien Tameze,NA,NA,0
+68331,377393,Pierre Lees Melou,NA,NA,0
+66110,322305,Jean-Victor Makengo,NA,NA,0
+70787,453597,Vincent Marcel,NA,NA,0
+7890,272642,Allan Saint-Maximin,-0.0819963,0.125251,51
+73751,371142,Myziane Maolida,NA,NA,0
+65576,241231,Yoan Cardinale,NA,NA,0
+68347,170544,Christopher Herelle,NA,NA,0
+62023,318508,Olivier Boscagli,NA,NA,0
+11964,273438,Danilo,NA,NA,0
+8012,182889,Wylan Cyprien,NA,NA,0
+68236,272631,Arnaud Lusamba,NA,NA,0
+70828,412095,Ihsan Sacko,NA,NA,0
+72565,401836,Bassem Srarfi,NA,NA,0
+65379,312862,Dalbert Henrique Chagas Estevao,NA,NA,0
+7308,111058,Arnaud Souquet,NA,NA,0
+3192,45146,Mario Barwuah Balotelli,NA,NA,0
+7908,215677,Mouez Hassen,NA,NA,0
+66235,249636,Gautier Lloris,NA,NA,0
+11787,178614,Jean Michael Seri,NA,NA,0
+65765,215686,Remi Walter,NA,NA,0
+7913,290532,Saïd Benrahma,NA,NA,0
+7763,167329,Alassane Plea,NA,NA,0
+65289,139018,Mickael Le Bihan,NA,NA,0
+66237,182814,Dorian Caddy,NA,NA,0
+70820,444725,Patrick Burner,NA,NA,0
+7193,28335,Christophe Jallet,NA,NA,0
+23654,127202,Matz Sels,NA,NA,0
+6818,143029,Stefan Mitrovic,NA,NA,0
+70862,351843,Yoann Salmier,NA,NA,0
+11409,11530,Lionel Jules Carole,NA,NA,0
+7637,174196,Kenny Lala,NA,NA,0
+68436,372712,Ibrahima Sissoko,NA,NA,0
+7476,127142,Jonas Martin,NA,NA,0
+70867,314940,Dimitri Lienard,NA,NA,0
+78894,422893,Moataz Zemzemi,NA,NA,0
+7589,154171,Benjamin Corgnet,NA,NA,0
+7461,111057,Idriss Saadi,NA,NA,0
+70842,283994,Ludovic Ajorque,NA,NA,0
+68286,333175,Bingourou Kamara,NA,NA,0
+70827,56294,Jeremy Grimm,NA,NA,0
+67858,111528,Anthony Goncalves,NA,NA,0
+7672,215977,Adrien Thomasson,NA,NA,0
+72587,427161,Lebo Mothiba,NA,NA,0
+68382,306166,Joia Nuno Da Costa,NA,NA,0
+64211,282900,Pablo Martinez,NA,NA,0
+70825,283136,Ernest Seka,NA,NA,0
+70826,232854,Abdallah N'Dour,NA,NA,0
+70836,178313,Jean Eudes Aholou,NA,NA,0
+7835,27941,Danijel Subasic,NA,NA,0
+4526,1667,Diego Orlando Benaglio,NA,NA,0
+71504,342202,Loïc Badiashile Mukinayi,NA,NA,0
+9117,46552,Kamil Jacek Glik,NA,NA,0
+73757,296422,Fode Ballo Toure,NA,NA,0
+7733,161869,Djibril Sidibe,NA,NA,0
+10935,99189,Pele,NA,NA,0
+15034,249565,Youri Tielemans,-0.0759397,0.129785,1933
+8037,262608,Adama Traore,NA,NA,0
+70872,182823,Jonathan Mexique,NA,NA,0
+50733,263918,Aleksandr Golovin,NA,NA,0
+9392,238752,Keita Balde Diao,NA,NA,0
+72373,331498,Jordi Mboula Queralt,NA,NA,0
+3635,46104,Stevan Jovetic,NA,NA,0
+71023,364133,Pietro Pellegri,-0.113266,0.102372,364
+72562,342226,Irvin Cardona,NA,NA,0
+72577,333694,Seydou Sy,NA,NA,0
+66758,258254,Jemerson de Jesus Nascimento,NA,NA,0
+9705,32213,Naldo,NA,NA,0
+65463,241889,Antonio Barreca,NA,NA,0
+77202,342216,Julien Serrano,NA,NA,0
+65307,202591,Benjamin Henrichs,NA,NA,0
+65875,410185,Ronael Pierre-Gabriel,NA,NA,0
+70791,342209,Kevin N'Doram,NA,NA,0
+2760,8806,Cesc Fabregas,NA,NA,0
+68359,265569,Youssef Ait Bennasser,NA,NA,0
+67246,432772,Samuel Grandsir,NA,NA,0
+65296,288496,Gabriel Boschilia,NA,NA,0
+3591,59631,Nacer Chadli,NA,NA,0
+75206,463620,Willem Geubbels,-0.0680032,0.161841,81
+7988,174694,Marcos Paulo Mesquita Lopes,NA,NA,0
+6540,39152,Falcao,NA,NA,0
+77201,460655,Moussa Sylla,NA,NA,0
+7893,28845,Andrea Raggi,NA,NA,0
+39222,229005,Abdou Diallo,NA,NA,0
+72574,345084,Jorge Marco de Oliveira Moraes,NA,NA,0
+7880,182618,Tiemoue Bakayoko,NA,NA,0
+7977,205562,Thomas Lemar,NA,NA,0
+6861,149716,Ivan Ricardo Neves Abreu Cavaleiro,NA,NA,0
+71191,329723,Gil Bastiao Dias,NA,NA,0
+52246,184672,Guido Marcelo Carrillo,NA,NA,0
+9760,157495,Benjamin Mendy,NA,NA,0
+45837,216181,Almamy Toure,NA,NA,0
+6710,225693,Fabinho,NA,NA,0
+7891,29364,Joao Moutinho,NA,NA,0
+8014,241641,Bernardo Mota Veiga de Carvalho e Silva,NA,NA,0
+14531,152651,Terence Kongolo,NA,NA,0
+7640,164913,Souahilo Meïte,NA,NA,0
+7764,118287,Rachid Ghezzal,NA,NA,0
+70788,453594,Adama Diakhaby,NA,NA,0
+65152,189744,Paul Nardi,NA,NA,0
+7822,190333,Fares Bahlouli,NA,NA,0
+7796,182877,Anthony Martial,NA,NA,0
+4800,108830,Aymen Abdennour,NA,NA,0
+65294,182906,Mike Maignan,NA,NA,0
+63621,258267,Adam Jakubech,NA,NA,0
+7934,126673,Adama Soumaoro,NA,NA,0
+72572,435338,Gabriel dos Santos Magalhaes,NA,NA,0
+7423,60583,Jeremy Pied,NA,NA,0
+71244,290256,Miguel Ângelo da Silva Rocha,NA,NA,0
+75570,344605,Boubakary Soumare,NA,NA,0
+78719,464990,Arton Zekaj,NA,NA,0
+73759,277635,Rominigue Kouame N'Guessan,NA,NA,0
+70807,324690,Nanitamo Jonathan Ikone,NA,NA,0
+73758,435485,Luiz de Araujo Guimaraes Neto,NA,NA,0
+68288,343052,Nicolas Pepe,NA,NA,0
+73765,415383,Kouakou Herve Koffi,NA,NA,0
+31703,191987,Edgar Ie,NA,NA,0
+3443,33829,Jose Fonte,NA,NA,0
+76027,503740,Kouadio Yves Dabila,NA,NA,0
+9766,274484,Youssouf Kone,NA,NA,0
+78718,251075,Mehmet Zeki Celik,NA,NA,0
+73756,135617,Thiago Henrique Mendes Ribeiro,NA,NA,0
+73760,294873,Thiago Maia Alencar,NA,NA,0
+7677,187847,Yassine Benzia,NA,NA,0
+39234,292818,Jonathan Bamba,NA,NA,0
+20988,183720,Anwar El-Ghazi,NA,NA,0
+76113,357164,Rafael Alexandre Conceicao Leao,NA,NA,0
+7580,17179,Marko Basa,NA,NA,0
+7839,37760,Vincent Enyeama,NA,NA,0
+6053,14949,Rio Antonio Zoba Mavuba,NA,NA,0
+7926,82324,Stoppila Sunzu,NA,NA,0
+7827,205503,Ibrahim Amadou,NA,NA,0
+7277,55409,Younousse Sankhare,NA,NA,0
+8049,77834,Marvin Martin,NA,NA,0
+65870,277268,Alexis Araujo,NA,NA,0
+7623,157500,Lenny Nangis,NA,NA,0
+7999,264567,Baptiste Guillaume,NA,NA,0
+7895,145416,Gadji Celi Carmel Junior Tallo,NA,NA,0
+11090,84481,Eder,NA,NA,0
+32479,273000,Junior Alonso,NA,NA,0
+70798,410425,Yves Bissouma,NA,NA,0
+72563,447221,Hamza Mendyl,NA,NA,0
+7469,126711,Kevin Malcuit,NA,NA,0
+39228,232271,Sofiane Boufal,NA,NA,0
+64202,270541,Sehrou Guirassy,NA,NA,0
+9759,72422,Mamadou Samassa,NA,NA,0
+83542,448632,Yehvann Diouf,NA,NA,0
+70855,213052,Jimmy Giraudon,NA,NA,0
+40168,254358,Johann Obiang,NA,NA,0
+7777,127128,Mathieu Deplagne,NA,NA,0
+65867,275361,Karim Azamoum,NA,NA,0
+7882,170938,Bryan Pele,NA,NA,0
+7416,33927,Benjamin Nivet,NA,NA,0
+8030,75282,Francois Bellugou,NA,NA,0
+7847,55237,Oswaldo Augusto Vizcarrondo Araujo,NA,NA,0
+66238,394906,Charles Traore,NA,NA,0
+67819,106225,Jeremy Cordoval,NA,NA,0
+66230,292820,Alois Confais,NA,NA,0
+7723,14951,Stephane Darbion,NA,NA,0
+7011,5597,Chaouki Ben Saada,NA,NA,0
+45834,253842,Adama Niane,NA,NA,0
+7222,120760,Jonathan Tinhan,NA,NA,0
+64207,318507,Paul Bernardoni,NA,NA,0
+64208,157494,Mory Kone,NA,NA,0
+27787,146714,Tomas Koubek,NA,NA,0
+75567,288237,Jeremy Gelin,NA,NA,0
+71095,296356,Souleyman Doumbia,NA,NA,0
+23746,297070,Hamari Traore,NA,NA,0
+7572,84301,Benjamin Andre,NA,NA,0
+7292,72479,Clement Grenier,NA,NA,0
+73789,288248,Denis Will Poha,NA,NA,0
+65869,353399,Romain Del Castillo,NA,NA,0
+3771,120610,Diafra Sakho,NA,NA,0
+6683,251680,Brandon Thomas Llamas,NA,NA,0
+7970,57370,Damien Da Silva,NA,NA,0
+75205,378953,Gerzino Nyamsi,NA,NA,0
+23809,284732,Ramy Bensebaini,NA,NA,0
+85094,391921,Namakoro Diallo,NA,NA,0
+7994,266359,Benjamin Bourigeaud,NA,NA,0
+72559,346291,James Edward Lea Siliki,NA,NA,0
+2011,46473,Jakob Johansson,NA,NA,0
+66116,324803,Nicolas Janvier,NA,NA,0
+75219,394328,Rafik Guitane,NA,NA,0
+7881,203507,Adrien Hunou,NA,NA,0
+70784,410225,Ismaïla Sarr,NA,NA,0
+39238,355369,Theoson Jordan Siebatcheu,NA,NA,0
+72569,272644,Jordan Tell,NA,NA,0
+7347,126681,Abdoulaye Diallo,NA,NA,0
+7137,39906,Romain Danze,NA,NA,0
+42042,229292,Edvinas Gertmonas,NA,NA,0
+8005,127610,Mexer,NA,NA,0
+7066,39913,Ludovic Baal,NA,NA,0
+7909,118303,Mehdi Zeffane,NA,NA,0
+8002,334006,Anthony Ribelin,NA,NA,0
+3637,39883,Morgan Amalfitano,NA,NA,0
+9386,72857,Pedro Filipe Teodosio Mendes,NA,NA,0
+66236,378954,Joris Gnagnon,NA,NA,0
+39305,237000,Afonso Mendes Ribeiro Figueiredo,NA,NA,0
+7116,43458,Clement Chantome,NA,NA,0
+3535,160080,Yacouba Sylla,NA,NA,0
+66413,288251,Sebastien Salles Lamonge,NA,NA,0
+7936,37920,Kamil Grosicki,NA,NA,0
+7888,182916,Wesley Saïd,NA,NA,0
+7592,22628,Benoit Costil,NA,NA,0
+85730,452803,Over Mandanda,NA,NA,0
+63537,264140,Vukasin Jovanovic,NA,NA,0
+7470,43256,Paul Baysse,NA,NA,0
+7685,126528,Maxime Poundje,NA,NA,0
+73767,312314,Otavio Henrique Passos Santos,NA,NA,0
+12406,167105,Lukas Reiff Lerager,NA,NA,0
+66120,225004,Valentin Vada,NA,NA,0
+63719,381348,Daniel Mancini,NA,NA,0
+65192,347100,Jonathan Renato Barbosa,NA,NA,0
+7798,122116,Nicolas de Preville,NA,NA,0
+5316,18909,Jimmy Briand,NA,NA,0
+64368,238720,Jerome Prior,NA,NA,0
+83668,344591,Gaetan Poussin,NA,NA,0
+76025,411975,Jules Kounde,NA,NA,0
+65287,149577,Pablo Nascimento Castro,NA,NA,0
+7830,135492,Youssouf Sabaly,NA,NA,0
+13105,245030,Milan Gajic,NA,NA,0
+64325,334835,Toma Basic,NA,NA,0
+7981,333802,Francois Kamano,NA,NA,0
+71491,424051,Samuel Kalu Ojim,NA,NA,0
+70816,471582,Zaydou Youssouf,NA,NA,0
+66119,181378,Gaetan Laborde,NA,NA,0
+64702,290561,Alexandre Mendy,NA,NA,0
+70773,453824,Josh Maja,NA,NA,0
+6032,8885,Jaroslav Plasil,NA,NA,0
+17692,63265,Igor Lewczuk,NA,NA,0
+7959,187392,Thomas Toure,NA,NA,0
+66412,323704,Malcom Filipe Silva de Oliveira,NA,NA,0
+7802,193938,Diego Rolan,NA,NA,0
+2280,201311,Isaac Kiese Thelin,NA,NA,0
+9780,291140,Cedric Yambere,NA,NA,0
+7924,238716,Theo Pellenard,NA,NA,0
+61818,354352,Frederic Guilbert,NA,NA,0
+65303,400485,Adam Ounas,NA,NA,0
+7547,16993,Jeremy Menez,NA,NA,0
+7929,291110,Enzo Crivelli,NA,NA,0
+76032,395602,Alexandre Olliero,NA,NA,0
+64465,329145,Diego Carlos Santos Silva,NA,NA,0
+7946,183031,Koffi Djidji,NA,NA,0
+73763,270051,Andrei Girotto,NA,NA,0
+9775,332889,Valentin Rongier,NA,NA,0
+9734,270188,Lucas Evangelista,NA,NA,0
+23784,184935,Kalifa Coulibaly,NA,NA,0
+75568,174089,Santy N' Gom,NA,NA,0
+80316,487969,Randal Kolo Muani,NA,NA,0
+7942,127188,Maxime Dupe,NA,NA,0
+84499,390942,Quentin Braat,NA,NA,0
+7408,139279,Nicolas Pallois,NA,NA,0
+64455,182323,Lucas Pedro Alves De Lima,NA,NA,0
+2776,61891,Fabio,NA,NA,0
+9758,181382,Abdoulaye Toure,NA,NA,0
+73761,353403,Samuel Moutoussamy,NA,NA,0
+65864,228999,Alexis Alegue Elandi,NA,NA,0
+14155,140803,Anthony Limbombe Ekango,-0.0777549,0.103957,129
+11859,129586,Joris Kayembe Ditu,NA,NA,0
+12350,201497,Nicolaj Thomsen,NA,NA,0
+30728,69246,Nguimbe Prejuce Nakoulma,NA,NA,0
+7997,276255,Yacine Bammou,NA,NA,0
+67247,247300,Anthony Walongwa,NA,NA,0
+64370,288241,Enock Kwateng,NA,NA,0
+3398,51040,Alexander Kacaniklic,NA,NA,0
+14164,52246,Kolbeinn Sigthorsson,NA,NA,0
+8003,190780,Emiliano Sala,NA,NA,0
+41929,210363,Mariusz Stepinski,-0.15329,0.0488096,184
+14759,55282,Ciprian Tatarusanu,NA,NA,0
+13585,90368,Yassine El Ghanassy,NA,NA,0
+1970,111783,Alejandro Bedoya,NA,NA,0
+7991,182894,Jean-Philippe Gbamin,NA,NA,0
+7149,23951,Steve Mandanda,NA,NA,0
+39355,238266,Duje Caleta-Car,NA,NA,0
+7297,81386,Gregory Sertic,NA,NA,0
+75423,394327,Boubacar Kamara,NA,NA,0
+7843,241229,Jordan Amavi,NA,NA,0
+5108,83002,Hiroki Sakai,NA,NA,0
+7896,174094,Morgan Sanson,NA,NA,0
+68209,270411,Saif-Eddine Khaoui,NA,NA,0
+7001,37647,Dimitri Payet,NA,NA,0
+69875,245078,Nemanja Radonjic,NA,NA,0
+75207,517376,Yusuf Sari,NA,NA,0
+3698,34944,Konstantinos Mitroglou,NA,NA,0
+7537,60540,Valere Germain,NA,NA,0
+7261,6270,Yohann Pele,NA,NA,0
+6497,51118,Adil Rami,NA,NA,0
+9767,190685,Bouna Sarr,NA,NA,0
+4572,10471,Luiz Gustavo,NA,NA,0
+9381,68864,Kevin Strootman,NA,NA,0
+70792,290862,Maxime Lopez,NA,NA,0
+7837,189441,Lucas Ariel Ocampos,NA,NA,0
+7694,184892,Florian Thauvin,NA,NA,0
+7770,241119,Clinton Mua N'Jie,NA,NA,0
+3514,182579,Karim Rekik,-0.0433903,0.164804,29
+9321,27300,Rolando,NA,NA,0
+3752,113707,Remy Cabella,NA,NA,0
+7728,98334,Romain Alessandrini,NA,NA,0
+13604,63252,Tomas Hubocan,NA,NA,0
+65213,213841,Matheus Doria Macedo,NA,NA,0
+7368,6803,Henri Bedimo,NA,NA,0
+65297,354361,Andre-Frank Zambo Anguissa,NA,NA,0
+80565,222636,Florian Escales,NA,NA,0
+7856,215679,Georges-Kevin N'Koudou,NA,NA,0
+7982,179184,Michy Batshuayi,NA,NA,0
+7813,60561,Anthony Lopes,NA,NA,0
+3530,57480,Mapou Yanga Mbiwa,NA,NA,0
+80681,463665,Oumar Solet Bomawoko,NA,NA,0
+68318,291417,Ferland Mendy,NA,NA,0
+62708,236400,Leo Dubois,NA,NA,0
+45850,206746,Kenny Tete,NA,NA,0
+30966,248054,Christopher Martins Pereira,NA,NA,0
+72571,395693,Houssem Aouar,NA,NA,0
+7774,118284,Jordan Ferri,NA,NA,0
+39233,234781,Gnaly Maxwell Cornet,-0.143998,0.0568836,350
+31838,225020,Mariano Diaz,NA,NA,0
+75572,418659,Amine Gouiri,NA,NA,0
+7917,60543,Mathieu Gorgelin,NA,NA,0
+5201,52920,Marcelo,NA,NA,0
+20979,277114,Jason Denayer,NA,NA,0
+11551,137745,Marcal,NA,NA,0
+2994,61892,Rafael,NA,NA,0
+66113,353948,Lucas Tousart,NA,NA,0
+78050,395695,Elisha Owusu,NA,NA,0
+70871,450936,Tanguy NDombele Alvaro,NA,NA,0
+7886,203496,Nabil Fekir,NA,NA,0
+70812,442891,Martin Terrier,NA,NA,0
+22426,131996,Bertrand Traore,-0.153346,0.0576232,32
+14949,167850,Memphis Depay,NA,NA,0
+3665,229004,Moussa Dembele,NA,NA,0
+75801,418660,Lenny Pintor,NA,NA,0
+7391,93720,Alexandre Lacazette,NA,NA,0
+52776,275512,Emanuel Mammana,NA,NA,0
+7163,23960,Jeremy Morel,NA,NA,0
+15983,59597,Maciej Rybus,NA,NA,0
+7020,60577,Nicolas Alexis Julio N'Koulou Ndoubena,NA,NA,0
+6722,142021,Sergi Darder Moll,NA,NA,0
+7845,190393,Corentin Tolisso,NA,NA,0
+66581,243725,Olivier Michel Kemen,NA,NA,0
+65288,292822,Aldo Kalulu Kyatengwa,NA,NA,0
+70793,346289,Mouctar Diakhaby,NA,NA,0
+7650,126540,Samuel Umtiti,NA,NA,0
+7962,191056,Brice Samba,NA,NA,0
+39218,250844,Alexander Djiku,NA,NA,0
+7859,60578,Prince Oniangue,NA,NA,0
+7898,171557,Baissama Sankoh,NA,NA,0
+23611,208542,Stef Peeters,NA,NA,0
+73754,416168,Bel Durel Avounou,NA,NA,0
+75571,539232,Jessy Deminguet,NA,NA,0
+37747,392810,Rodrigue Casimir Ninga,NA,NA,0
+73785,412085,Malik Tchokounte,NA,NA,0
+67972,77395,Erwin Zelazny,NA,NA,0
+73755,230066,Adama Mbengue,NA,NA,0
+75566,548716,Yoel Armougom,NA,NA,0
+68214,126557,Jonathan Gradit,NA,NA,0
+71682,245083,Jan Repas,NA,NA,0
+73716,363717,Timo Stavitski,NA,NA,0
+68130,182312,Pape Sane,NA,NA,0
+70815,170979,Paul Reulet,NA,NA,0
+7641,170495,Ismael Diomande,NA,NA,0
+7889,149551,Jonathan Delaplace,NA,NA,0
+66411,230221,Christian Kouakou Yao,NA,NA,0
+7581,76055,Sylvio Ronny Rodelin,NA,NA,0
+5039,45832,Ivan Santini,NA,NA,0
+7699,57525,Romain Genevois,NA,NA,0
+7971,74709,Emmanuel Imorou,NA,NA,0
+7904,178540,Chaker Alhadhur,NA,NA,0
+6390,33914,Mouhamadou Dabo,NA,NA,0
+7722,164451,Jeff Louis,NA,NA,0
+70782,324804,Yann Karamoh,NA,NA,0
+82319,390548,Valentin Voisin,NA,NA,0
+67887,39918,Regis Gurtner,NA,NA,0
+70858,410059,Bakaye Dibassy,NA,NA,0
+70847,192492,Jordan Lefort,NA,NA,0
+68116,127182,Thomas Monconduit,NA,NA,0
+38230,240892,Bongani Zungu,NA,NA,0
+53477,191895,Rafal Kurzawa,NA,NA,0
+9357,192774,Moussa Konate,NA,NA,0
+49138,204294,Saman Ghoddos,NA,NA,0
+7377,57134,Matthieu Dreyer,NA,NA,0
+11892,171410,Prince Gouano,NA,NA,0
+37021,39174,Khaled Adenon,NA,NA,0
+70849,283127,Oualid El Hajjam,NA,NA,0
+7072,27305,Mathieu Bodmer,NA,NA,0
+66890,131101,John Stiven Mendoza Valencia,NA,NA,0
+72008,332305,Juan Ferney Otero Tovar,NA,NA,0
+68260,315054,Seybou Koita,NA,NA,0
+70848,419999,Guessouma Fofana,NA,NA,0
+68138,268555,Harisson Manzala,NA,NA,0
+64880,238630,Quentin Cornette,NA,NA,0
+20585,205657,Runar Alex Runarsson,NA,NA,0
+18906,22338,Laurent Ciman,NA,NA,0
+72575,441170,Valentin Rosier,NA,NA,0
+68335,172153,Mickael Alphonse,NA,NA,0
+77554,581781,Enzo Loiodice,NA,NA,0
+68015,184491,Naïm Sliti,NA,NA,0
+64915,259350,Chang-Hoon Kwon,NA,NA,0
+38105,216426,Julio Tavares,NA,NA,0
+72319,355689,Sory Kaba,NA,NA,0
+7663,154199,Wesley Lautoa,NA,NA,0
+79031,361914,Naif Aguerd,NA,NA,0
+68074,216499,Fouad Chafik,NA,NA,0
+19789,137841,Romain Amalfitano,NA,NA,0
+68125,231025,Jordan Marie,NA,NA,0
+7160,5348,Florent Balmont,NA,NA,0
+7466,80173,Frederic Sammaritano,NA,NA,0
+7520,111048,Benjamin Jeannot,NA,NA,0
+21722,168088,Adam Lang,NA,NA,0
+40163,57358,Arnold Bouka Moutou,NA,NA,0
+72561,191407,Oussama Haddadi,NA,NA,0
+68113,126552,Loïs Diony,NA,NA,0
+8024,124901,Benjamin Leroy,NA,NA,0
+80319,314862,Bobby Allain,NA,NA,0
+68025,199704,Younis Abdelhamid,NA,NA,0
+9648,111036,Mehdi Abeid,NA,NA,0
+7484,127181,Benjamin Lecomte,NA,NA,0
+4782,59950,Damien Vincent Denis Le Tallec,NA,NA,0
+40188,184922,Ambroise Oyongo Bitolo,NA,NA,0
+68238,203746,Ruben Aguilar,NA,NA,0
+68269,335147,Salomon Sambia,NA,NA,0
+68305,260806,Isaac Mbenza,NA,NA,0
+7105,5303,Souleymane Camara,NA,NA,0
+75573,485965,Nicolas Louis Marcel Cozza,NA,NA,0
+7266,4811,Hilton,NA,NA,0
+63539,271455,Mihailo Ristic,NA,NA,0
+70800,272640,Morgan Poaty,NA,NA,0
+80794,294895,Mathias Sebastian Suarez Suarez,NA,NA,0
+59674,290587,Ellyes Skhiri,NA,NA,0
+7597,93726,Paul Bastien Lasne,NA,NA,0
+72560,234006,Keagan Dolly,NA,NA,0
+5023,76293,Giovanni-Guy Yann Sio,NA,NA,0
+7772,127140,Jonathan Ligali,NA,NA,0
+68290,348026,Nordi Mukiele Mulere,NA,NA,0
+64218,238639,Steve Mounie,NA,NA,0
+7025,22386,Daniel Congre,NA,NA,0
+28047,279529,Lukas Pokorny,NA,NA,0
+7671,127076,Jerome Roussillon,NA,NA,0
+7096,77826,Ryad Boudebouz,NA,NA,0
+8013,290872,Jeremie Porsan-Clemente,-0.0658301,0.139301,15
+68408,411379,Killian Sanson,NA,NA,0
+7918,290559,Anthony Mandrea,-0.105005,0.103974,39
+8039,57216,Ismael Traore,NA,NA,0
+68279,341393,Ibrahim Cisse,NA,NA,0
+7612,62351,Abdoulaye Bamba,NA,NA,0
+7620,126699,Vincent Pajot,NA,NA,0
+68298,250013,Angelo Fulgini,NA,NA,0
+64220,214532,Pierrick Capelle,NA,NA,0
+79029,425400,Farid El Melali,NA,NA,0
+66232,93730,Alexandre Letellier,NA,NA,0
+5797,12029,Jean Ludovic Butelle,NA,NA,0
+64214,57467,Romain Thomas,NA,NA,0
+5152,69436,Mateo Pavlovic,NA,NA,0
+67324,410238,El Hadji Pape Djibril Diaw,NA,NA,0
+296,149444,Saliou Ciss,NA,NA,0
+64215,83132,Vincent Manceau,NA,NA,0
+68194,285323,Baptiste Santamaria,NA,NA,0
+7032,18934,Thomas Mangani,NA,NA,0
+70768,326300,Jeff Reine-Adelaide,NA,NA,0
+64205,386552,Lassana Coulibaly,NA,NA,0
+68129,202278,Flavien Tait,NA,NA,0
+7545,170953,Stephane Bahoken,NA,NA,0
+10705,114282,Cristian Lopez,NA,NA,0
+73768,395523,Wilfried Aka Kanga,NA,NA,0
+68182,193142,Mathieu Michel,NA,NA,0
+7013,92385,Yoann Andreu,NA,NA,0
+39511,134712,Billy Vilayphone Ketkeophomphone,NA,NA,0
+68245,237125,Famara Diedhiou,NA,NA,0
+67993,170916,Loic Puyo,NA,NA,0
+7708,126542,Mohamed Lamine Yattara,NA,NA,0
+70852,442531,Edouard Mendy,NA,NA,0
+72585,373939,Nicolas Lemaitre,NA,NA,0
+68079,80036,Thomas Fontaine,NA,NA,0
+71251,422850,Ghislain Konan,NA,NA,0
+7147,40014,Jacques-Alaixys Romao,NA,NA,0
+68078,118278,Xavier Chavalerin,NA,NA,0
+66415,396131,Aly Ndom,NA,NA,0
+82912,290746,Moreto Moro Cassama,NA,NA,0
+2496,222876,Arber Zeneli,NA,NA,0
+11692,129990,Hyun-Jun Suk,NA,NA,0
+61920,321647,Grejohn Kiey,NA,NA,0
+68409,386047,Axel Disasi,NA,NA,0
+66122,290017,Hassane Kamara,NA,NA,0
+19477,215114,Thomas Foket,NA,NA,0
+73817,522791,Sambou Sissoko,NA,NA,0
+23812,276768,Nolan Mbemba,NA,NA,0
+23800,126683,Tristan Dingome,NA,NA,0
+68263,215676,Gregory Berthier,NA,NA,0
+70794,399383,Mathieu Cafaro,NA,NA,0
+21860,316137,Moussa Doumbia,NA,NA,0
+70863,399543,Remi Oudin,NA,NA,0
+7501,57367,Johann Carrasso,NA,NA,0
+65871,127151,Hugo Rodriguez,NA,NA,0
+2095,112822,Karl-Johan Johnsson,NA,NA,0
+68042,205465,Marc-Aurele Caillard,NA,NA,0
+75204,296359,Felix Eboa Eboa,NA,NA,0
+7414,56820,Jeremy Sorbon,NA,NA,0
+69945,197860,Pedro Miguel Braga Rebocho,NA,NA,0
+2030,140678,Johan Erik Larsson,NA,NA,0
+73770,378965,Cheick Omar Traore,NA,NA,0
+66114,288225,Ludovic Blas,NA,NA,0
+68309,318528,Marcus Thuram,NA,NA,0
+7985,111053,Yeni Atito N'Gbakoto,NA,NA,0
+7866,138049,Christophe Kerbrat,NA,NA,0
+72588,413118,Sikou Niakate,NA,NA,0
+68179,157491,Jordan Ikoko,NA,NA,0
+12394,253316,Lebogang Phiri,NA,NA,0
+38160,210081,Didier Ndong Ibrahim,NA,NA,0
+73773,452877,Mehdi Merghem,NA,NA,0
+7831,164230,Nicolas Benezet,NA,NA,0
+39239,353365,Marcus Regis Coco,NA,NA,0
+68390,386315,Nathael Julan,NA,NA,0
+19816,52746,Nill de Pauw,NA,NA,0
+7875,57372,Lucas Deaux,NA,NA,0
+7028,5672,Etienne Didot,NA,NA,0
+39224,79893,Yannis Salibur,NA,NA,0
+7034,66413,Franck Tabanou,NA,NA,0
+64371,28356,Denis Petric,NA,NA,0
+7474,60588,Abdoul Razzagui Camara,NA,NA,0
+45833,255220,Romain Philippoteaux,NA,NA,0
+2076,146805,Abdul Majeed Waris,NA,NA,0
+67806,81543,Paul Delecroix,NA,NA,0
+7785,135490,Lindsay Rose,NA,NA,0
+7130,81663,Zargo Toure,NA,NA,0
+7389,111026,Mathieu Peybernes,NA,NA,0
+8022,120651,Vincent Le Goff,NA,NA,0
+11410,168536,Alhassan Wakaso,NA,NA,0
+7786,206912,Jimmy Cabot,NA,NA,0
+3334,39909,Sylvain Marveaux,NA,NA,0
+672,240497,Moryke Fofana,NA,NA,0
+64878,236045,Denis Bouanga,NA,NA,0
+8010,236414,Valentin Lavigne,NA,NA,0
+7207,27490,Jean-Louis Leca,NA,NA,0
+7741,44688,Gilles Cioni,NA,NA,0
+9755,178019,Abdoulaye Keita,NA,NA,0
+64374,149239,Thomas Vincensini,NA,NA,0
+68045,170962,Nicolas Saint-Ruf,NA,NA,0
+3688,181477,Thievy Guivane Bifouma Koulossa,NA,NA,0
+14577,126413,Jerson Cabral,NA,NA,0
+49899,58826,Jean-Pascal Fontaine,NA,NA,0
+22342,124884,Marco Bizot,NA,NA,0
+16400,60971,Stijn Wuytens,NA,NA,0
+66145,144244,Pantelis Hatzidiakos,NA,NA,0
+72636,332377,Henri Weigelt,NA,NA,0
+72734,339328,Owen Wijndal,NA,NA,0
+465,136184,Jonas Svensson,NA,NA,0
+75311,360518,Teun Koopmeiners,NA,NA,0
+493,136180,Fredrik Midtsjo,NA,NA,0
+77621,315233,Mees Hoedemakers,NA,NA,0
+71145,372267,Guus Til,NA,NA,0
+72739,276135,Jeremy Helmer,NA,NA,0
+66149,241391,Oussama Idrissi,NA,NA,0
+69894,305947,Albert Gudmundsson,NA,NA,0
+44312,250686,Bjorn Maars Johnsen,NA,NA,0
+28106,265051,Ondrej Mihalik,NA,NA,0
+86761,342012,Rody de Boer,NA,NA,0
+3408,30697,Ron Peter Vlaar,NA,NA,0
+78758,228478,Leon Bergsma,NA,NA,0
+66144,241477,Thomas Ouwejan,NA,NA,0
+20606,59594,Marko Vejinovic,NA,NA,0
+22279,187809,Mats Seuntjens,NA,NA,0
+73963,460939,Tijani Reijnders,NA,NA,0
+22402,160431,Iliass Bel Hassani,NA,NA,0
+72744,409344,Calvin Stengs,NA,NA,0
+761,282783,Imoh Fred Friday,NA,NA,0
+77620,412932,Myron Boadu,NA,NA,0
+20808,182582,Joris van Overeem,NA,NA,0
+22499,241500,Dabney dos Santos Souza,NA,NA,0
+22003,61846,Rens van Eijden,NA,NA,0
+22387,80671,Jop van der Linden,NA,NA,0
+21866,64506,Ben Rienstra,NA,NA,0
+3679,198513,Muamer Tankovic,NA,NA,0
+22372,213268,Alireza Jahanbakhsh,NA,NA,0
+22458,228645,Wout Weghorst,NA,NA,0
+14605,124883,Ricardo van Rhijn,NA,NA,0
+64287,207015,Vincent Janssen,NA,NA,0
+78737,81173,Janis Blaswich,NA,NA,0
+91917,335027,Koen Bucker,NA,NA,0
+75320,235274,Dario Van den Buijs,NA,NA,0
+70931,86204,Stephen Sama,NA,NA,0
+19139,63356,Tim Brokhof-Breukers,NA,NA,0
+75817,124084,Sebastian Jakubiak,NA,NA,0
+71155,443308,Reuven Niemeijer,NA,NA,0
+64410,273431,Mohammed Osman,NA,NA,0
+64408,232219,Brandley Kuwas,NA,NA,0
+80419,315140,Joey Konings,NA,NA,0
+64397,202788,Robin Propper,NA,NA,0
+78738,158052,Maximilian Rossmann,NA,NA,0
+80824,315138,Mats Knoester,NA,NA,0
+39291,263555,Jeff Hardeveld,NA,NA,0
+21734,187301,Yoell van Nieff,NA,NA,0
+9118,86926,Alexander Merkel,NA,NA,0
+21867,143155,Jesper Drost,NA,NA,0
+22481,186704,Kristoffer Paul Peterson,NA,NA,0
+78911,386164,Silvester van der Water,NA,NA,0
+44644,288228,Adrian Dalmau,NA,NA,0
+66598,411287,Justin Hoogma,NA,NA,0
+22377,71082,Wout Droste,NA,NA,0
+22243,196158,Brahim Darri,-0.148423,0.0432155,1
+15023,92842,Lerin Duarte,NA,NA,0
+64403,273054,Vincent Vermeij,NA,NA,0
+22461,83951,Dries Wuytens,NA,NA,0
+72738,447827,Tim van de Berg,NA,NA,0
+65351,272930,Jamiro Gregory Monteiro Alvarenga,NA,NA,0
+22417,75221,Harm Zeinstra,NA,NA,0
+21863,57328,Bart van Hintum,NA,NA,0
+22097,33671,Robert Zwinkels,NA,NA,0
+80696,206743,Mike Havekotte,NA,NA,0
+22316,151494,Tom Beugelsdijk,NA,NA,0
+75822,446248,Shaquille Pinas,NA,NA,0
+22239,56836,Aaron Meijers,NA,NA,0
+71886,339323,Hennos Asmelash,NA,NA,0
+22309,84405,Dion Malone,NA,NA,0
+12490,56534,Donny Gorter,NA,NA,0
+45820,88968,Abdenasser El Khayati,NA,NA,0
+17684,67220,Erik Falkenburg,NA,NA,0
+75319,342240,Thijmen Goppel,NA,NA,0
+13187,39665,Tomas Necid,NA,NA,0
+73946,435088,Delano Ladan,NA,NA,0
+70184,241389,Indy Groothuizen,NA,NA,0
+22423,163663,Serge Wilfried Kanon,NA,NA,0
+75820,159032,Nick Kuipers,NA,NA,0
+22351,250440,Danny Bakker,NA,NA,0
+75825,517619,Mats van Kins,NA,NA,0
+14527,56371,Alexander Immers,NA,NA,0
+22018,35527,John Goossens,NA,NA,0
+22298,229228,Elson Hooi,NA,NA,0
+71149,295764,Achraf El Mahdioui,NA,NA,0
+39292,188888,Sheraldo Becker,NA,NA,0
+64221,72505,Thomas Meißner,NA,NA,0
+66443,350193,Dennis van der Heijden,NA,NA,0
+71885,342013,Trevor David,NA,NA,0
+5220,143121,Melvyn Lorenzen,NA,NA,0
+22480,187188,Bas Edo Kuipers,NA,NA,0
+20815,159026,Ricardo Kishna,NA,NA,0
+66140,43249,Marco van Duin,NA,NA,0
+12305,78818,Dario Dumic,NA,NA,0
+22288,220896,Robin Buwalda,NA,NA,0
+71115,117484,Julian von Haacke,NA,NA,0
+90880,355861,Arnaut Danjuma,NA,NA,0
+2557,308552,Carl Henrik Jordan Larsson,NA,NA,0
+71114,189231,Stefan Mauk,NA,NA,0
+7673,198473,Kevin Mayi,NA,NA,0
+14162,30290,Kenneth Harold Vermeer,NA,NA,0
+39296,288253,Jerry St. Juste,NA,NA,0
+19445,45538,Jan-Arie van der Heijden,NA,NA,0
+20804,228444,Ridgeciano Haps,NA,NA,0
+49208,258364,Calvin Verdonk,NA,NA,0
+65354,257987,Bart Nieuwkoop,NA,NA,0
+22448,277137,Renato Tapia,NA,NA,0
+22344,182573,Yassine Ayoub,NA,NA,0
+20967,182574,Jean-Paul Boetius,NA,NA,0
+62033,276002,Emil Hansson,-0.173484,0.0253598,5
+14089,129554,Steven Berghuis,NA,NA,0
+4866,100399,Nicolai Jorgensen,NA,NA,0
+75309,369319,Dylan Vente,NA,NA,0
+73965,315121,Justin Bijlow,NA,NA,0
+20691,256718,Sven van Beek,NA,NA,0
+21688,56601,Eric Fernando Botteghin,NA,NA,0
+78813,420210,Lutsharel Geertruida,NA,NA,0
+75698,339340,Tyrell Malacia,NA,NA,0
+14530,182581,Tonny Vilhena,NA,NA,0
+22500,287579,Sofyan Amrabat,NA,NA,0
+18283,134999,Jens Toornstra,NA,NA,0
+1853,159668,Sam Larsson,NA,NA,0
+78757,512385,Luis Fernando Sinisterra Lucumi,NA,NA,0
+20977,205006,Rick Karsdorp,NA,NA,0
+2370,255474,Simon Gustafson,NA,NA,0
+22483,111180,Warner Hahn,NA,NA,0
+3793,4042,Bradley Scott Jones,NA,NA,0
+39361,221766,Lucas Woudenberg,NA,NA,0
+3411,25523,Karim El Ahmadi Al Aroos,NA,NA,0
+67301,264857,Jari Schuurman,NA,NA,0
+21849,224256,Bilal Basacikoglu,NA,NA,0
+72748,322985,Gustavo Hamer,NA,NA,0
+2764,4380,Robin van Persie,NA,NA,0
+65350,333640,Joel Drommel,NA,NA,0
+61820,263553,Peet Bijen,NA,NA,0
+14144,190048,Dejan Trajkovski,NA,NA,0
+22347,92738,Mateusz Klich,NA,NA,0
+5156,175709,Stefan Thesker,NA,NA,0
+64417,328959,Jeroen van der Lely,NA,NA,0
+19378,232500,Tim Holscher,NA,NA,0
+3486,57275,Oussama Assaidi,NA,NA,0
+73966,277242,Jorn Brondeel,NA,NA,0
+65126,214078,Richard Jensen,NA,NA,0
+63797,237673,Nikola Gjorgjev,NA,NA,0
+3324,76560,Haris Vuckic,NA,NA,0
+23622,124863,Tom Boere,NA,NA,0
+61778,308356,Michael Madionis Mateo Maria,NA,NA,0
+17168,17057,Michael Liendl,NA,NA,0
+69844,249157,Fredrik Jensen,NA,NA,0
+72743,406891,Dylan George,NA,NA,0
+22864,240778,Marko Kvasina,NA,NA,0
+71121,195546,Roy Kortsmit,NA,NA,0
+72753,288259,Michael Verrips,NA,NA,0
+71123,354340,Rick van Drongelen,NA,NA,0
+41750,130280,Janne Saksela,NA,NA,0
+71132,315211,Sherel Floranus,NA,NA,0
+22378,84907,Mart Dijkstra,NA,NA,0
+45853,241501,Stijn Spierings,NA,NA,0
+71136,77147,Thomas Verhaar,NA,NA,0
+72749,337669,Ilias Alhaft,NA,NA,0
+22396,129991,Bart Vriends,NA,NA,0
+71122,321528,Denzel Dumfries,NA,NA,0
+71126,214798,Craig Goodwin,NA,NA,0
+22451,73504,Sander Fischer,NA,NA,0
+12357,135209,Frederik Lucas Holst,NA,NA,0
+72750,416380,Ragnar Ache,NA,NA,0
+64225,123520,Benjamin van Leer,NA,NA,0
+64229,269585,Daryl Werker,NA,NA,0
+22384,56375,Mohamed El Makrini,NA,NA,0
+22012,56381,Adil Auassar,NA,NA,0
+22291,213671,Mitchel Paulissen,NA,NA,0
+22410,174248,Gyliano van Velzen,NA,NA,0
+22365,169334,Henk Dijkhuizen,NA,NA,0
+41659,190811,Ognjen Gnjatic,NA,NA,0
+18920,120192,Stefan Savic,NA,NA,0
+68395,208516,Celestin Djim Ndogo,NA,NA,0
+47273,93637,Mario Engels,NA,NA,0
+18750,110727,Jannes Vansteenkiste,NA,NA,0
+12329,78819,David Raagaard Jensen,NA,NA,0
+2276,142208,Emil Bergstrom,NA,NA,0
+18279,60317,Ramon Leeuwin,NA,NA,0
+68096,182816,Nicolas Gavory,NA,NA,0
+22435,268113,Sean Klaiber,NA,NA,0
+17373,128042,Mark van der Maarel,NA,NA,0
+62714,94768,Rico Strieder,NA,NA,0
+3536,20586,Urby Vitorrio Diego Emanuelson,NA,NA,0
+65602,317593,Patrick Joosten,NA,NA,0
+21915,317806,Cyriel Dessers,NA,NA,0
+72737,420187,Nick Venema,NA,NA,0
+14136,19409,Willem Janssen,NA,NA,0
+66419,201135,Leon Guwara,NA,NA,0
+62772,360514,Giovanni Troupee,NA,NA,0
+62715,179638,Lukas Gortler,NA,NA,0
+20060,190222,Alexander Gerard van de Streek,NA,NA,0
+22489,268112,Gyrano Kerk,NA,NA,0
+7526,164897,Jean-Christophe Bahebeck,NA,NA,0
+9511,87162,Simon Makienok Christoffersen,NA,NA,0
+71117,203939,Robin van der Meer,NA,NA,0
+45856,326701,Bart Ramselaar,NA,NA,0
+11627,123349,Zakaria Labyad,-0.0399298,0.116124,65
+39294,181375,Sebastien Haller,NA,NA,0
+18900,158104,Nick Marsman,NA,NA,0
+22214,185566,Anouar Kali,NA,NA,0
+21889,241324,Bilal Ould-Chikh,-0.104233,0.108584,21
+14302,139304,Karol Mets,NA,NA,0
+80417,400671,Daan Klomp,NA,NA,0
+66778,331017,Alex Gersbach,NA,NA,0
+25847,201586,Gregory Leigh,NA,NA,0
+23811,250591,Arno Verschueren,NA,NA,0
+22503,273588,Mounir El Allouchi,NA,NA,0
+76081,427085,Bodi Brusselers,NA,NA,0
+25430,244130,Sulaiman Borbor Kaikai,NA,NA,0
+19849,64507,Mikhael Rosheuvel,NA,NA,0
+77624,521634,Karol Niemczycki,NA,NA,0
+39290,182578,Menno Koch,NA,NA,0
+80021,338031,Jurich Carolina,NA,NA,0
+19725,106634,Kingsley Pele van Anholt,NA,NA,0
+71142,238084,Ramon Pascal Lundqvist,NA,NA,0
+45848,240752,Gervane Kastaneer,NA,NA,0
+69414,80702,Mark Birighitti,NA,NA,0
+65265,210202,James Horsfield,NA,NA,0
+17511,64208,Gianluca Franciscus Nijholt,NA,NA,0
+77233,464142,Diego Snepvangers,NA,NA,0
+75623,187594,Nigel Bertrams,NA,NA,0
+75318,342719,Bart Meijers,NA,NA,0
+14622,187601,Fabian Sporkslede,NA,NA,0
+22270,117671,Jeff Stans,NA,NA,0
+22296,4452,Robbie Haemhouts,NA,NA,0
+21774,205023,Rai Vloet,NA,NA,0
+22362,234910,Giovanni Korte,NA,NA,0
+20966,79127,Mitchell te Vrede,NA,NA,0
+21844,25520,Remko Pasveer,NA,NA,0
+66599,387047,Danilho Doekhi,NA,NA,0
+15041,170620,Vyacheslav Karavaev,NA,NA,0
+64294,337673,Julian Lelieveld,NA,NA,0
+72741,258911,Mukhtar Ali,NA,NA,0
+64998,177862,Charly Junior Musonda,NA,NA,0
+20668,204047,Matus Bero,NA,NA,0
+5292,50303,Tim Matavz,NA,NA,0
+75624,257980,Jeroen Houwen,NA,NA,0
+12396,129092,Rasmus Thelander,NA,NA,0
+66727,183291,Max Clark,NA,NA,0
+22452,191395,Khalid Karami,NA,NA,0
+14192,109881,Thulani Caleeb Serero,NA,NA,0
+22233,61612,Navarone Chesney Kai Foor,NA,NA,0
+22211,172202,Thomas Bruns,NA,NA,0
+22127,82410,Bryan Linssen,NA,NA,0
+5281,25427,Roy Johannes Hendricus Beerens,NA,NA,0
+66146,393239,Mitchell van Bergen,-0.10713,0.112699,4
+78753,321182,Oussama Darfalou,NA,NA,0
+15709,55972,Guram Kashia,NA,NA,0
+21864,81778,Maikel van der Werff,NA,NA,0
+38757,110911,Kōsuke Ōta,NA,NA,0
+14849,58342,Sheran Yeini,NA,NA,0
+3570,41355,Ricky van Wolfswinkel,NA,NA,0
+16487,4634,Arnold Kruiswijk,NA,NA,0
+3471,38003,Alexander Buttner,NA,NA,0
+64293,291739,Milot Rashica,NA,NA,0
+72740,315129,Lassana Faye,NA,NA,0
+71888,341434,Julian Calor,NA,NA,0
+14944,79045,Jeroen Zoet,NA,NA,0
+85804,235108,Luuk Koopmans,NA,NA,0
+7477,147846,Nicolas Isimat-Mirin,NA,NA,0
+21865,145840,Trent Lucas Sainsbury,NA,NA,0
+21660,136834,Aziz Eraltay Behich,NA,NA,0
+20777,205004,Jorrit Hendrix,NA,NA,0
+21869,203357,Ryan Thomas,NA,NA,0
+75310,314974,Dante Rigo,NA,NA,0
+64393,264116,Gaston Rodrigo Pereiro Lopez,NA,NA,0
+75316,323910,Mauro Jaqueson Junior Ferreira dos Santos,NA,NA,0
+62768,284165,Steven Bergwijn,NA,NA,0
+76091,434675,Cody Mathes Gakpo,NA,NA,0
+66312,365758,Maximiliano Romero,NA,NA,0
+5004,53696,Lars Unnerstall,NA,NA,0
+91916,258362,Yanick van Osch,NA,NA,0
+22477,241457,Derrick Luckassen,NA,NA,0
+17682,93081,Nick Viergever,NA,NA,0
+76988,339337,Armando Obispo,NA,NA,0
+63771,277179,Jose Angel Esmoris Tasende,NA,NA,0
+73947,247596,Kenneth Paal,NA,NA,0
+74888,298796,Erick Gabriel Gutierrez Galaviz,NA,NA,0
+73975,370791,Pablo Paulino Rosario,NA,NA,0
+80422,321204,Michal Sadilek,NA,NA,0
+66984,316889,Hirving Rodrigo Lozano Bahena,NA,NA,0
+76083,326029,Donyell Malen,NA,NA,0
+3683,72522,Luuk de Jong,NA,NA,0
+71148,386914,Sam Lammers,NA,NA,0
+64395,215551,Hidde Jurjus,NA,NA,0
+11529,120443,Santiago Arias Naranjo,NA,NA,0
+19450,79027,Davy Propper,NA,NA,0
+14958,166240,Jurgen Locadia,NA,NA,0
+4721,38434,Daniel Schwaab,NA,NA,0
+65604,215096,Jordy de Wijs,NA,NA,0
+14946,207006,Joshua Benjamin Brenet,NA,NA,0
+22046,79294,Eloy Room,NA,NA,0
+12264,99100,Daniel Hoegh,NA,NA,0
+66539,355512,Andreas Skovgaard,NA,NA,0
+73573,264748,Rodney Kongolo,NA,NA,0
+67025,222825,Nemanja Mihajlovic,NA,NA,0
+19891,155158,Filip Bednarek,NA,NA,0
+72759,361207,Kik Pierie,-0.189956,0.0279894,134
+20573,187098,Dave Bulthuis,NA,NA,0
+69667,321135,Ibrahim Dresevic,NA,NA,0
+76077,241378,Jordy Bruijn,NA,NA,0
+71153,342702,Michel Vlap,NA,NA,0
+22232,195359,Doke Schmidt,NA,NA,0
+71143,145996,Yuki Kobayashi,NA,NA,0
+22486,262613,Pelle van Amersfoort,NA,NA,0
+11446,4698,Stephanus Johannes Schaars,NA,NA,0
+814,226524,Morten Thorsby,NA,NA,0
+45847,271743,Henk Veerman,NA,NA,0
+32961,114940,Marco Rojas,NA,NA,0
+598,222275,Nicolai Nass,NA,NA,0
+71135,234509,Andre Onana,NA,NA,0
+9636,12282,Daley Blind,NA,NA,0
+52141,66736,Lisandro Magallan,-0.122857,0.0389439,90
+31678,131225,Nicolas Tagliafico,NA,NA,0
+66542,369684,Rasmus Nissen Kristensen,NA,NA,0
+14606,34784,Lasse Schone,NA,NA,0
+62767,326330,Frenkie de Jong,NA,NA,0
+65898,288255,Donny van de Beek,NA,NA,0
+3768,45509,Siem de Jong,NA,NA,0
+3749,36139,Dusan Tadic,NA,NA,0
+72742,469822,David Neres Campos,NA,NA,0
+62632,283196,Kasper Dolberg,NA,NA,0
+71154,326031,Matthijs de Ligt,NA,NA,0
+66649,263361,Maximilian Wober,NA,NA,0
+80410,418543,Perr Schuurs,NA,NA,0
+22422,215099,Daley Sinkgraven,NA,NA,0
+15037,111195,Joel Veltman,NA,NA,0
+76085,340456,Noussair Mazraoui,NA,NA,0
+75819,315128,Carel Eiting,NA,NA,0
+76089,340459,Dani de Wit,NA,NA,0
+73213,504259,Boureima Hassane Bande,NA,NA,0
+19722,217111,Hakim Ziyech,NA,NA,0
+91856,242063,Vaclav Cerny,NA,NA,0
+4870,4357,Dirk Jan Klaas Huntelaar,NA,NA,0
+20820,241481,Jairo Riedewald,NA,NA,0
+39284,216443,Riechedly Bazoer,NA,NA,0
+20697,74294,Nemanja Gudelj,NA,NA,0
+71151,258353,Abdelhak Nouri,NA,NA,0
+71125,362667,Zander Mateo Casierra Cabezas,NA,NA,0
+71129,341429,Davinson Sanchez Mina,NA,NA,0
+14212,182932,Davy Klaassen,NA,NA,0
+22323,64352,Konstantinos Lamprou,NA,NA,0
+75823,331057,Luis Manuel Orejuela Garcia,NA,NA,0
+71887,330659,Justin Kluivert,NA,NA,0
+72752,338032,Deyovaisio Zeefuik,NA,NA,0
+5147,191891,Arkadiusz Milik,NA,NA,0
+19471,79573,Sergio Vincenzo Roberto Padt,NA,NA,0
+71128,238595,Samir Memisevic,NA,NA,0
+73956,303219,Julian Chabot,NA,NA,0
+22180,155806,Mike te Wierik,NA,NA,0
+84587,355816,Ko Itakura,NA,NA,0
+75315,490884,Ludovit Reis,NA,NA,0
+71146,288449,Django Warmerdam,NA,NA,0
+72745,265625,Ajdin Hrustic,NA,NA,0
+73969,358504,Ritsu Doan,NA,NA,0
+78275,315283,Kaj Sierhuis,NA,NA,0
+2305,192985,Simon Tibbling,NA,NA,0
+45849,348863,Juninho Bacuna,NA,NA,0
+843,238407,Alexander Sorloth,NA,NA,0
+34,41335,Ruben Jenssen,NA,NA,0
+22470,216815,Mimoun Mahi,NA,NA,0
+22454,95673,Tom van Weert,NA,NA,0
+22060,19356,Kevin Begois,NA,NA,0
+10858,175912,Lars Veldwijk,NA,NA,0
+22312,31880,Jordens Peters,NA,NA,0
+20806,107969,Fernando Lewis,NA,NA,0
+78742,370042,Dries Saddiki,NA,NA,0
+64177,223225,Daniel Crowley,NA,NA,0
+9757,205519,Abdou Karim Coulibaly,NA,NA,0
+77220,395632,Marios Vrousai,NA,NA,0
+45839,196829,Timon Wellenreuther,NA,NA,0
+22473,88074,Freek Heerkens,NA,NA,0
+78740,345343,James Robert Mcgarry,NA,NA,0
+76080,295624,Damil Dankerlui,NA,NA,0
+43841,205276,Pol Llonch,NA,NA,0
+78905,327542,Atakan Akkaynak,NA,NA,0
+75314,205128,Mattijs Branderhorst,NA,NA,0
+71159,272707,Elmo Lieftink,NA,NA,0
+19838,129581,Jordy Croux,NA,NA,0
+31665,164292,Francisco Sol Ortiz,NA,NA,0
+72757,396106,Thomas Kok,NA,NA,0
+71119,257988,Leeroy Owusu,NA,NA,0
+22093,108692,Frank Olijve,NA,NA,0
+64404,324921,Youssef El Jebli,NA,NA,0
+22277,177821,Daryl van Mieghem,NA,NA,0
+79670,436585,Delano Burgzorg,NA,NA,0
+78908,266332,Jordy Thomassen,NA,NA,0
+22187,129551,Ted van de Pavert,NA,NA,0
+22333,187299,Jordy Tutuarima,NA,NA,0
+17886,57087,Stefan Nijland,NA,NA,0
+64412,336303,Bart Straalman,NA,NA,0
+7951,116918,Azbe Jug,NA,NA,0
+78909,387201,Clint Essers,NA,NA,0
+7938,205569,Mickael Malsa,NA,NA,0
+78744,275949,Jorrit Smeets,NA,NA,0
+78910,426624,Andre Filipe Cunha Vidigal,NA,NA,0
+78745,225431,Lisandro Semedo,NA,NA,0
+79227,342824,Agim Zeka,NA,NA,0
+91857,136109,Alexei Koselev,NA,NA,0
+39362,250450,Wessel Dammers,NA,NA,0
+20883,260979,Branislav Ňinaj,NA,NA,0
+64595,177866,Michael Goncalves Pinto,NA,NA,0
+78743,338680,Alessandro Ciranni,NA,NA,0
+83561,146167,Anthony Syhre,NA,NA,0
+20449,187507,Mark Diemers,NA,NA,0
+82789,355368,Djibril Dianessy,NA,NA,0
+39289,160361,Sonny Stevens,NA,NA,0
+67298,347038,Thomas Oude Kotte,NA,NA,0
+66349,203558,Herve Matthys,NA,NA,0
+71158,347900,Jerdy Schouten,NA,NA,0
+39908,205655,Elias Mar Omarsson,NA,NA,0
+22479,321327,Alessandro Damen,NA,NA,0
+22441,102660,Jeffry Fortes,NA,NA,0
+22146,65256,Ryan Koolwijk,NA,NA,0
+71138,387143,Dogucan Haspolat,NA,NA,0
+7804,43759,Luigi Bruins,NA,NA,0
+22425,56415,Denis Mahmudov,NA,NA,0
+23742,235234,Jinty Caenepeel,NA,NA,0
+22464,187598,Terell Ondaan,NA,NA,0
+22268,188660,Jurgen Mattheij,NA,NA,0
+22023,4533,Anouar Hadouir,NA,NA,0
+22220,183397,Mike van Duinen,NA,NA,0
+22327,79193,Ali Messaoud,NA,NA,0
+21689,124866,Lorenzo Burnet,NA,NA,0
+45854,273570,Desevio Payne,NA,NA,0
+66444,258363,Keziah Veendorp,NA,NA,0
+78750,158540,Michael Steven Chacon Ibarguen,NA,NA,0
+80411,297694,Robbert de Vos,NA,NA,0
+64405,206744,Wouter Marinus,NA,NA,0
+22505,326997,Jafar Arias,NA,NA,0
+78748,463527,Kjell Scherpen,NA,NA,0
+22284,210921,Nick Bakker,NA,NA,0
+80697,158360,Nico Neidhart,NA,NA,0
+72756,203961,Glenn Bijl,NA,NA,0
+22264,201637,Henk Bos,NA,NA,0
+21733,110906,Michael de Leeuw,NA,NA,0
+17885,88387,Alexander Bannink,NA,NA,0
+22280,56607,Anco Jansen,NA,NA,0
+18901,47740,Nils Roseler,NA,NA,0
+22207,90343,Danny Post,NA,NA,0
+77238,361112,Evert Linthorst,NA,NA,0
+75627,159143,Delano van Crooij,NA,NA,0
+73958,241420,Damian van Bruggen,NA,NA,0
+18277,37850,Christian Kum,NA,NA,0
+86758,457090,Stan van Dijck,NA,NA,0
+73949,168787,Roel Janssen,NA,NA,0
+73951,315124,Tristan Dekker,NA,NA,0
+89864,140790,Tino-Sven Susic,NA,NA,0
+19834,123521,Peter van Ooijen,NA,NA,0
+75306,191834,Johnatan Opoku,NA,NA,0
+73952,250464,Clint Leemans,NA,NA,0
+73954,245228,Tarik Tissoudali,NA,NA,0
+73953,96472,Ralf Seuntjens,NA,NA,0
+73948,62085,Jerold Promes,NA,NA,0
+77237,349796,Evren Korkmaz,NA,NA,0
+22401,163665,Leroy Labylle,NA,NA,0
+73950,187296,Moreno Rutten,NA,NA,0
+66432,153880,Terry Antonis,NA,NA,0
+73955,312493,Vito van Crooij,NA,NA,0
+20803,131821,Thomas Lam,NA,NA,0
+82601,346647,Yuta Nakayama,NA,NA,0
+39288,272812,Kingsley Ehizibue,NA,NA,0
+21896,299121,Rick Dekker,NA,NA,0
+71152,297693,Pelle Clement,NA,NA,0
+39295,227039,Younes Namli,NA,NA,0
+4908,23553,Lennart Thy,NA,NA,0
+16339,31025,Dirk Antoon Nico Marcellis,NA,NA,0
+21837,93393,Darryl Lachman,NA,NA,0
+21862,41583,Bram van Polen,NA,NA,0
+22263,111185,Ruben Ewald Ligeon,NA,NA,0
+19804,182554,Anass Achahbar,NA,NA,0
+78735,411537,Zian Flemming,NA,NA,0
+22252,188905,Stanley Elbers,NA,NA,0
+22501,207048,Mickey van der Hart,NA,NA,0
+7829,182910,Hervin Ongenda,NA,NA,0
+1859,76085,Erik Israelsson,NA,NA,0
+71130,340460,Philippe Sandler,NA,NA,0
+18913,111184,Dico Koppers,NA,NA,0
+22380,56628,Erik Bakker,NA,NA,0
+21861,7288,Diederik Boer,NA,NA,0
+10792,155202,Piotr Parzyszek,NA,NA,0
+65603,225716,Sam Hendriks,NA,NA,0
+71118,335016,Joey Groenbast,NA,NA,0
+22159,82939,Sjoerd Overgoor,NA,NA,0
+3747,52570,Fraser Gerard Forster,NA,NA,0
+69896,201574,Angus Gunn,NA,NA,0
+4937,99331,Jannik Vestergaard,NA,NA,0
+3468,81789,Maya Yoshida,NA,NA,0
+9643,250478,Matt Targett,NA,NA,0
+11419,112988,Cedric Soares,NA,NA,0
+3332,66100,Oriol Romeu Vidal,NA,NA,0
+3448,181579,James Ward-Prowse,-0.120497,0.0794674,91
+3668,226973,Harrison Reed,NA,NA,0
+3741,129627,Charles Austin,NA,NA,0
+3289,37304,Shane Patrick Long,NA,NA,0
+3477,95976,Alex Simon McCarthy,NA,NA,0
+20805,253765,Wesley Hoedt,NA,NA,0
+25607,163744,Jack Stephens,-0.149156,0.0161433,136
+53461,243028,Jan Bednarek,NA,NA,0
+3250,40611,Ryan Dominic Bertrand,NA,NA,0
+66214,226968,Sam McQueen,NA,NA,0
+7790,170934,Mario Lemina,NA,NA,0
+14528,104223,Jordy Clasie,NA,NA,0
+5159,167799,Pierre-Emile Hojbjerg,NA,NA,0
+19760,130765,Stuart Armstrong,NA,NA,0
+3569,129078,Nathan Daniel Jerome Redmond,-0.0698062,0.104454,159
+477,186644,Mohamed Elyounoussi,-0.160273,0.0333384,67
+70605,286919,Joshua Sims,NA,NA,0
+9015,112343,Manolo Gabbiadini,NA,NA,0
+3669,227183,Samuel James Gallagher,NA,NA,0
+15000,139208,Virgil van Dijk,NA,NA,0
+3480,195488,Paulo Dino Gazzaniga,NA,NA,0
+2668,28973,Steven Davis,NA,NA,0
+3449,53360,Jay Rodriguez,NA,NA,0
+2901,98240,Ciaran Clark,NA,NA,0
+2834,9619,Alan Hutton,NA,NA,0
+2724,50362,Fabian Delph,NA,NA,0
+3221,62638,Nathan Luke Baker,NA,NA,0
+3207,49319,Mark John Bunn,NA,NA,0
+2627,32617,Micah Lincoln Richards,NA,NA,0
+3473,91317,Ashley Roy Westwood,NA,NA,0
+7853,164771,Jordan Veretout,NA,NA,0
+3572,126014,Leandro Bacuna,NA,NA,0
+6743,127987,Carles Gil de Pareja Vicent,NA,NA,0
+3713,203460,Jack Grealish,NA,NA,0
+7353,108354,Jordan Ayew,NA,NA,0
+25650,110867,Jed John Steer,NA,NA,0
+7486,126665,Idrissa Gana Gueye,NA,NA,0
+3368,110861,Gary Gardner,NA,NA,0
+2741,31552,Scott Andrew Sinclair,NA,NA,0
+6804,204103,Adama Traore,NA,NA,0
+3567,39908,Rudolphe Gestede,NA,NA,0
+25165,130164,Jordan Lee Pickford,NA,NA,0
+25880,348623,Mason Holgate,NA,NA,0
+25796,220755,Matthew Pennington,NA,NA,0
+2745,13507,Leighton John Baines,NA,NA,0
+3707,110860,Luke Samuel Garbutt,NA,NA,0
+64166,258883,Jonjoe Kenny,NA,NA,0
+3447,56818,Morgan Schneiderlin,NA,NA,0
+67170,314210,Tom Davies,NA,NA,0
+21684,293200,Nikola Vlasic,-0.148411,0.063548,740
+73543,378710,Richarlison de Andrade,NA,NA,0
+15016,175169,Bernard,NA,NA,0
+69982,380415,Henry Chukwuemeka Onyekuru,NA,NA,0
+3457,33639,Kevin Antonio Mirallas,-0.00770306,0.14573,1
+4833,45671,Cenk Tosun,NA,NA,0
+6920,199369,Sandro Ramirez,NA,NA,0
+3577,4311,Maarten Stekelenburg,NA,NA,0
+3778,118534,Michael Vincent Keane,NA,NA,0
+74922,289446,Yerry Fernando Mina Gonzalez,NA,NA,0
+7657,126664,Lucas Digne,NA,NA,0
+25691,208244,Brendon Joel Zibusiso Galloway,-0.129057,0.0731474,37
+2975,68390,Seamus Coleman,NA,NA,0
+21836,91251,Rhu-Endly Martina,NA,NA,0
+3783,93905,Muhamed Besic,NA,NA,0
+2870,45333,James McCarthy,NA,NA,0
+3371,90466,Gylfi Sigurdsson,NA,NA,0
+39358,258916,Kieran Dowell,NA,NA,0
+3654,75471,Yannick Bolasie,NA,NA,0
+65849,406040,Ademola Lookman,NA,NA,0
+2955,33713,Theo James Walcott,NA,NA,0
+20961,184381,Shani Tarashaj,NA,NA,0
+62016,306024,Dominic Calvert-Lewin,NA,NA,0
+595,209781,El Hadji Baye Oumar Niasse,NA,NA,0
+3051,13520,Phil Jagielka,NA,NA,0
+3292,67355,Ashley Errol Williams,NA,NA,0
+9639,156934,Tyias Browning,NA,NA,0
+3479,124983,Bryan Oviedo,NA,NA,0
+3170,73484,Thomas William Cleverley,NA,NA,0
+3322,96341,Romelu Benjamin Lukaku,-0.016014,0.147977,2541
+66718,238988,Leandro Joaquin Rodriguez Telechea,NA,NA,0
+2780,3332,Wayne Mark Rooney,0.00113873,0.100102,67
+3646,186590,John Stones,NA,NA,0
+3453,12763,Steven John Naismith,NA,NA,0
+31966,192279,Kepa Arrizabalaga Revuelta,NA,NA,0
+6471,19948,Wilfredo Daniel Caballero,NA,NA,0
+29898,128898,Jamal Blackman,NA,NA,0
+29906,196948,Andreas Christensen,NA,NA,0
+7622,157509,Kurt Zouma,-0.100995,0.090966,186
+3709,148657,Tomas Kalas,NA,NA,0
+10776,157490,Michael Anthony James Hector,NA,NA,0
+10787,131708,Josiah Kenneth Omeruo,NA,NA,0
+3209,112515,Marcos Alonso Mendoza,NA,NA,0
+5109,224884,Baba Abdul Rahman,NA,NA,0
+9476,173859,Davide Zappacosta,NA,NA,0
+7974,225083,N'Golo Kante,NA,NA,0
+3735,73491,Daniel Noel Drinkwater,NA,NA,0
+3603,147034,Marco van Ginkel,NA,NA,0
+39148,198589,Lewis Baker,NA,NA,0
+64868,281404,Robert Kenedy Nunes do Nascimento,NA,NA,0
+3795,52769,Willian,NA,NA,0
+3044,59866,Victor Moses,NA,NA,0
+3419,82442,Olivier Giroud,NA,NA,0
+5033,86202,Antonio Rudiger,NA,NA,0
+3231,46741,David Luiz,NA,NA,0
+70711,392771,Ethan Ampadu,-0.187639,0.0264596,719
+41010,245893,Matthew Miazga,NA,NA,0
+9731,181778,Emerson,NA,NA,0
+3498,57500,Cesar Azpilicueta,NA,NA,0
+70600,236490,Temitayo Olufisayo Olaoluwa Aina,NA,NA,0
+9352,102017,Jorginho,NA,NA,0
+3308,131978,Ross Barkley,NA,NA,0
+39139,202886,Ruben Loftus-Cheek,NA,NA,0
+6884,205938,Mario Pasalic,NA,NA,0
+20916,222830,Danilo Pantic,NA,NA,0
+3438,50202,Eden Hazard,-0.00334276,0.13236,12
+64298,294798,Nathan Allan de Souza,NA,NA,0
+66418,315779,Christian Pulisic,NA,NA,0
+6075,65278,Pedro,NA,NA,0
+6454,128223,Alvaro Morata,NA,NA,0
+67172,331726,Tammy Abraham,NA,NA,0
+2665,27511,Gary James Cahill,NA,NA,0
+3156,54170,Ramires,NA,NA,0
+3764,108390,Thibaut Courtois,NA,NA,0
+9537,34159,Eduardo,NA,NA,0
+3517,177476,Nathan Ake,NA,NA,0
+9382,181779,Wallace,NA,NA,0
+3440,85314,Oscar,NA,NA,0
+2853,33873,Asmir Begovic,NA,NA,0
+10658,154287,Todd Arthur Lucien Kane,NA,NA,0
+2992,74683,Nemanja Matic,NA,NA,0
+8997,91970,Juan Guillermo Cuadrado Bello,NA,NA,0
+3765,44779,Diego da Silva Costa,NA,NA,0
+7848,136610,Papy Mison Djilobodji,NA,NA,0
+3690,148455,Mohamed Salah,NA,NA,0
+3732,16911,Kasper Peter Schmeichel,NA,NA,0
+3712,2857,Eldin Jakupovic,NA,NA,0
+66013,320141,Caglar Soyuncu,NA,NA,0
+63839,293168,Filip Benkovic,NA,NA,0
+4594,6636,Christian Fuchs,NA,NA,0
+11569,215876,Ricardo Domingos Barbosa Pereira,NA,NA,0
+39117,274839,Onyinye Wilfred Ndidi,NA,NA,0
+2372,214056,Daniel Amartey,NA,NA,0
+9637,73522,Matthew Lee James,NA,NA,0
+2739,61560,Marc Kevin Albrighton,NA,NA,0
+53486,246579,Bartosz Kapustka,NA,NA,0
+10755,292417,Demarai Gray,NA,NA,0
+25804,298240,George Thomas,-0.168036,0.0399244,46
+11771,174915,Islam Slimani,NA,NA,0
+41763,203026,Danny Ward,NA,NA,0
+10420,177907,Jacob Harry Maguire,NA,NA,0
+2775,42412,Jonathan Grant Evans,NA,NA,0
+3733,10003,Westley Nathan Morgan,NA,NA,0
+65573,316125,Ben Chilwell,NA,NA,0
+39198,271997,Callum Elder,NA,NA,0
+7422,111051,Nampalys Mendy,NA,NA,0
+11175,56810,Adrien Sebastian Perruchet Silva,NA,NA,0
+3734,56872,Andrew King,NA,NA,0
+25876,294057,James Daniel Maddison,NA,NA,0
+71510,398065,Harvey Lewis Barnes,NA,NA,0
+73798,364861,Fousseni Diabate,NA,NA,0
+3785,197838,Jamie Richard Vardy,NA,NA,0
+64867,295330,Kelechi Promise Iheanacho,NA,NA,0
+4914,21327,Ron-Robert Zieler,NA,NA,0
+7224,50477,Yohan Benalouane,NA,NA,0
+3190,37442,Daniel Peter Simpson,NA,NA,0
+3740,157506,Jeffrey Schlupp,NA,NA,0
+14219,168337,Ahmed Musa,NA,NA,0
+31671,62945,Luis Hernandez,NA,NA,0
+3738,171424,Riyad Mahrez,NA,NA,0
+4927,79642,Shinji Okazaki,NA,NA,0
+10946,45026,Rui Patricio,NA,NA,0
+3552,128901,Conor David Coady,NA,NA,0
+3397,67252,Ryan Bennett,NA,NA,0
+10899,129067,Ethan Reid Ebanks-Landell,NA,NA,0
+3343,171679,Matthew James Doherty,NA,NA,0
+64217,204198,Romain Saïss,NA,NA,0
+45862,340950,Diogo Jose Teixeira da Silva,NA,NA,0
+48209,361254,Rafael Mir Vicente,NA,NA,0
+3275,29712,John Ruddy,NA,NA,0
+7531,142310,Willy Boly,NA,NA,0
+6678,87856,Roderick Miranda,NA,NA,0
+25030,233124,Kortney Paul Duncan Hause,NA,NA,0
+73560,357158,Ruben Goncalo Silva Nascimento Vinagre,NA,NA,0
+47252,133858,Philemon Ofosu-Ayeh,NA,NA,0
+11871,225161,Ruben Neves,NA,NA,0
+70631,337787,Connor Ronan,NA,NA,0
+10770,183283,Jordan Graham,NA,NA,0
+42137,173900,Helder Wander Sousa Azevedo Costa,NA,NA,0
+39316,181781,Leonardo Bonatini Lohner Maia,NA,NA,0
+64694,345772,Bright Enobakhare,NA,NA,0
+3405,26412,Carl Onora Ikeme,NA,NA,0
+2712,54949,David Alexander Edwards,NA,NA,0
+10377,129049,Daniel Tanveer Batth,NA,NA,0
+3235,29199,David James Wheater,NA,NA,0
+10877,116648,Marcus Bettinelli,NA,NA,0
+3390,145466,Timothy Ream,NA,NA,0
+10551,194460,Joseph Edward Bryan,NA,NA,0
+10448,158623,Cyrus Sylvester Christie,NA,NA,0
+2881,36529,Kevin David McDonald,NA,NA,0
+20538,160380,Ibrahima Cisse,NA,NA,0
+3034,123275,Thomas Cairney,NA,NA,0
+70615,392775,Ryan Sessegnon,-0.119227,0.0964775,1739
+7055,77974,Floyd Ayite,NA,NA,0
+6453,9335,Rui Pedro da Rocha Fonte,NA,NA,0
+8019,290951,Aboubakar Kamara,NA,NA,0
+25308,287431,Alfie Robert John Mawson,NA,NA,0
+64204,60558,Maxime Le Marchand,NA,NA,0
+44586,142022,Marcelo Amado Djalo Taritolay,NA,NA,0
+14554,59641,Denis Odoi,NA,NA,0
+414,62008,Stefan Marius Johansen,NA,NA,0
+70750,315762,Luca de la Torre,NA,NA,0
+7530,111422,Neeskens Kebano,NA,NA,0
+14500,51152,Aleksandar Mitrovic,NA,NA,0
+10159,50552,Dimitrios Konstantopoulos,NA,NA,0
+2824,78966,Daniel Ayala,NA,NA,0
+3006,77544,George Andrew Jordan Friend,NA,NA,0
+5842,32522,Antonio Barragan,NA,NA,0
+10310,73067,Adam Stephen Clayton,NA,NA,0
+19721,133179,Marten de Roon,NA,NA,0
+2827,13796,Grant Leadbitter,NA,NA,0
+2993,4063,Stewart Downing,NA,NA,0
+3469,123742,Gaston Ramirez,NA,NA,0
+10527,183334,Patrick James Bamford,NA,NA,0
+10427,128904,Benjamin James Gibson,NA,NA,0
+64331,314140,Dael Fry,NA,NA,0
+20700,129592,Julien de Sart,NA,NA,0
+3247,121257,Adam John Forshaw,NA,NA,0
+3024,74768,Adlene Guedioura,NA,NA,0
+10443,163530,Adam Michael Reach,NA,NA,0
+14630,95755,Viktor Gorridsen Fischer,NA,NA,0
+10607,48950,Jordan Luke Rhodes,NA,NA,0
+11596,238223,Ederson,NA,NA,0
+6865,54781,Nicolas Otamendi,NA,NA,0
+6573,210178,Pablo Mari,NA,NA,0
+3790,95424,Kyle Andrew Walker,NA,NA,0
+3606,26267,Fernandinho,NA,NA,0
+4706,53622,Ilkay Gundogan,NA,NA,0
+75697,406635,Philip Foden,NA,NA,0
+129,103559,Mikkel Diskerud,NA,NA,0
+3085,35518,David Silva,NA,NA,0
+5267,192565,Leroy Sane,NA,NA,0
+70197,345654,Marlos Moreno Duran,NA,NA,0
+3703,225452,Patrick John Joseph Roberts,NA,NA,0
+3301,26399,Kun Aguero,NA,NA,0
+5912,40423,Claudio Bravo,NA,NA,0
+6682,176553,Aymeric Laporte,NA,NA,0
+9638,90681,Eliaquim Mangala,NA,NA,0
+41061,282199,Erik Palmer-Brown,NA,NA,0
+59681,203853,Oleksandr Zinchenko,NA,NA,0
+11552,145707,Danilo,NA,NA,0
+75036,447661,Douglas Luiz Soares de Paulo,NA,NA,0
+3595,88755,Kevin de Bruyne,NA,NA,0
+3395,134425,Raheem Shaquille Sterling,NA,NA,0
+67612,417346,Jack Harrison,NA,NA,0
+71843,363205,Gabriel Fernando de Jesus,NA,NA,0
+2782,40204,Charles Joseph John Hart,NA,NA,0
+2986,18935,Samir Nasri,NA,NA,0
+2966,9594,Vincent Jean Mpoy Kompany,NA,NA,0
+3754,51174,Fernando,NA,NA,0
+6906,115507,Bruno Zuculini,-0.100825,0.0568789,73
+6439,70934,Nolito,NA,NA,0
+3584,81808,Wilfried Guemiand Bony,NA,NA,0
+3290,59377,David de Gea Quintana,NA,NA,0
+65855,192611,Joel Pereira Castro,NA,NA,0
+3058,117996,Philip Anthony Jones,NA,NA,0
+9635,93176,Faustino Marcos Alberto Rojo,NA,NA,0
+3508,183288,Luke Paul Hoare Shaw,NA,NA,0
+65848,258879,Cameron Borthwick-Jackson,NA,NA,0
+8721,54906,Matteo Darmian,NA,NA,0
+66562,315131,Timothy Fosu-Mensah,NA,NA,0
+15017,191614,Fred,NA,NA,0
+2753,39679,Marouane Fellaini-Bakkioui,NA,NA,0
+3321,44068,Juan Mata,NA,NA,0
+66561,258923,Marcus Rashford,NA,NA,0
+7899,30690,Sergio Romero,NA,NA,0
+9867,13460,Lee Anderson Grant,NA,NA,0
+11864,184573,Victor Nilsson-Lindelof,-0.268656,-0.0869787,1102
+3013,103427,Christopher Lloyd Smalling,NA,NA,0
+72462,342046,Axel Tuanzebe,NA,NA,0
+2722,14086,Ashley Simon Young,NA,NA,0
+76115,357147,Jose Diogo Dalot Teixeira,NA,NA,0
+3378,122153,Paul Labile Pogba,NA,NA,0
+72463,315969,Scott McTominay,NA,NA,0
+29895,203394,Andreas Pereira,NA,NA,0
+3745,40433,Alexis Sanchez,NA,NA,0
+3724,141660,Jesse Ellis Lingard,NA,NA,0
+3789,33544,Luis Antonio Valencia Mosquera,NA,NA,0
+3723,99343,Ander Herrera,NA,NA,0
+5202,55735,Henrikh Mkhitaryan,NA,NA,0
+3711,214104,James Antony Wilson,NA,NA,0
+3500,17965,Hugo Lloris,NA,NA,0
+6792,42710,Tobias Albertine Maurits Alderweireld,NA,NA,0
+3458,43250,Jan Vertonghen,NA,NA,0
+70774,341049,Cameron Carter-Vickers,NA,NA,0
+3455,192765,Benjamin Thomas Davies,NA,NA,0
+3581,77760,Victor Mugabe Wanyama,NA,NA,0
+21934,249126,Harry Winks,NA,NA,0
+3644,69633,Christian Dannemann Eriksen,NA,NA,0
+4894,91845,Heung-Min Son,NA,NA,0
+3436,132098,Harry Edward Kane,NA,NA,0
+72021,480763,Juan Marcos Foyth,NA,NA,0
+3068,50174,Daniel Lee Rose,NA,NA,0
+3759,95810,Kieran John Trippier,NA,NA,0
+73545,341051,Kyle Walker-Peters,NA,NA,0
+3729,175722,Eric Jeremy Edgar Dier,NA,NA,0
+3528,46001,Moussa Sissoko,NA,NA,0
+25731,207929,Bamidele Jermaine Alli,-0.119659,0.0810238,71
+65560,243589,Josh Onomah,NA,NA,0
+3633,111630,Erik Lamela,NA,NA,0
+5288,122675,Kevin Wimmer,NA,NA,0
+3153,19368,Moussa Dembele,NA,NA,0
+3672,245537,Nabil Bentaleb,NA,NA,0
+3506,121279,Thomas James Carroll,NA,NA,0
+3291,26276,Michel Vorm,NA,NA,0
+9644,61834,Ryan Glen Mason,NA,NA,0
+5363,35564,Fernando Llorente Torres,NA,NA,0
+3721,200777,Alex David Pritchard,NA,NA,0
+10444,99397,Karl Darlow,NA,NA,0
+3543,39037,Robert Elliot,NA,NA,0
+6691,85475,Federico Fernandez,NA,NA,0
+9519,139173,Achraf Lazaar,NA,NA,0
+3746,162029,Javier Manquillo,NA,NA,0
+3461,81796,Sung-Yong Ki,NA,NA,0
+3080,61644,Jack Raymond Colback,NA,NA,0
+3067,92469,Matthew Thomas Ritchie,NA,NA,0
+65171,272999,Miguel Angel Almiron Rejala,NA,NA,0
+3775,186997,Christian Atsu Twasam,NA,NA,0
+3661,199527,Jacob Kai Murphy,NA,NA,0
+3756,246968,Ayoze Perez,NA,NA,0
+3590,196522,Dwight Devon Boyd Gayle,NA,NA,0
+5105,81999,Joselu,NA,NA,0
+12451,74960,Martin Dubravka,NA,NA,0
+64194,226049,Frederick Woodman,NA,NA,0
+10539,183318,Jamaal Lascelles,NA,NA,0
+14602,135343,Fabian Schar,NA,NA,0
+3608,170321,Paul Dummett,NA,NA,0
+30175,255916,DeAndre Roselle Yedlin,NA,NA,0
+29883,206225,Isaac Hayden,NA,NA,0
+3191,71292,Jonjo Shelvey,-0.105792,0.0582638,262
+73016,346707,Sean Longstaff,NA,NA,0
+7335,51540,Henri Saivet,NA,NA,0
+3755,258188,Rolando Aarons,NA,NA,0
+39064,230541,Yoshinori Mutō,NA,NA,0
+15018,203348,Chancel Mbemba Mangulu,NA,NA,0
+3082,121385,Grant Hanley,NA,NA,0
+2868,70950,Mohamed Diame,NA,NA,0
+25175,251664,Ivan Benjamin Elijah Toney,NA,NA,0
+3701,250426,Adam James Armstrong,NA,NA,0
+3478,61842,Andros Darryl Townsend,NA,NA,0
+3751,60744,Daryl Janmaat,NA,NA,0
+14947,49499,Georginio Gregion Emile Wijnaldum,NA,NA,0
+4975,72476,Bernd Leno,NA,NA,0
+6941,88590,Shkodran Mustafi,NA,NA,0
+3130,76277,Laurent Koscielny,NA,NA,0
+61816,253341,Rob Holding,NA,NA,0
+39360,287247,Krystian Bielik,-0.119386,0.083576,183
+69419,318077,Lucas Torreira Di Pascua,NA,NA,0
+69742,245744,Takuma Asano,NA,NA,0
+7002,73396,David Ospina,NA,NA,0
+10762,111873,Damian Martinez,NA,NA,0
+4959,34322,Sokratis,NA,NA,0
+3580,215118,Calum Chambers,NA,NA,0
+72655,415912,Konstantinos Mavropanos,NA,NA,0
+5104,94005,Sead Kolasinac,NA,NA,0
+9646,191217,Hector Bellerin,NA,NA,0
+5075,111455,Granit Xhaka,NA,NA,0
+14928,160438,Mohamed Elneny,NA,NA,0
+70810,465830,Matteo Guendouzi Olie,NA,NA,0
+39136,285845,Ainsley Maitland-Niles,NA,NA,0
+3641,35664,Mesut Ozil,NA,NA,0
+65559,242631,Alex Iwobi,NA,NA,0
+5180,58864,Pierre-Emerick Aubameyang,NA,NA,0
+3306,126321,Carl Daniel Jenkinson,NA,NA,0
+3325,74869,Francis Coquelin,NA,NA,0
+2771,50057,Aaron James Ramsey,NA,NA,0
+39201,220491,Matt Macey,NA,NA,0
+3534,43003,Ignacio Monreal Eraso,NA,NA,0
+3776,131248,Joel Nathaniel Campbell Samuels,NA,NA,0
+9683,73185,Lucas,NA,NA,0
+3642,197642,Chuba Akpom,NA,NA,0
+2560,5658,Petr Cech,NA,NA,0
+6800,149498,Gabriel Paulista,NA,NA,0
+3518,27306,Mathieu Debuchy,NA,NA,0
+2954,67063,Daniel Nii Tackie Mensah Welbeck,NA,NA,0
+71507,105470,Alisson Ramses Becker,NA,NA,0
+3090,50219,Simon Mignolet,NA,NA,0
+10866,256178,Joseph Gomez,NA,NA,0
+3742,234803,Andrew Robertson,NA,NA,0
+70607,314353,Trent Arnold,NA,NA,0
+3326,143424,Alexander Mark David Oxlade-Chamberlain,-0.0824572,0.0847236,13
+2686,61651,Jordan Brian Henderson,NA,NA,0
+65475,222813,Marko Grujic,NA,NA,0
+70604,344015,Ben Woodburn,NA,NA,0
+5083,86792,Xherdan Shaqiri,NA,NA,0
+32197,279455,Harry Wilson,-0.105544,0.102298,3
+7793,148368,Divock Okoth Origi,NA,NA,0
+5125,85864,Loris Karius,NA,NA,0
+4786,82105,Joel Matip,NA,NA,0
+3579,37838,Dejan Lovren,NA,NA,0
+3444,85177,Nathaniel Edwin Clyne,NA,NA,0
+20952,302215,Naby Keïta,NA,NA,0
+2723,3333,James Philip Milner,NA,NA,0
+3445,43530,Adam David Lallana,NA,NA,0
+9642,200512,Sadio Mane,NA,NA,0
+45808,236510,Oluwaseyi Ojo,NA,NA,0
+4930,131789,Roberto Firmino,NA,NA,0
+20998,258889,Dominic Solanke,NA,NA,0
+3763,134294,Daniel William John Ings,NA,NA,0
+3249,145922,Jonathon Patrick Flanagan,NA,NA,0
+3158,55247,Adam Bogdan,NA,NA,0
+3779,207917,Alberto Moreno,NA,NA,0
+45827,262545,Connor Randall,NA,NA,0
+25741,200782,Kevin Linford Stewart,NA,NA,0
+3780,144303,Lazar Markovic,NA,NA,0
+2829,47082,Daniel Andre Sturridge,NA,NA,0
+3648,47713,Mamadou Sakho,NA,NA,0
+5100,26669,Ragnar Klavan,NA,NA,0
+3484,128912,Andre Alexander Shaquille Wisdom,NA,NA,0
+3541,80444,Coutinho,NA,NA,0
+3673,175745,Bradley Shaun Smith,NA,NA,0
+3474,50201,Christian Benteke Liolo,NA,NA,0
+3553,195652,Jordon Femi Ashley Ibe,-0.192021,0.0123383,224
+3787,27614,James Clark Morrison,NA,NA,0
+3340,121477,Craig Dawson,NA,NA,0
+3123,36814,Christopher Brunt,NA,NA,0
+2772,13572,Benjamin Anthony Foster,NA,NA,0
+3363,85935,James McClean,NA,NA,0
+3183,77274,Matthew Phillips,NA,NA,0
+6386,80197,Jose Salomon Rondon,NA,NA,0
+2570,3838,Glyn Oliver Myhill,NA,NA,0
+6500,111508,Allan Nyom,NA,NA,0
+3057,61832,Jake Cyril L. Livermore,NA,NA,0
+3430,65976,Thomas Henry Alex Robson-Kanu,NA,NA,0
+9295,111524,Ahmed Hegazi,NA,NA,0
+2850,44792,Kieran James Ricardo Gibbs,NA,NA,0
+29905,341317,Oliver Burke,NA,NA,0
+2629,3291,Gareth Barry,NA,NA,0
+67176,387331,Sam Field,NA,NA,0
+65278,314266,Jonathan Leko,-0.114941,0.107781,14
+3597,73482,James Grant Chester,NA,NA,0
+6207,64399,Vicente Guaita Panadero,NA,NA,0
+2925,61592,James Oliver Charles Tomkins,NA,NA,0
+3059,52119,Patrick John Miguel van Aanholt,NA,NA,0
+3066,92572,Joel Edward Philip Ward,NA,NA,0
+15019,74300,Luka Milivojevic,NA,NA,0
+3109,41416,James McArthur,NA,NA,0
+5150,146164,Maximilian Meyer,NA,NA,0
+3667,145988,Dazet Wilfried Armel Zaha,NA,NA,0
+2688,45494,Wayne Robert Hennessey,NA,NA,0
+2936,62688,Scott Dann,NA,NA,0
+3056,78959,Martin Ronald Kelly,NA,NA,0
+75994,477758,Aaron Wan-Bissaka,NA,NA,0
+3728,66934,Cheikhou Kouyate,NA,NA,0
+3305,95435,Connor Neil Ralph Wickham,-0.101933,0.0548067,625
+3585,12814,Julian Speroni,NA,NA,0
+7524,125868,Pape Souare,NA,NA,0
+3219,57207,Jordon James Edward Sydney Mutch,NA,NA,0
+3229,47995,Jason David Ian Puncheon,NA,NA,0
+3593,170322,Jonathan Williams,NA,NA,0
+53497,327755,Jaroslaw Jach,NA,NA,0
+3278,67303,Russell Kenneth Alexander Martin,NA,NA,0
+11208,82281,Ivo Daniel Ferreira Mendonca Pinto,NA,NA,0
+25724,207771,Louis James Thompson,NA,NA,0
+3124,36608,Graham Dorrans,NA,NA,0
+90922,199528,Josh Murphy,NA,NA,0
+4963,65255,Timm Klose,NA,NA,0
+3485,12384,Alexander Banor Tettey,NA,NA,0
+2792,35855,Cameron Zishan Rana-Jerome,NA,NA,0
+2706,31835,Mark James Noble,NA,NA,0
+3069,29692,Lukasz Fabianski,NA,NA,0
+3112,37526,Winston Wiremu Reid,NA,NA,0
+74925,285548,Fabian Cornelio Balbuena Gonzalez,NA,NA,0
+7861,181380,Fuka Arthur Masuaku,NA,NA,0
+10582,236953,Samuel Mark Byram,NA,NA,0
+3767,51226,Carlos Sanchez,NA,NA,0
+2960,74223,Jack Andrew Garry Wilshere,0.0280793,0.190503,51
+52128,135853,Manuel Lanzini,NA,NA,0
+10091,104124,Michail Gregory Antonio,NA,NA,0
+62799,258011,Alexandre Nascimento Costa Silva,NA,NA,0
+3636,41384,Marko Arnautovic,NA,NA,0
+8694,48002,Angelo Obinze Ogbonna,NA,NA,0
+63512,314295,Reece Oxford,-0.11297,0.112396,412
+3727,92571,Aaron William Cresswell,NA,NA,0
+2897,20007,Pablo Javier Zabaleta Girod,NA,NA,0
+10780,140191,Ryan Marlowe B. Fredericks,NA,NA,0
+72468,357662,Declan Rice,NA,NA,0
+9082,101213,Pedro Mba Obiang Avomo,NA,NA,0
+39557,247555,Edimilson Fernandes,NA,NA,0
+9415,159372,Felipe Anderson,NA,NA,0
+13576,69015,Andriy Yarmolenko,NA,NA,0
+3416,22614,Robert Snodgrass,NA,NA,0
+3143,50935,Chicharito,NA,NA,0
+25780,291544,Jordan Hugill,NA,NA,0
+3670,71271,Adrian,NA,NA,0
+29884,264220,Reece Burke,NA,NA,0
+7410,45403,Andre Ayew,NA,NA,0
+10700,51321,Darren Edward Randolph,NA,NA,0
+4752,42234,Havard Nordtveit,NA,NA,0
+6431,57162,Sofiane Feghouli,NA,NA,0
+3730,139503,Enner Remberto Valencia Lastra,NA,NA,0
+3142,48066,Andrew Thomas Carroll,NA,NA,0
+66212,289846,Ashley Michael Fletcher,NA,NA,0
+63518,242606,Josh Cullen,NA,NA,0
+2679,37363,Lee Barry Cattermole,NA,NA,0
+7448,57420,Lamine Kone,NA,NA,0
+9640,167268,Patrick James Coleman McNair,NA,NA,0
+7695,103565,Wahbi Khazri,NA,NA,0
+2941,96754,Fabio Borini,NA,NA,0
+27422,248045,Duncan Ian Watmore,NA,NA,0
+2808,3875,Jermain Colin Defoe,NA,NA,0
+2640,27114,Younes Kaboul,NA,NA,0
+10009,108878,Adam James Matthews,NA,NA,0
+2768,57079,Jack Christian Rodwell,0.00836965,0.151151,10
+17758,38497,Jeremain Marciano Lens,NA,NA,0
+3342,102427,Sebastian Coates,NA,NA,0
+23481,81512,Christian Kabasele,NA,NA,0
+3491,38145,Adrian Joseph Mariappa,NA,NA,0
+64717,286949,Adam Masina,NA,NA,0
+9522,41112,Jose Holebas,NA,NA,0
+6382,76467,Kiko Femenia,NA,NA,0
+45682,335245,Marc Navarro Ceciliano,NA,NA,0
+9645,128900,Nathaniel Nyakie Chalobah,NA,NA,0
+7811,127187,Abdoulaye Doucoure,NA,NA,0
+9210,112302,Roberto Maximiliano Pereyra,NA,NA,0
+6923,295331,Success Ajayi Isaac,NA,NA,0
+65493,303259,Dodi Lukebakio,NA,NA,0
+10265,65477,Troy Matthew Deeney,NA,NA,0
+73328,459463,Juan Camilo Hernandez Suarez,NA,NA,0
+29878,236513,Jerome Sinclair,-0.0618347,0.138855,9
+79874,442337,Filip Stuparevic,NA,NA,0
+2798,19059,Heurelho Gomes,NA,NA,0
+64253,120186,Daniel Bachmann,NA,NA,0
+4566,37981,Sebastian Prodl,NA,NA,0
+3101,59606,Craig George Cathcart,NA,NA,0
+10766,92899,Marvin Romeo Kwasie Zeegelaar,NA,NA,0
+3594,63494,Etienne Capoue,NA,NA,0
+78360,538006,Kwasi Sibo,NA,NA,0
+10521,207014,William James Hughes,-0.133313,0.0666323,1
+49134,252345,Ken Sema,NA,NA,0
+3627,129476,Gerard Deulofeu,NA,NA,0
+10824,120565,Andre Anthony Gray,NA,NA,0
+3040,35249,Stefano Okaka Chuka,0.0406827,0.164112,318
+64548,308801,Adalberto Penaranda Maestre,NA,NA,0
+21919,314959,Obbi Oulare,NA,NA,0
+3660,47659,Costel Fane Pantilimon,NA,NA,0
+10436,183161,Thomas Michael Hoban,NA,NA,0
+10840,100507,Juan Carlos Paredes Reasco,NA,NA,0
+19720,42735,Sven Kums,NA,NA,0
+6506,62121,Odion Jude Ighalo,NA,NA,0
+13590,69001,Giedrius Arlauskis,NA,NA,0
+8883,76799,Miguel Britos,NA,NA,0
+5718,37337,Mario Suarez,NA,NA,0
+7553,93690,Brice Dja Djedje,NA,NA,0
+10610,107427,Ikechi Anya,NA,NA,0
+6820,55619,Nordin Amrabat,NA,NA,0
+3770,26456,Mauro Zarate,NA,NA,0
+3582,101500,Matej Vydra,NA,NA,0
+9072,86793,Gabriele Angella,NA,NA,0
+12098,52059,Zanka,NA,NA,0
+4944,55125,Chris Lowe,NA,NA,0
+21848,238809,Florent Hadergjonaj,NA,NA,0
+3197,61573,Jonathan Lee Hogg,NA,NA,0
+70598,312017,Ramadan Sobhi,NA,NA,0
+7497,77001,Rajiv van La Parra,NA,NA,0
+4891,49501,Elias Kachunga,NA,NA,0
+9631,67283,Benjamin John Hamer,NA,NA,0
+41665,57842,Christopher Schindler,NA,NA,0
+20205,245034,Jon Gorenc Stankovic,NA,NA,0
+10763,121398,Thomas Smith,NA,NA,0
+27250,123951,Aaron Frank Mooy,NA,NA,0
+10810,320411,Philip Billing,NA,NA,0
+72624,340394,Abdelhamid Sabiri,NA,NA,0
+25402,261739,Tareiq Marcus Holmes-Dennis,NA,NA,0
+2227,38383,Daniel Williams,NA,NA,0
+25180,278092,Jack Payne,NA,NA,0
+9941,61549,Sean Scannell,NA,NA,0
+23718,90583,Laurent Depoitre,NA,NA,0
+25874,201576,Jordie Hiwula-Mayifuila,NA,NA,0
+5130,102382,Michael Hefele,NA,NA,0
+10598,101682,Scott Liam Malone,NA,NA,0
+3686,157368,Thomas Paul Ince,NA,NA,0
+10786,287167,Joe Lolley,NA,NA,0
+3757,34130,Thomas David Heaton,NA,NA,0
+3760,74810,Benjamin Thomas Mee,NA,NA,0
+10636,111114,Kevin F. Long,NA,NA,0
+2676,15773,Phillip Anthony Bardsley,NA,NA,0
+11507,33866,Steven Defour,NA,NA,0
+2803,14221,Aaron Justin Lennon,-0.0504308,0.0770597,196
+3162,108725,Christopher Grant Wood,NA,NA,0
+10775,173483,Nahki M. Wells,NA,NA,0
+10687,192080,Nicholas David Pope,NA,NA,0
+10819,173504,James Alan Tarkowski,NA,NA,0
+10499,195633,Charles James Taylor,NA,NA,0
+3409,102258,Matthew John Lowton,NA,NA,0
+3048,40613,Jack Frank Porteous Cork,NA,NA,0
+10425,148262,Jeffrey Hendrick,NA,NA,0
+3601,128229,Robert Brady,NA,NA,0
+10826,89231,Johann Berg Gudmundsson,NA,NA,0
+3766,63200,Ashley Luke Barnes,NA,NA,0
+2711,48078,Samuel Michael Vokes,NA,NA,0
+2692,34691,Stephen Robert Ward,NA,NA,0
+3146,3306,Jonathan Ronald Walters,NA,NA,0
+54,22491,Anders Rosenkrantz Lindegaard,NA,NA,0
+10576,33754,Alexander Smithies,NA,NA,0
+7425,60990,Bruno Ecuele Manga,NA,NA,0
+3309,34559,Matthew Thomas Connolly,NA,NA,0
+3065,114093,Gregory Richard Cunningham,NA,NA,0
+10449,38094,Lee Anthony Peltier,NA,NA,0
+10513,195680,Joseph Williams Ralls,NA,NA,0
+2636,58993,David Wayne Hoilett,NA,NA,0
+10625,125409,Nathaniel Otis Mendez-Laing,NA,NA,0
+10168,66994,Gary Lee Madine,NA,NA,0
+70691,134657,Omar Bogle,NA,NA,0
+18895,61694,Neil Leonard Dula Etheridge,NA,NA,0
+3507,79723,Sean Joseph Morrison,NA,NA,0
+9524,28984,Souleymane Bamba,NA,NA,0
+3482,90964,Joseph Bennett,NA,NA,0
+3348,120241,Ashley Darel Jazz Richards,NA,NA,0
+19823,169555,Callum Paterson,NA,NA,0
+67710,81190,Loïc Damour,NA,NA,0
+10434,186186,Bobby Armani Reid,NA,NA,0
+10452,104586,Lee Marc Tomlin,NA,NA,0
+2534,135213,Kenneth Dahrup Zohore,-0.0362295,0.129106,248
+2685,124172,Daniel Carl Ward,NA,NA,0
+3714,238185,Rhys Healey,NA,NA,0
+3564,63821,Aron Einar Gunnarsson,NA,NA,0
+25649,136501,Kadeem Raymond Mathurin-Harris,NA,NA,0
+75788,427568,Aaron Ramsdale,NA,NA,0
+10688,253677,Tyrone Deon Mings,NA,NA,0
+31801,249513,Diego Rico Salguero,NA,NA,0
+10716,13573,Simon Charles Francis,NA,NA,0
+10838,249089,Lewis Cook,NA,NA,0
+2767,44983,Daniel Gosling,NA,NA,0
+10721,146795,Ryan Fraser,-0.170217,-0.00046406,15
+25192,287528,Connor Mahoney,-0.219706,-0.0130286,157
+10380,123682,Callum Eddie Graham Wilson,NA,NA,0
+68206,291422,Lys Mousset,NA,NA,0
+3501,15220,Artur Boruc,NA,NA,0
+10531,90836,Steve Anthony Cook,NA,NA,0
+10717,61819,Charlie John Daniels,NA,NA,0
+9627,61841,Adam James Smith,NA,NA,0
+10719,55742,Harry Nicholas Arter,NA,NA,0
+2832,29975,Andrew Surman,NA,NA,0
+73554,277033,David Brooks,NA,NA,0
+2714,87672,Felix Junior Stanislas,NA,NA,0
+4976,91059,Joshua Christian Kojo King,NA,NA,0
+10366,35413,Lewis James Grabban,NA,NA,0
+3423,4233,Adam Jay Federici,NA,NA,0
+10720,36939,Marc Anthony Pugh,NA,NA,0
+20647,128969,Mathew David Ryan,NA,NA,0
+10317,73564,Jason Sean Steele,NA,NA,0
+10460,148153,Lewis Carl Dunk,NA,NA,0
+3677,134270,Daniel Johnson Burn,NA,NA,0
+66343,364258,Bernardo Fernandes da Silva Junior,NA,NA,0
+7058,36291,Gaetan Bong,NA,NA,0
+9047,119164,Ezequiel Schelotto,NA,NA,0
+67343,433976,Tudor Cristian Baluta,NA,NA,0
+10594,49755,Dale Christopher Stephens,NA,NA,0
+12805,44741,Biram Kayal,NA,NA,0
+10730,209212,Solomon Benjamin March,NA,NA,0
+21920,147094,Jose Izquierdo,NA,NA,0
+3736,149237,Anthony Knockaert,NA,NA,0
+39127,177065,Florin Andone,NA,NA,0
+6528,112668,Tomer Hemed,NA,NA,0
+72681,309180,Jan Mlakar,NA,NA,0
+10529,61814,David Robert Edmund Button,NA,NA,0
+10903,208379,Christian Walton,NA,NA,0
+3370,119269,Shane Patrick Michael Duffy,NA,NA,0
+4694,56100,Leon-Aderemi Balogun,NA,NA,0
+72784,367284,Leo Skiri Oestigaard,NA,NA,0
+14916,31514,Markus Suttner,NA,NA,0
+6473,68645,Martin Montoya,NA,NA,0
+74934,534033,Alexis Mac Allister,NA,NA,0
+4695,82873,Pascal Groß,NA,NA,0
+3687,45693,Glenn Murray,NA,NA,0
+74803,312239,Percy Tau,NA,NA,0
+10541,73547,Oliver James Norwood,NA,NA,0
+19768,148734,Jiri Skalak,NA,NA,0
+10505,67211,Samuel Edward T. Baldock,NA,NA,0
+24638,163656,Connor Lambert Goldson,NA,NA,0
+28103,242078,Ales Matejů,NA,NA,0
+6954,51528,Bruno Saltor Grau,NA,NA,0
+21009,114116,Richard Towell,NA,NA,0
+76078,262895,Soufyan Ahannach,NA,NA,0
+2589,45861,Ryan James Shawcross,NA,NA,0
+2820,4072,Peter James Crouch,NA,NA,0
+3674,128899,Jack Butland,NA,NA,0
+3559,43763,Erik Pieters,NA,NA,0
+3303,51452,Joseph Michael Allen,NA,NA,0
+5093,15760,Ibrahim Afellay,NA,NA,0
+3731,44675,Bojan Krkic,NA,NA,0
+3631,128897,Saido Berahino,NA,NA,0
+9625,62049,Mame Biram Diouf,NA,NA,0
+12460,138335,Jakob Let Haugaard,NA,NA,0
+7869,130756,Giannelli Imbula Wanga,NA,NA,0
+3459,31642,Geoffrey Scott Cameron,NA,NA,0
+3102,28990,Charles Graham Adam,NA,NA,0
+11870,112052,Rolando Maximiliano Martins Indi,NA,NA,0
+61817,347666,Ryan Sweeney,NA,NA,0
+70603,419929,Josh Tymon,NA,NA,0
+20975,159692,Moritz Bauer,NA,NA,0
+783,211325,Papa Alioune Ndiaye,NA,NA,0
+2777,3547,Darren Barr Fletcher,NA,NA,0
+3139,14066,Wayne Neville Anthony Routledge,NA,NA,0
+3312,67416,Neil John Taylor,NA,NA,0
+3297,37011,Nathan Dyer,NA,NA,0
+15024,187105,Mike van der Hoorn,NA,NA,0
+45817,184398,Stephen Kingsley,NA,NA,0
+3614,63342,Leroy Johan Fer,NA,NA,0
+3725,77932,Jefferson Antonio Montero Vite,NA,NA,0
+6371,85324,Borja Baston,NA,NA,0
+25789,298477,Oliver McBurnie,NA,NA,0
+1886,75890,Kristoffer Nordfeldt,NA,NA,0
+3539,67421,Kyle Louie A. Bartley,NA,NA,0
+2867,38073,Martin Tony Waikwa Olsson,NA,NA,0
+2874,66219,Kyle Naughton,NA,NA,0
+3708,171260,Jay Fulton,NA,NA,0
+25181,265471,Matthew Jacob Grimes,NA,NA,0
+19835,72462,Luciano Narsingh,NA,NA,0
+2321,189070,Modou Barrow,NA,NA,0
+14522,56631,Erwin Mulder,NA,NA,0
+64190,214666,Connor Roberts,NA,NA,0
+27414,169566,Adam King,NA,NA,0
+24835,122223,Samuel Raymond Clucas,NA,NA,0
+8816,68306,Alberto Paloschi,NA,NA,0
+3432,69653,Garath James McCleary,NA,NA,0
+10751,158816,Jordan John Obita,NA,NA,0
+3425,43853,Christopher Ross Gunter,NA,NA,0
+9429,103916,Rafael,NA,NA,0
+38043,174733,Omar Colley,NA,NA,0
+62868,226093,Lorenco Simic,NA,NA,0
+9202,171399,Nicola Murru,NA,NA,0
+14823,144143,Bartosz Bereszynski,NA,NA,0
+8893,49275,Albin Ekdal,NA,NA,0
+69463,319160,Jakub Jankto,NA,NA,0
+9256,162961,Valerio Verre,NA,NA,0
+8757,16120,Edgar Barreto,NA,NA,0
+68930,88688,Federico Furlan,NA,NA,0
+21541,208167,Dawid Kownacki,-0.14891,0.0584556,53
+8173,22328,Fabio Quagliarella,NA,NA,0
+11806,73090,Vid Belec,NA,NA,0
+8942,72274,Vasco Regini,NA,NA,0
+49205,260827,Joachim Andersen,NA,NA,0
+85161,451310,Maxime Leverbe,NA,NA,0
+5028,96806,Jacopo Sala,NA,NA,0
+20778,84442,Leonardo Capezzi,NA,NA,0
+14584,129588,Dennis Praet,NA,NA,0
+21538,225873,Karol Linetty,NA,NA,0
+67186,434676,Ronaldo Vieira Nan,NA,NA,0
+71088,249068,Gabriele Rolando,NA,NA,0
+9136,146752,Gianluca Caprari,NA,NA,0
+8958,24316,Emiliano Viviano,NA,NA,0
+20614,204069,Milan Skriniar,NA,NA,0
+9290,109038,Dodo,NA,NA,0
+8715,33571,Lorenzo De Silvestri,NA,NA,0
+6391,33218,Luca Cigarini,NA,NA,0
+9189,119228,Luis Fernando Muriel Fruto,NA,NA,0
+41723,46413,Ante Budimir,NA,NA,0
+8703,48003,Christian Puggioni,NA,NA,0
+9536,20003,Matias Silvestre,NA,NA,0
+9170,76077,Ricardo Alvarez,NA,NA,0
+21911,242086,Patrik Schick,NA,NA,0
+9521,44059,Ervin Zukanovic,NA,NA,0
+8705,37418,Eder,NA,NA,0
+15015,105456,Fernando,NA,NA,0
+65346,257118,Michele Rocca,NA,NA,0
+45845,227081,Joaquin Correa,NA,NA,0
+9253,184894,Joseph Alfred Duncan,NA,NA,0
+8345,5928,Sergio Pellissier,NA,NA,0
+41397,85380,Andrea Seculin,NA,NA,0
+69358,176139,Mattia Bani,NA,NA,0
+8976,47085,Nenad Tomovic,NA,NA,0
+69171,88705,Michele Rigione,NA,NA,0
+7142,24606,Bostjan Cesar,NA,NA,0
+53451,287600,Pawel Jaroszynski,NA,NA,0
+72676,324282,Fabio Depaoli,NA,NA,0
+9075,37295,Perparim Hetemaj,NA,NA,0
+71024,393804,Sofian Kiyine,NA,NA,0
+69473,163264,Giovanni Di Noia,NA,NA,0
+7082,26105,Valter Birsa,NA,NA,0
+9327,205677,Luca Garritano,NA,NA,0
+9493,163683,Manuel Pucciarelli,NA,NA,0
+7854,47065,Filip Djordjevic,NA,NA,0
+85778,253855,Michael Fabbro,NA,NA,0
+9512,165873,Federico Barba,NA,NA,0
+80388,400001,Strahinja Tanasijevic,NA,NA,0
+8994,85605,Fabrizio Cacciatore,NA,NA,0
+8985,46105,Ivan Radovanovic,NA,NA,0
+9096,45581,Joel Chukwuma Obi,NA,NA,0
+75266,348601,Mehdi Pascal Marcel Leris,NA,NA,0
+3576,84835,Emanuele Giaccherini,NA,NA,0
+72683,394346,Emanuel Vignato,-0.115574,0.0994288,31
+8973,28936,Riccardo Meggiorini,NA,NA,0
+8891,38591,Nicolas Frey,NA,NA,0
+5997,21891,Stefano Sorrentino,NA,NA,0
+9263,105892,Lucas Nahuel Castro,NA,NA,0
+9067,61757,Nicola Rigoni,NA,NA,0
+20536,73846,Paul-Jose Mpoku,NA,NA,0
+6636,16893,Antonio Floro Flores,NA,NA,0
+8425,16868,Alessandro Gamberini,NA,NA,0
+23828,289510,Samuel Bastien,NA,NA,0
+68951,73920,Antonio Cinelli,NA,NA,0
+5276,195051,Gianluca Gaudino,NA,NA,0
+14038,168944,Nikola Ninkovic,-0.119666,0.0888235,22
+80016,370701,Michele Cerofolini,NA,NA,0
+52445,113133,German Pezzella,NA,NA,0
+73910,149752,Vitor Hugo Franchescoli de Souza,NA,NA,0
+70021,372809,Petko Hristov,NA,NA,0
+9387,124555,Cristiano Biraghi,NA,NA,0
+79283,404418,David Hancko,NA,NA,0
+70211,285663,Edgardo Andres Schetino Yancev,NA,NA,0
+9723,201040,Marco Benassi,NA,NA,0
+6779,188157,Sebastian Cristoforo,NA,NA,0
+73982,387234,Szymon Zurkowski,NA,NA,0
+7746,126687,Valentin Eysseric,NA,NA,0
+71008,341092,Federico Chiesa,NA,NA,0
+9090,29316,Cyril Thereau,NA,NA,0
+72264,319176,Martin Graiciar,NA,NA,0
+53492,208166,Bartlomiej Dragowski,-0.199258,0.0191767,91
+71774,413507,Nikola Milenkovic,NA,NA,0
+9360,163639,Federico Ceccherini,NA,NA,0
+72766,283233,Jacob Rasmussen,NA,NA,0
+71017,179757,Maximiliano Martin Olivera De Andrea,NA,NA,0
+9485,94936,Vincent Alain Laurini,NA,NA,0
+22469,335209,Kevin Diks,NA,NA,0
+12337,148367,Christian Norgaard,NA,NA,0
+7392,149446,Bryan Dabo,NA,NA,0
+69424,303116,Gaetano Castrovilli,NA,NA,0
+9420,88909,Riccardo Saponara,NA,NA,0
+63596,354278,Rafik Zekhnini,NA,NA,0
+52568,282388,Giovanni Pablo Simeone,NA,NA,0
+71786,357498,Dusan Vlahovic,-0.155355,0.0573951,51
+69499,238654,Jaime Baez Stabile,NA,NA,0
+6589,124902,Khouma El Hadji Babacar,-0.0259572,0.130346,36
+64722,231614,Gilberto Moraes Junior,NA,NA,0
+9505,197300,Federico Bernardeschi,NA,NA,0
+8876,87210,Davide Astori,NA,NA,0
+6027,40372,Borja Valero Iglesias,NA,NA,0
+48180,282076,Ianis Hagi,-0.156346,0.0604747,784
+2866,36371,Nikola Kalinic,NA,NA,0
+11962,230457,Bruno Miguel Boialvo Gaspar,NA,NA,0
+9440,238993,Simone Scuffet,NA,NA,0
+14607,104597,Bram Nuytinck,NA,NA,0
+9159,32816,Danilo,NA,NA,0
+75286,371436,Francisco Sierralta Carvallo,NA,NA,0
+66139,336960,Giuseppe Pezzella,NA,NA,0
+30643,261611,Ali Adnan,NA,NA,0
+45851,258519,Hidde ter Avest,NA,NA,0
+62941,292422,Simone Pontisso,NA,NA,0
+27991,272261,Antonin Barak,NA,NA,0
+62519,316111,Andrija Balic,-0.165051,0.0530984,15
+9019,108484,Emmanuel Agyemang Badu,NA,NA,0
+6639,211251,Darwin Machis,NA,NA,0
+64730,131951,Kevin Lasagna,NA,NA,0
+22404,245072,Stipe Perica,NA,NA,0
+72060,242359,Juan Agustin Musso,NA,NA,0
+80394,301240,Samuele Perisan,NA,NA,0
+66773,255744,Samir Caetano de Souza Santos,NA,NA,0
+22405,192875,William Paul Troost-Ekong,NA,NA,0
+76576,396516,Nicholas Opoku,NA,NA,0
+12160,69646,Jens Stryger Larsen,NA,NA,0
+9738,308279,Rolando Mandragora,NA,NA,0
+2926,21905,Valon Behrami,NA,NA,0
+39142,182893,Seko Fofana,NA,NA,0
+72678,472161,Mamadou Coulibaly,NA,NA,0
+6868,255901,Rodrigo Javier de Paul,NA,NA,0
+52584,283528,Ignacio Pussetto,NA,NA,0
+65399,321079,Svante Ingelsson,NA,NA,0
+6900,62713,Matos,NA,NA,0
+20355,157849,Lukasz Teodorczyk,NA,NA,0
+14681,263267,Rijad Bajic,NA,NA,0
+79663,425462,Felipe Vizeu do Carmo,NA,NA,0
+8035,170994,Yrondu Musavu-King,NA,NA,0
+9422,168989,Silvan Widmer,NA,NA,0
+9058,19636,Panagiotis Kone,NA,NA,0
+71013,288499,Ewandro Felipe de Lima Costa,NA,NA,0
+7415,109598,Thomas Heurtaux,NA,NA,0
+8759,22673,Emil Hallfredsson,NA,NA,0
+19815,49841,Hamdi Harbaoui,NA,NA,0
+64814,248395,Pawel Bochniewicz,NA,NA,0
+52336,189432,Gaspar Iniguez,NA,NA,0
+9513,189410,Rodrigo Aguirre,NA,NA,0
+39272,263027,Alexis Zapata Alvarez,NA,NA,0
+9261,125251,Ivan Piris,NA,NA,0
+9484,115382,Guilherme,NA,NA,0
+9220,53288,Marquinho,NA,NA,0
+46420,220686,Antonio Vutov,-0.125937,0.0759686,222
+8324,5947,Daniele De Rossi,NA,NA,0
+2358,75458,Robin Olsen,NA,NA,0
+9474,104752,Konstantinos Manolas,NA,NA,0
+5987,45314,Federico Fazio,NA,NA,0
+71082,238947,Elio Capradossi,NA,NA,0
+3350,84344,Davide Santon,NA,NA,0
+2618,73734,Steven N'Kemboanza Mike Christopher N'Zonzi,NA,NA,0
+20945,96630,Ante Coric,NA,NA,0
+8906,94529,Stephan Kareem El Shaarawy,-0.0628588,0.111333,13
+39278,256361,Daniele Verde,NA,NA,0
+3214,28396,Edin Dzeko,NA,NA,0
+9145,163222,Gregoire Defrel,NA,NA,0
+65893,337715,Sadiq Umar,NA,NA,0
+8210,22141,Antonio Mirante,NA,NA,0
+91209,438682,Daniel Fuzato,NA,NA,0
+9720,121985,Juan Jesus,NA,NA,0
+6046,57723,Ivan Marcano,NA,NA,0
+3084,46156,Aleksandar Kolarov,NA,NA,0
+80011,346567,Luca Pellegrini,NA,NA,0
+71813,268179,Moustapha Seck,NA,NA,0
+9147,130365,Alessandro Florenzi,NA,NA,0
+7268,60542,Maxime Gonalons,NA,NA,0
+59678,286297,Lorenzo Pellegrini,NA,NA,0
+71015,341705,Gerson Santos da Silva,NA,NA,0
+72704,392085,Nicolo Zaniolo,NA,NA,0
+6217,54984,Diego Perotti,NA,NA,0
+69881,341647,Cengiz Ünder,NA,NA,0
+52606,296783,Ezequiel Ponce,-0.124582,0.0836762,97
+76074,337705,Nura Abdullahi,NA,NA,0
+9008,41982,Radja Nainggolan,NA,NA,0
+9399,81455,Juan Iturbe,NA,NA,0
+9260,54929,Leandro Castan,NA,NA,0
+9518,148751,Bruno Peres,NA,NA,0
+9462,80894,Lukasz Skorupski,NA,NA,0
+3512,59340,Iago Falque,NA,NA,0
+9447,234523,Arnaldo Antonio Sanabria Ayala,NA,NA,0
+8451,29260,Giorgio Chiellini,NA,NA,0
+3203,44058,Wojciech Szczesny,NA,NA,0
+72685,256339,Emil Audero Mulyadi,NA,NA,0
+8576,39983,Leonardo Bonucci,NA,NA,0
+9488,162959,Daniele Rugani,NA,NA,0
+9478,118689,Leonardo Spinazzola,NA,NA,0
+6942,182712,Joao Cancelo,NA,NA,0
+3781,119296,Emre Can,NA,NA,0
+6998,33923,Blaise Matuidi,NA,NA,0
+63672,354362,Rodrigo Bentancur,NA,NA,0
+20369,205940,Marko Pjaca,-0.150947,0.0524668,25
+13699,75615,Douglas Costa,NA,NA,0
+9272,206050,Paulo Dybala,NA,NA,0
+5941,39153,Gonzalo Higuain,NA,NA,0
+71020,364135,Moise Bioty Kean,0.0045776,0.218111,17
+66435,340151,Andrea Favilli,NA,NA,0
+9140,110923,Mattia Perin,NA,NA,0
+9071,45124,Medhi Amine El Mouttaqi Benatia,NA,NA,0
+9301,110475,Dario Del Fabro,NA,NA,0
+11562,79960,Alex Sandro,NA,NA,0
+9228,88682,Mattia De Sciglio,NA,NA,0
+7076,44162,Miralem Pjanic,NA,NA,0
+4331,29401,Sami Khedira,NA,NA,0
+9358,167859,Stefano Sturaro,NA,NA,0
+9310,167791,Stefano Beltrame,NA,NA,0
+6239,8198,Cristiano Ronaldo,NA,NA,0
+71018,323934,Matheus Pereira da Silva,NA,NA,0
+69508,368482,Riccardo Orsolini,NA,NA,0
+4835,34572,Mario Mandzukic,NA,NA,0
+9324,197751,Alberto Cerri,-0.100632,0.100252,14
+4577,7109,Andrea Barzagli,NA,NA,0
+8741,44716,Claudio Marchisio,NA,NA,0
+9232,111819,Neto,NA,NA,0
+4691,75942,Tomas Rincon,NA,NA,0
+8923,96828,Simone Zaza,NA,NA,0
+8971,124769,Luca Marrone,NA,NA,0
+41607,75411,Carlo Pinsoglio,NA,NA,0
+73942,355479,Ferdinando Del Sole,NA,NA,0
+61799,298635,Grigoris Kastanos,NA,NA,0
+69475,331389,Andres Felipe Tello Munoz,NA,NA,0
+7803,243714,Kingsley Coman,-0.0176467,0.184511,5
+77223,130388,Antonio Santurro,NA,NA,0
+649,111893,Giancarlo Gonzalez,NA,NA,0
+52602,284724,Nehuen Paz,NA,NA,0
+9364,207715,Ibrahima Mbaye,NA,NA,0
+2303,184528,Emil Krafth,-0.170197,0.0234461,1409
+64912,368559,Adam Nagy,NA,NA,0
+8887,9967,Blerim Dzemaili,NA,NA,0
+67598,342405,Mattias Svanberg,NA,NA,0
+82784,474621,Juan Manuel Valencia Aponza,NA,NA,0
+13695,140206,Ladislav Krejci,NA,NA,0
+9079,88683,Mattia Destro,NA,NA,0
+7468,99180,Federico Javier Santander Mereles,NA,NA,0
+9098,82693,Angelo Da Costa,NA,NA,0
+2269,198067,Filip Viktor Helander,NA,NA,0
+9087,56830,Sebastien De Maio,NA,NA,0
+69456,240897,Arturo Calabresi,NA,NA,0
+22315,187245,Mitchell Clement Dijks,NA,NA,0
+64720,215616,Erick Antonio Pulgar Farfan,NA,NA,0
+9483,110928,Lorenzo Crisetig,NA,NA,0
+9454,291266,Godfred Donsah,NA,NA,0
+8798,44834,Andrea Poli,NA,NA,0
+9514,167895,Luca Rizzo,NA,NA,0
+69242,218306,Cesar Alejandro Falletti dos Santos,NA,NA,0
+71021,401935,Orji Okwonkwo,NA,NA,0
+64727,119115,Diego Falcinelli,NA,NA,0
+69231,216375,Felipe Nicolas Avenatti Dovillabichus,NA,NA,0
+9452,174488,Marios Oikonomou,NA,NA,0
+42058,239570,Deian Boldor,NA,NA,0
+64721,355501,Amadou Diawara,NA,NA,0
+9325,38607,Federico Di Francesco,NA,NA,0
+9283,130360,Simone Verdi,NA,NA,0
+9347,256358,Bruno Petkovic,NA,NA,0
+7393,144779,Saphir Taider,NA,NA,0
+8970,39099,Rodrigo Palacio,NA,NA,0
+64886,70689,Filippo Falco,NA,NA,0
+9102,149526,Marco Crimi,NA,NA,0
+65596,315858,Gianluigi Donnarumma,-0.0630235,0.159901,1279
+2809,7825,Pepe Reina,NA,NA,0
+9465,197470,Mattia Caldara,NA,NA,0
+32470,215390,Gustavo Gomez,NA,NA,0
+69370,198613,Stefan Simic,NA,NA,0
+5020,86784,Ricardo Rodriguez,NA,NA,0
+62757,290733,Gianfilippo Felicioli,NA,NA,0
+65461,111227,Andrea Conti,NA,NA,0
+67289,265088,Manuel Locatelli,NA,NA,0
+14629,226074,Alen Halilovic,-0.0974115,0.104927,575
+72684,265078,Patrick Cutrone,NA,NA,0
+53491,327757,Krzysztof Piatek,NA,NA,0
+73915,357991,Alessandro Plizzari,NA,NA,0
+9342,88685,Antonio Donnarumma,NA,NA,0
+9302,197747,Alessio Romagnoli,NA,NA,0
+6352,45653,Mateo Pablo Musacchio,NA,NA,0
+74753,323167,Matteo Gabbia,NA,NA,0
+16311,39799,Ivan Strinic,NA,NA,0
+62939,262523,Davide Calabria,NA,NA,0
+9368,26721,Lucas Rodrigo Biglia,NA,NA,0
+8834,57280,Giacomo Bonaventura,NA,NA,0
+9404,230552,Diego Laxalt,NA,NA,0
+80816,444523,Lucas Tolentino Coelho de Lima,NA,NA,0
+5196,126414,Hakan Calhanoglu,NA,NA,0
+3483,111961,Suso,NA,NA,0
+65470,198008,Andre Miguel Valente Silva,NA,NA,0
+8774,16631,Ignazio Abate,NA,NA,0
+6536,34344,Cristian Eduardo Zapata Valencia,NA,NA,0
+64723,176140,Rodrigo Ely,NA,NA,0
+8681,45565,Luca Antonelli,NA,NA,0
+8444,19446,Riccardo Montolivo,NA,NA,0
+9121,74943,Juraj Kucka,NA,NA,0
+9439,240958,Jose Mauri,NA,NA,0
+8043,157501,M'Baye Niang,-0.101728,0.106762,915
+69148,130394,Gianluca Lapadula,NA,NA,0
+9728,79242,Gabriel,NA,NA,0
+51561,55895,Leonel Vangioni,NA,NA,0
+9107,99227,Andrea Bertolacci,NA,NA,0
+13074,48974,Luiz Adriano,NA,NA,0
+69465,294808,Franck Yannick Kessie,NA,NA,0
+74752,343945,Niccolo Zanellato,NA,NA,0
+2117,77825,Etrit Berisha,NA,NA,0
+9523,244192,Pierluigi Gollini,NA,NA,0
+77608,126634,Francesco Rossi,NA,NA,0
+9449,72441,Rafael Toloi,NA,NA,0
+8796,34198,Andrea Masiello,NA,NA,0
+20621,165513,Berat Xhimshiti,NA,NA,0
+22443,273132,Robin Gosens,NA,NA,0
+71111,200192,Fabio Eguelfi,NA,NA,0
+23818,262226,Timothy Castagne,NA,NA,0
+9424,199248,Bryan Cristante,-0.0133082,0.190014,13
+75275,332179,Matteo Pessina,NA,NA,0
+39276,287663,Luca Valzania,NA,NA,0
+8931,99232,Marco D'Alessandro,NA,NA,0
+9077,80351,Josip Ilicic,NA,NA,0
+9354,199258,Andrea Petagna,NA,NA,0
+3623,203412,Andreas Cornelius,NA,NA,0
+72691,264514,Luca Vido,NA,NA,0
+9431,199976,Marco Sportiello,NA,NA,0
+65473,258482,Boris Radunovic,NA,NA,0
+8031,125020,Jose Luis Palomino,NA,NA,0
+69451,256448,Gianluca Mancini,NA,NA,0
+83555,524481,Roger Ibanez da Silva,NA,NA,0
+71161,268178,Arkadiusz Reca,NA,NA,0
+21691,275303,Hans Hateboer,NA,NA,0
+9740,200194,Federico Mattiello,NA,NA,0
+75281,297630,Marco Carraro,NA,NA,0
+21623,148252,Remo Freuler,NA,NA,0
+63795,192638,Nicolas Haas,NA,NA,0
+71878,315862,Filippo Melegoni,NA,NA,0
+69328,197744,Nicolo Fazzi,NA,NA,0
+9078,20005,Alejandro Gomez,NA,NA,0
+9409,73794,Duvan Zapata,NA,NA,0
+76068,486624,Musa Barrow,NA,NA,0
+66247,315850,Marco Tumminello,NA,NA,0
+9124,85825,Jasmin Kurtic,NA,NA,0
+72680,312735,Bryan Alfredo Cabezas Segura,NA,NA,0
+11895,198859,Joao Schmidt,NA,NA,0
+71877,315853,Alessandro Bastoni,NA,NA,0
+39270,197473,Alberto Grassi,NA,NA,0
+23730,162952,Gaetano Monachello,NA,NA,0
+9366,221815,Constantin Nica,NA,NA,0
+8960,44327,Andrea Ranocchia,NA,NA,0
+9046,79522,Yuto Nagatomo,NA,NA,0
+8269,28021,Samir Handanovic,NA,NA,0
+9314,51471,Mateo Kovacic,-0.0594923,0.116077,208
+9258,55769,Danilo D'Ambrosio,NA,NA,0
+9280,68863,Mauro Emanuel Icardi Rivero,NA,NA,0
+6673,76163,Franco Vazquez,NA,NA,0
+63942,255322,Josip Posavec,NA,NA,0
+64890,242940,Edoardo Goldaniga,NA,NA,0
+639,230166,Haitam Aleesami,NA,NA,0
+9094,74448,Andrea Rispoli,NA,NA,0
+85770,336959,Marco Toscano,NA,NA,0
+71011,277335,Bruno Henrique Corsini,NA,NA,0
+4847,47513,Mato Jajalo,NA,NA,0
+69360,275682,Carlos Apna Embalo,NA,NA,0
+14999,142920,Aleksandar Trajkovski,NA,NA,0
+63394,326204,Norbert Balogh,NA,NA,0
+49143,208905,Stefan Silva Rojas,NA,NA,0
+4981,35934,Slobodan Rajkovic,NA,NA,0
+13418,108119,Aljaz Struna,NA,NA,0
+2184,158810,Oscar Karl Niclas Hiljemark,NA,NA,0
+9527,252767,Ivaylo Chochev,NA,NA,0
+9504,244927,Accursio Bentivegna,NA,NA,0
+71019,349719,Simone Lo Faso,NA,NA,0
+19080,54581,Ilija Nestorovski,NA,NA,0
+66437,287871,Fabrizio Alastra,NA,NA,0
+25667,121402,Ahmad Benali,NA,NA,0
+66533,363177,Matheus Henrique Cassini de Paula,NA,NA,0
+61819,287876,Antonino La Gumina,NA,NA,0
+7204,74615,Abdelhamid El Kaoutari,NA,NA,0
+66351,203361,Manuel Alejandro Arteaga Rubianes,NA,NA,0
+41888,222209,Thomas Strakosha,NA,NA,0
+13027,12518,Silvio Proto,NA,NA,0
+71731,300137,Marius Adamonis,NA,NA,0
+71092,457931,Luiz Felipe Ramos Marchi,NA,NA,0
+21854,195810,Bartolomeu Jacinto Quissanga,NA,NA,0
+12384,135208,Riza Durmisi,NA,NA,0
+15040,126729,Patric,NA,NA,0
+69469,224044,Tiago Matias Casasola,NA,NA,0
+2816,41414,Lucas,NA,NA,0
+236,145115,Valon Berisha,NA,NA,0
+9048,84545,Marco Parolo,NA,NA,0
+23803,239802,Adam Marusic,NA,NA,0
+9149,61449,Senad Lulic,NA,NA,0
+5293,105521,Ciro Immobile,NA,NA,0
+19112,34553,Ivan Vargic,NA,NA,0
+71056,256996,Guido Guerrieri,NA,NA,0
+9196,131075,Francesco Acerbi,NA,NA,0
+867,225335,Wallace,NA,NA,0
+8815,44420,Stefan Radu,NA,NA,0
+5094,40633,Milan Badelj,NA,NA,0
+8720,52136,Davide Di Gennaro,NA,NA,0
+23805,266302,Sergej Milinkovic-Savic,NA,NA,0
+71012,289061,Alessandro Murgia,NA,NA,0
+22504,215089,Djavan Anderson,NA,NA,0
+3630,128220,Luis Alberto,NA,NA,0
+69388,199274,Mattia Sprocati,NA,NA,0
+6339,37834,Felipe Salvador Caicedo Corozo,NA,NA,0
+71025,339782,Alessandro Rossi,NA,NA,0
+4996,82243,Moritz Leitner,NA,NA,0
+69362,240349,Cristiano Lombardi,NA,NA,0
+11729,67864,Mauricio,NA,NA,0
+23631,140804,Jordan Lukaku,NA,NA,0
+71071,339566,Luca Germoni,NA,NA,0
+8896,19694,Dusan Basta,NA,NA,0
+9326,228604,Luca Crecco,NA,NA,0
+3616,128907,Ravel Ryan Morrison,NA,NA,0
+9401,188498,Brayan Perea,NA,NA,0
+5998,54935,Martin Caceres,NA,NA,0
+80956,415646,Bruno Andre Cavaco Jordao,NA,NA,0
+8809,25488,Antonio Candreva,NA,NA,0
+69021,110929,Simone Dell'Agnello,NA,NA,0
+9362,43271,Andrea Luci,NA,NA,0
+9516,12907,Alessio Cragno,NA,NA,0
+8730,41912,Simone Aresti,NA,NA,0
+71096,256678,Filippo Romagna,NA,NA,0
+9482,102745,Luca Ceppitelli,NA,NA,0
+68793,101922,Fabio Pisacane,NA,NA,0
+77280,345458,Sebastian Walukiewicz,NA,NA,0
+18037,190634,Marko Pajac,NA,NA,0
+20671,238486,Filip Bradaric,NA,NA,0
+62758,255942,Nicolo Barella,NA,NA,0
+69168,167796,Paolo Pancrazio Farago,NA,NA,0
+69448,235931,Alessandro Deiola,NA,NA,0
+9120,129129,Joao Pedro Galvao,NA,NA,0
+9373,83877,Diego da Silva Farias,NA,NA,0
+8925,66360,Daniele Ragatzu,NA,NA,0
+76982,460898,Damir Ceter Valencia,NA,NA,0
+9349,84467,Rafael,NA,NA,0
+14627,136514,Charalampos Lykogiannis,NA,NA,0
+9479,98888,Artur Ionita,NA,NA,0
+75420,386574,Fabrizio Caligara,NA,NA,0
+46439,221540,Kiril Despodov,-0.13078,0.0734323,231
+9375,64793,Leonardo Pavoletti,NA,NA,0
+72679,402193,Kwang-Song Han,NA,NA,0
+9122,99235,Niccolo Giannetti,NA,NA,0
+72686,265077,Luca Crosta,NA,NA,0
+9287,138584,Luka Krajnc,NA,NA,0
+9273,55801,Marco Sau,NA,NA,0
+9448,71019,Bartosz Salamon,NA,NA,0
+9250,164091,Marco Capuano,NA,NA,0
+3777,43722,Mauricio Isla,NA,NA,0
+8254,29962,Daniele Dessena,NA,NA,0
+8761,56703,Simone Padoin,NA,NA,0
+8677,46060,Federico Melchiorri,NA,NA,0
+3691,5825,Marco Borriello,NA,NA,0
+8550,36356,Marco Andreolli,NA,NA,0
+7756,45548,Gregory Kurtley van der Wiel,NA,NA,0
+69846,249552,Senna Miangue,NA,NA,0
+69500,231381,Andrea Fulignati,NA,NA,0
+9229,96254,Pietro Terracciano,NA,NA,0
+82873,343954,Nikola Pejovic,NA,NA,0
+41922,169880,Giovanni Di Lorenzo,NA,NA,0
+21184,147031,Joel Untersee,NA,NA,0
+65572,351816,Ismael Bennacer,NA,NA,0
+86749,291522,Tommaso Fantacci,NA,NA,0
+20089,149829,Miha Zajc,NA,NA,0
+9095,84765,Francesco Caputo,NA,NA,0
+74435,243225,Samuel Mraz,NA,NA,0
+69327,197929,Ivan Provedel,NA,NA,0
+69405,88701,Filippo Perucchini,NA,NA,0
+25231,111433,Frederic Veseli,NA,NA,0
+71167,278690,Michal Marcjanik,NA,NA,0
+76071,331838,Lorenzo Polvani,NA,NA,0
+77615,475149,Marco Imperiale,NA,NA,0
+41913,259953,Rade Krunic,NA,NA,0
+75298,391065,Hamed Junior Traore,NA,NA,0
+64887,158463,Lorenzo Lollo,NA,NA,0
+9732,170838,Salih Ucan,NA,NA,0
+65344,253857,Alessandro Piu,NA,NA,0
+69867,268426,Arnel Jakupovic,NA,NA,0
+8405,23284,Manuel Pasqual,NA,NA,0
+64725,287635,Assane Diousse El Hadji,NA,NA,0
+65347,74956,Marcel Buchel,NA,NA,0
+66044,222330,Roman Tchanturia,NA,NA,0
+66774,56921,Alberto Pelagotti,NA,NA,0
+65345,163062,Luca Bittante,NA,NA,0
+9299,73097,Omar El Kaddouri,NA,NA,0
+8889,56912,Levan Mchedlidze,NA,NA,0
+9491,87884,Mario Rui,NA,NA,0
+67292,303657,Ionuț Andrei Radu,NA,NA,0
+8871,22318,Federico Marchetti,NA,NA,0
+8782,60128,Luca Rossettini,NA,NA,0
+77228,235412,Jawad El Yamiq,NA,NA,0
+63862,196978,Ivan Lakicevic,NA,NA,0
+3185,74590,Sandro,NA,NA,0
+9718,121756,Romulo,NA,NA,0
+9467,226025,Luca Mazzitelli,NA,NA,0
+53474,242813,Filip Jagiello,-0.18899,0.0290528,51
+89971,454863,Andras Schafer,NA,NA,0
+65489,402581,Thomas Rodriguez,NA,NA,0
+73923,340260,Raul Jose Asencio Moraes,NA,NA,0
+79367,320871,Rok Vodisek,NA,NA,0
+69094,199927,Davide Biraschi,NA,NA,0
+71925,355915,Cristian Gabriel Romero,NA,NA,0
+5221,115763,Koray Gunter,NA,NA,0
+8737,44136,Domenico Criscito,NA,NA,0
+80396,315871,Federico Valietti,NA,NA,0
+71045,342472,Stephane Omeonga,NA,NA,0
+19499,160471,Petar Brlek,NA,NA,0
+18639,70411,Darko Lazovic,NA,NA,0
+72023,504882,Claudio Spinelli,NA,NA,0
+71076,337725,Christian Kouame,NA,NA,0
+62028,301237,Nicola Dal Monte,NA,NA,0
+6869,110309,Lucas Orban,NA,NA,0
+9530,32113,Armando Izzo,NA,NA,0
+9498,84845,Francesco Renzetti,NA,NA,0
+71033,199941,Andrea Beghetto,NA,NA,0
+8292,12563,Goran Pandev,NA,NA,0
+39275,85240,Eugenio Lamanna,NA,NA,0
+9066,75127,Ezequiel Munoz,NA,NA,0
+7603,30782,Santiago Juan Gentiletti Selak,NA,NA,0
+66436,197745,Riccardo Fiamozzi,NA,NA,0
+69303,240415,Leonardo Morosini,NA,NA,0
+68896,60567,Francesco Migliore,NA,NA,0
+11728,140757,Daniel Bessa,NA,NA,0
+7538,164912,Loïck Landre,NA,NA,0
+8978,51186,Nicolas Spolli,NA,NA,0
+65340,314965,Pedro Miguel Pereira,NA,NA,0
+9418,230058,Ricardo Centurion,NA,NA,0
+39320,193830,Iuri Jose Picanco Medeiros,NA,NA,0
+30977,67639,Andrey Galabinov,NA,NA,0
+23625,111061,Alassane Tambe,NA,NA,0
+7546,25508,Salvatore Sirigu,NA,NA,0
+8542,6442,Antonio Rosati,NA,NA,0
+78904,516716,Gleison Bremer Silva Nascimento,NA,NA,0
+9383,134883,Daniele Baselli,NA,NA,0
+9005,69374,Adem Ljajic,-0.107765,0.0575166,46
+52709,334222,Lucas Boye,NA,NA,0
+9503,167727,Andrea Belotti,NA,NA,0
+66613,257474,Vanja Milinkovic Savic,NA,NA,0
+75267,379807,Lyanco Evangelista Silveira Neves Vojnovic,NA,NA,0
+85145,331501,Erick Steven Ferigra Burnham,NA,NA,0
+64772,245056,Sasa Lukic,NA,NA,0
+80012,373899,Jacopo Segre,NA,NA,0
+74416,354136,Vitalie Damascan,NA,NA,0
+85769,375816,Manuel De Luca,NA,NA,0
+14927,159288,Arlind Ajeti,NA,NA,0
+5385,5755,Emiliano Moretti,NA,NA,0
+4938,140748,Danilo Fernando Avelar,NA,NA,0
+9271,62415,Panagiotis Tachtsidis,NA,NA,0
+62943,131098,Salvador Ichazo Fernandez,NA,NA,0
+7339,52893,Carlao,NA,NA,0
+9490,84903,Mirko Valdifiori,NA,NA,0
+9125,145581,Ebenezer Afriyie Acquah,NA,NA,0
+6903,55854,Cristian Daniel Ansaldi,NA,NA,0
+8918,99254,Luigi Sepe,NA,NA,0
+75618,306609,Michele Nardi,NA,NA,0
+86094,431470,Alessandro Minelli,NA,NA,0
+8723,59699,Simone Iacoponi,NA,NA,0
+21471,171159,Leo Stulac,NA,NA,0
+68920,32107,Manuel Scavone,NA,NA,0
+87388,273131,Francesco Giorno,NA,NA,0
+64731,165722,Antonio Di Gaudio,NA,NA,0
+69489,198084,Marco Frediani,NA,NA,0
+8370,35743,Fabio Ceravolo,NA,NA,0
+39277,256008,Facundo Lescano,NA,NA,0
+85140,188889,Matteo Brunori Sandri,NA,NA,0
+68591,43217,Pierluigi Frattali,NA,NA,0
+64729,240786,Riccardo Gagliolo,NA,NA,0
+69402,288480,Juan Ramos,NA,NA,0
+69183,102984,Antonio Junior Vacca,NA,NA,0
+42063,165531,Jacopo Dezi,NA,NA,0
+83683,320263,Abdou Lahad Diakhate,NA,NA,0
+8555,39828,Antonino Barilla,NA,NA,0
+3287,33481,Gervais Lombe Yao Kouassi,NA,NA,0
+64416,337670,Alessio da Cruz,NA,NA,0
+75502,345473,Nicolas Javier Schiappacasse Oliva,NA,NA,0
+85169,409592,Francesco Matteo Golfo,NA,NA,0
+68704,96766,Cristian Galano,NA,NA,0
+9070,86079,Luca Siligardi,NA,NA,0
+8920,35865,Andrea Consigli,NA,NA,0
+70501,273236,Marlon Santos da Silva Barbosa,NA,NA,0
+71814,297645,Riccardo Marchizza,NA,NA,0
+76076,310458,Giangiacomo Magnani,NA,NA,0
+62755,287638,Leonardo Fontanesi,NA,NA,0
+69440,240244,Christian Dell'Orco,NA,NA,0
+45690,298975,Pol Mikel Lirola Kosok,NA,NA,0
+8369,35747,Simone Missiroli,NA,NA,0
+69431,216179,Stefano Sensi,NA,NA,0
+69330,164020,Marco Pinato,NA,NA,0
+7327,131731,Mehdi Bourabia,NA,NA,0
+69353,284636,Giovanni Stefano Sbrissa,NA,NA,0
+9496,102470,Antonino Ragusa,NA,NA,0
+75609,372720,Nicholas Pierini,NA,NA,0
+42026,165895,Matteo Politano,NA,NA,0
+9428,198086,Federico Ricci,NA,NA,0
+3401,129505,Marcello Trotta,NA,NA,0
+70165,345590,Jens Odgaard,NA,NA,0
+9000,21872,Gianluca Pegolo,NA,NA,0
+69348,277167,Gianmarco Ferrari,NA,NA,0
+22355,231378,Timo Letschert,NA,NA,0
+8926,21763,Federico Peluso,NA,NA,0
+69523,340707,Leonardo Sernicola,NA,NA,0
+66596,337716,Claud Adjapong,NA,NA,0
+71054,301236,Francesco Cassata,NA,NA,0
+79058,394300,Davide Frattesi,NA,NA,0
+69482,240934,Filippo Bandinelli,NA,NA,0
+65293,216569,Jeremie Boga,NA,NA,0
+5300,94307,Filip Djuricic,NA,NA,0
+80019,426179,Andrea Cisco,NA,NA,0
+9407,177843,Domenico Berardi,NA,NA,0
+71075,323147,Enrico Brignola,NA,NA,0
+75610,315867,Gianluca Scamacca,NA,NA,0
+8770,40660,Alessandro Matri,NA,NA,0
+9371,7093,Francesco Magnanelli,NA,NA,0
+69133,62735,Pietro Iemmello,NA,NA,0
+75611,401527,Rogerio Oliveira da Silva,NA,NA,0
+9356,76061,Sime Vrsaljko,NA,NA,0
+71029,240414,Alex Meret,NA,NA,0
+6810,16408,Orestis Karnezis,NA,NA,0
+9495,93128,Kalidou Koulibaly,NA,NA,0
+5384,15452,Raul Albiol,NA,NA,0
+3655,123261,Vlad Chiriches,NA,NA,0
+9269,126422,Allan,NA,NA,0
+31957,350219,Fabian Ruiz Pena,NA,NA,0
+9002,133964,Lorenzo Insigne,NA,NA,0
+9377,56416,Dries Mertens,NA,NA,0
+65341,159337,Roberto Inglese,NA,NA,0
+9412,124715,Nikola Maksimovic,NA,NA,0
+9486,111347,Lorenzo Tonelli,NA,NA,0
+7494,126656,Faouzi Ghoulam,NA,NA,0
+9487,200056,Elseid Hysaj,NA,NA,0
+8768,38593,Marek Hamsik,NA,NA,0
+9300,181136,Piotr Zielinski,NA,NA,0
+21401,317482,Marko Rog,NA,NA,0
+62712,146143,Zinedine Machach,NA,NA,0
+5054,96167,Amin Younes,NA,NA,0
+6170,61253,Jose Callejon,NA,NA,0
+71028,159902,Amato Ciciretti,NA,NA,0
+79680,525287,Carlos Vinicius Alves Morais,NA,NA,0
+5437,129444,David Lopez,NA,NA,0
+9480,111196,Stefan de Vrij,NA,NA,0
+77091,338672,Zinho Vanheusden,NA,NA,0
+8908,63531,Kojo Kwadwo Asamoah,NA,NA,0
+14608,156617,Marcelo Brozovic,NA,NA,0
+11694,149729,Joao Mario,NA,NA,0
+67295,197471,Roberto Gagliardini,NA,NA,0
+79666,365449,Xian Emmers,NA,NA,0
+9034,27807,Daniele Padelli,NA,NA,0
+6539,33357,Miranda,NA,NA,0
+75269,395083,Andreaw Gravillon,NA,NA,0
+9408,143812,Matias Vecino,NA,NA,0
+4946,42460,Ivan Perisic,NA,NA,0
+65486,406625,Lautaro Javier Martinez,NA,NA,0
+64738,308278,Rey Manaj,NA,NA,0
+71014,244275,Gabriel Barbosa Almeida,NA,NA,0
+6730,131102,Jeison Murillo,NA,NA,0
+14573,39333,Caner Erkin,NA,NA,0
+6660,127189,Geoffrey Kondogbia,NA,NA,0
+6079,12249,Ever Banega,NA,NA,0
+61922,336704,Assane Demoya Gnoukouri,NA,NA,0
+8969,45567,Jonathan Biabiany,NA,NA,0
+39273,104290,Alessandro Iacobucci,NA,NA,0
+8915,84921,Lorenzo Ariaudo,NA,NA,0
+64734,163223,Mirko Gori,NA,NA,0
+9384,199633,Yussif Raman Chibsah,NA,NA,0
+64735,167444,Luca Paganini,NA,NA,0
+69363,94943,Nicola Citro,NA,NA,0
+9042,110925,Francesco Bardi,NA,NA,0
+69075,109110,Nicolo Brighenti,NA,NA,0
+9039,140559,Raffaele Maiello,NA,NA,0
+69019,61511,Camillo Ciano,NA,NA,0
+75294,315846,Luca Matarese,NA,NA,0
+8968,119369,Federico Dionisi,NA,NA,0
+71106,340657,Michele Volpe,NA,NA,0
+8342,7101,Paolo Sammarco,NA,NA,0
+64888,119366,Leonardo Blanchard,NA,NA,0
+8552,39690,Danilo Soddimo,NA,NA,0
+64889,29605,Daniel Ciofani,NA,NA,0
+69101,163568,Alfred Benjamin Gomis,NA,NA,0
+91200,435406,Demba Thiam,NA,NA,0
+9548,17127,Felipe,NA,NA,0
+2527,261095,Sauli Vaisanen,NA,NA,0
+66434,197743,Filippo Costa,NA,NA,0
+71032,331401,Manuel Lazzari,NA,NA,0
+8852,83458,Mirco Antenucci,NA,NA,0
+71034,284604,Mattia Finotto,NA,NA,0
+69202,240158,Francesco Vicari,NA,NA,0
+17693,79510,Thiago Rangel Cionek,NA,NA,0
+69221,83409,Michele Cremonesi,NA,NA,0
+67293,291392,Fabio Della Giovanna,NA,NA,0
+9201,165900,Federico Viviani,NA,NA,0
+39609,75076,Everton Luiz,NA,NA,0
+9363,56762,Pasquale Schiattarella,NA,NA,0
+61921,291432,Mattia Vitale,NA,NA,0
+69307,241052,Alessandro Bellemo,NA,NA,0
+65047,222223,Marko Jankovic,NA,NA,0
+61923,238977,Gabriele Moncini,NA,NA,0
+8512,30638,Sergio Floccari,NA,NA,0
+8827,55000,Vincenzo Fiorillo,NA,NA,0
+9443,141654,Michele Fornasier,NA,NA,0
+7906,96758,Alessandro Crescenzi,NA,NA,0
+69239,216872,Francesco Zampano,NA,NA,0
+79263,342817,Leonardo Maloku,NA,NA,0
+61800,139634,Ledian Memushaj,NA,NA,0
+65598,131109,Gaston Brugman,NA,NA,0
+69308,292333,Ransford Selasi,NA,NA,0
+42059,209649,Alexandru Mitrita,NA,NA,0
+9016,130369,Stefano Pettinari,NA,NA,0
+68984,171696,Marco Perrotta,NA,NA,0
+68535,16633,Alex Cordaz,NA,NA,0
+23588,160736,Noe Dussenne,NA,NA,0
+72677,365565,Giuseppe Cuomo,NA,NA,0
+69336,164108,Bruno Martella,NA,NA,0
+69394,318058,Manuel Nicoletti,-0.181552,0.0403912,5
+69252,146680,Andrea Barberis,NA,NA,0
+2284,205809,Marcus Rohden,NA,NA,0
+9209,102249,Boadu Maxwell Acosty,NA,NA,0
+69507,278578,Andrea Nalini,NA,NA,0
+3610,87282,Aleksandar Tonev,NA,NA,0
+71009,257660,Marco Festa,NA,NA,0
+75285,285091,Luca Bruno,NA,NA,0
+9208,160357,Mario Sampirisi,NA,NA,0
+72675,348431,Cazim Suljic,NA,NA,0
+8932,96853,Adrian Marius Stoian,NA,NA,0
+11745,194549,Simeon Tochukwu Nwankwo,NA,NA,0
+9195,73926,Marco Davide Faraoni,NA,NA,0
+71073,291400,Giovanni Crociata,NA,NA,0
+14963,19671,Daniel Pavlovic,NA,NA,0
+75608,309929,Hermes Aristoteles Romero,NA,NA,0
+22786,56513,Oliver Kragl,NA,NA,0
+9539,34336,Andrea Costa,NA,NA,0
+9103,62716,Michele Camporese,NA,NA,0
+74443,391192,Jean-Claude Billong,NA,NA,0
+8909,85393,Benito Nicolas Viola,NA,NA,0
+71027,244061,Lorenzo Del Pinto,NA,NA,0
+69277,189340,Gianluca Di Chiara,NA,NA,0
+64728,160560,Gaetano Letizia,NA,NA,0
+71093,339982,Bright Gyamfi,NA,NA,0
+9355,61783,Mirko Eramo,NA,NA,0
+11344,139607,Guilherme,NA,NA,0
+20692,55751,Kristian Samuel Armenteros Nunez Jansson,NA,NA,0
+9500,33763,Massimo Coda,NA,NA,0
+2413,223864,Pa Konate,NA,NA,0
+72726,327326,Giacomo Poluzzi,NA,NA,0
+71031,110338,Luca Mora,NA,NA,0
+9472,99523,Nicolas,NA,NA,0
+9391,160986,Matteo Bianchetti,NA,NA,0
+68757,89034,Riccardo Brosco,NA,NA,0
+9398,100497,Alejandro Gonzalez,NA,NA,0
+41945,110931,Marco Fossati,NA,NA,0
+65343,283735,Mattia Zaccagni,NA,NA,0
+39274,287700,Mohamed Salim Fares,NA,NA,0
+8147,19447,Giampaolo Pazzini,NA,NA,0
+9457,85528,Marco Silvestri,NA,NA,0
+7485,60599,Samuel Souprayen,NA,NA,0
+69030,149525,Antonio Aldo Caracciolo,NA,NA,0
+8794,56854,Nicolo Cherubin,NA,NA,0
+9526,167741,Mattia Valoti,NA,NA,0
+75813,136091,Simone Calvano,NA,NA,0
+9249,88706,Simone Romagnoli,NA,NA,0
+66433,124173,Fabrizio Poli,NA,NA,0
+65338,56693,Raffaele Bianco,NA,NA,0
+65892,165724,Lorenzo Pasciuti,NA,NA,0
+65339,130382,Jerry Uche Mbakogu,NA,NA,0
+75242,187624,Fabian Bredlow,NA,NA,0
+46749,2154,Patric Klandt,NA,NA,0
+67255,279079,Lukas Muhl,NA,NA,0
+64709,185699,Tim Leibold,NA,NA,0
+5241,165331,Ondrej Petrak,NA,NA,0
+80353,284188,Simon Rhein,NA,NA,0
+47266,57091,Hanno Behrens,NA,NA,0
+5167,124517,Sebastian Kerk,NA,NA,0
+41953,261155,Adam Zreľak,NA,NA,0
+75229,284737,Torles Knoll,NA,NA,0
+47264,82361,Christian Mathenia,NA,NA,0
+11442,149249,Ewerton,NA,NA,0
+10629,51325,Georg Margreitter,NA,NA,0
+47139,40605,Enrico Valentini,NA,NA,0
+65584,193859,Patrick Erras,NA,NA,0
+22853,120206,Lukas Jager,NA,NA,0
+72634,260655,Eduard Lowen,NA,NA,0
+75595,278323,Alexander Fuchs,NA,NA,0
+15006,214346,Vura,NA,NA,0
+5024,153637,Mikael Ishak,NA,NA,0
+47253,146096,Federico Palacios Martinez,NA,NA,0
+69944,160954,Jannik Huth,NA,NA,0
+90443,251299,Finn Dahmen,NA,NA,0
+70963,282169,Marin Sverko,NA,NA,0
+4680,43984,Daniel Brosinski,NA,NA,0
+45438,339829,Pierre Kunde Malong,NA,NA,0
+77562,327251,Ridle Bote Baku,NA,NA,0
+5176,168543,Levin Oztunali,NA,NA,0
+5153,129513,Alexandru Iulian Maxim,NA,NA,0
+63787,190289,Gerrit Holtmann,NA,NA,0
+2231,206542,Robin Kwamina Quaison,NA,NA,0
+70906,187499,Aaron Seydel,NA,NA,0
+76976,284769,Florian Muller,NA,NA,0
+75584,160963,Robin Zentner,NA,NA,0
+5126,82350,Stefan Bell,NA,NA,0
+65879,126281,Alexander Hack,NA,NA,0
+65120,127573,Philipp Mwene,NA,NA,0
+4678,39025,Danny Latza,NA,NA,0
+6680,165012,Jose Rodriguez,NA,NA,0
+42154,119234,Karim Onisiwo,NA,NA,0
+70801,420002,Jean-Philippe Mateta,NA,NA,0
+75,142281,Anthony Ujah,NA,NA,0
+74478,482145,Issah Abass,NA,NA,0
+4717,30070,Niko Bungert,NA,NA,0
+4970,34787,Julian Baumgartlinger,NA,NA,0
+8029,48870,Jonas Lossl,NA,NA,0
+5172,88684,Giulio Donati,NA,NA,0
+12473,234375,Emil Berggreen,NA,NA,0
+7983,127177,Gaetan Bussmann,NA,NA,0
+14168,52595,Fabian Frei,NA,NA,0
+65306,261905,Suat Serdar,NA,NA,0
+4877,44713,Christian Clemens,NA,NA,0
+63976,152241,Besar Halimi,NA,NA,0
+5309,196836,Devante James Parker,NA,NA,0
+47262,152963,Florian Niederlechner,NA,NA,0
+4372,1784,Rene Adler,NA,NA,0
+31865,197126,Kenan Kodro,NA,NA,0
+64377,247661,Gideon Jung,NA,NA,0
+5043,103310,Gotoku Sakai,NA,NA,0
+72609,323954,Walace Souza Silva,NA,NA,0
+4066,4687,Aaron Hunt,NA,NA,0
+70904,241307,Finn Porath,NA,NA,0
+65304,247380,Arianit Ferati,NA,NA,0
+4962,73013,Pierre-Michelle Lasogga,NA,NA,0
+47039,72519,Bobby Shou Wood,NA,NA,0
+47284,44607,Tom Mickel,NA,NA,0
+4556,38267,Mergim Mavraj,NA,NA,0
+9430,220793,Douglas Santos,NA,NA,0
+5305,161011,Filip Kostic,NA,NA,0
+3531,55508,Lewis Harry Holtby,NA,NA,0
+39240,192294,Mohamed Gouaida,NA,NA,0
+22615,120205,Michael Gregoritsch,-0.164882,0.00834459,759
+62025,196095,Gian-Luca Waldschmidt,NA,NA,0
+21720,216597,Mustafa Batuhan Altintas,-0.0959792,0.106119,3
+70941,228975,Julian Pollersbeck,NA,NA,0
+4857,58489,Kyriakos Papadopoulos,-0.01243,0.151641,90
+72614,415194,Bakery Jatta,NA,NA,0
+75233,381248,Tatsuya Ito,NA,NA,0
+72612,265254,Vasilije Janjicic,NA,NA,0
+82589,288067,Mats Kohlert,NA,NA,0
+5139,42783,Andre Hahn,NA,NA,0
+4132,21726,Philipp Tschauner,NA,NA,0
+66582,193004,Waldemar Anton,NA,NA,0
+5045,53669,Matthias Ostrzolek,NA,NA,0
+5060,77809,Julian Korb,NA,NA,0
+4320,14533,Pirmin Schwegler,NA,NA,0
+5235,53602,Marvin Bakalorz,NA,NA,0
+5080,60028,Edgar Prib,NA,NA,0
+72642,337036,Florent Muslija,NA,NA,0
+47217,237164,Ihlas Bebou,NA,NA,0
+66763,283001,Noah-Joel Sarenren-Bazee,NA,NA,0
+79034,330223,Hendrik Weydandt,NA,NA,0
+47105,61989,Michael Esser,NA,NA,0
+62431,179895,Joszip Elez,NA,NA,0
+5089,68815,Felipe,NA,NA,0
+1889,75852,Miiko Albornoz,NA,NA,0
+4712,41507,Manuel Schmiedebach,NA,NA,0
+717,226450,Iver Fossum,-0.106191,0.0960394,36
+76978,335103,Linton Maina,NA,NA,0
+5282,79377,Genki Haraguchi,NA,NA,0
+5032,75489,Niclas Fullkrug,NA,NA,0
+5177,126534,Salif Sane,NA,NA,0
+47080,126285,Sebastian Maier,NA,NA,0
+47213,85822,Florian Hubner,NA,NA,0
+77213,236981,Timo Hubers,NA,NA,0
+5017,55114,Oliver Sorg,NA,NA,0
+5082,89591,Felix Klaus,NA,NA,0
+4458,31159,Martin Harnik,NA,NA,0
+30141,118492,Hotaru Yamaguchi,NA,NA,0
+12244,94939,Uffe Manich Bech,NA,NA,0
+47291,193900,Marius Wolf,NA,NA,0
+70942,278343,Felix Uduokhai,NA,NA,0
+2973,88721,Jeffrey Kevin van Homoet Bruma,NA,NA,0
+75232,296378,Gian-Luca Itter,NA,NA,0
+75228,341710,William de Asevedo Furtado,NA,NA,0
+5277,93704,Josuha Guilavogui,NA,NA,0
+5012,117674,Maximilian Arnold,NA,NA,0
+5006,85352,Yunus Malli,NA,NA,0
+7935,148955,Paul-Georges Ntep de Madiba,NA,NA,0
+21778,194638,Renato Steffen,NA,NA,0
+65876,289507,Ismail Azzaoui,NA,NA,0
+5183,79501,Daniel Ginczek,NA,NA,0
+22658,51977,Pavao Pervan,NA,NA,0
+5178,124732,John Anthony Brooks,NA,NA,0
+7838,170463,Marcel Tisserand,NA,NA,0
+4977,94201,Robin Knoche,NA,NA,0
+6095,58874,Ignacio Camacho Barnola,NA,NA,0
+67251,183780,Paul Seguin,NA,NA,0
+5312,119277,Yannick Gerhardt,NA,NA,0
+76051,280575,Elvis Rexhbecaj,NA,NA,0
+66070,293169,Josip Brekalo,NA,NA,0
+47231,196421,Marvin Stefaniak,NA,NA,0
+5175,66058,Admir Mehmedi,NA,NA,0
+69895,311489,Landry Nany Dimata,NA,NA,0
+72618,401923,Victor James Osimhen,NA,NA,0
+4687,49730,Sebastian Alexander Jung,NA,NA,0
+66422,237732,Leandro Putaro,NA,NA,0
+4867,57995,Daniel Didavi,NA,NA,0
+4439,29835,Jakub Blaszczykowski,NA,NA,0
+66421,353108,Bruno Henrique Pinto,NA,NA,0
+3920,6288,Mario Gomez,NA,NA,0
+4951,18021,Paul Verhaegh,NA,NA,0
+4482,36182,Max Kruse,NA,NA,0
+3602,58205,Andre Schurrle,NA,NA,0
+5279,59027,Roman Burki,NA,NA,0
+91887,152460,Eric Oelschlagel,NA,NA,0
+65165,284730,Manuel Akanji,NA,NA,0
+4802,43512,Omer Toprak,NA,NA,0
+4564,35208,Marcel Schmelzer,NA,NA,0
+70269,398073,Achraf Hakimi Mouh,NA,NA,0
+66583,274461,Felix Passlack,NA,NA,0
+11440,35047,Axel Laurent Angel Lambert Witsel,NA,NA,0
+21898,191422,Mahmoud Dahoud,NA,NA,0
+4916,44466,Sebastian Rode,NA,NA,0
+4733,35207,Marco Reus,NA,NA,0
+3452,81785,Shinji Kagawa,NA,NA,0
+4818,59238,Marwin Hitz,NA,NA,0
+73825,344598,Dan-Axel Zagadou,NA,NA,0
+5219,129674,Jeremy Toljan,NA,NA,0
+4411,25727,Lukasz Piszczek,NA,NA,0
+47230,196792,Julian Weigl,NA,NA,0
+12131,91849,Thomas Delaney,NA,NA,0
+7840,170986,Raphael Guerreiro,NA,NA,0
+4789,74842,Mario Gotze,NA,NA,0
+75741,366930,Sergio Gomez Martin,NA,NA,0
+75231,293281,Jacob Bruun Larsen,NA,NA,0
+75238,401173,Jadon Sancho,NA,NA,0
+5261,143891,Maximilian Philipp,NA,NA,0
+66827,349066,Alexander Isak,-0.124792,0.0917084,1096
+4768,29993,Sven Bender,NA,NA,0
+5018,124502,Matthias Ginter,NA,NA,0
+3463,31095,Nuri Sahin,0.0043201,0.139198,167
+65866,288230,Ousmane Dembele,NA,NA,0
+6353,99922,Marc Bartra Aragall,NA,NA,0
+5182,93922,Erik Durm,NA,NA,0
+3987,28947,Gonzalo Castro,NA,NA,0
+66174,195246,Pascal Stenzel,NA,NA,0
+14978,53418,Kevin Kampl,NA,NA,0
+203,24112,Rune Almenning Jarstein,NA,NA,0
+86082,342966,Dennis Smarsch,NA,NA,0
+4907,89592,Marvin Plattenhardt,NA,NA,0
+66762,282577,Lukas Klunter,NA,NA,0
+72617,296397,Arne Maier,NA,NA,0
+2582,7971,Salomon Armand Magloire Kalou,NA,NA,0
+4682,45662,Alexander Esswein,NA,NA,0
+64224,193877,Pascal Kopke,NA,NA,0
+4911,39732,Thomas Kraft,NA,NA,0
+5162,162434,Niklas Stark,NA,NA,0
+66584,282660,Maximilian Mittelstadt,NA,NA,0
+4668,51100,Peter Pekarik,NA,NA,0
+5230,179643,Vladimir Darida,NA,NA,0
+182,18918,Per Ciljan Skjelbred,NA,NA,0
+20825,186368,Valentino Lazaro,-0.0963885,0.106062,160
+4972,126214,Mathew Allan Leckie,NA,NA,0
+5231,178459,Davie Selke,NA,NA,0
+4299,21175,Vedad Ibisevic,NA,NA,0
+80869,362746,Muhamed Kiprit,NA,NA,0
+4450,42203,Fabian Lustenberger,NA,NA,0
+4684,39094,Sebastian Langkamp,NA,NA,0
+5049,119211,Mitchell-Elijah Weiser,NA,NA,0
+62026,170530,Sinan Kurt,NA,NA,0
+5237,40034,Jens Grahl,NA,NA,0
+9704,187491,Timo Baumgartl,NA,NA,0
+5120,160938,Marc-Oliver Kempf,NA,NA,0
+77693,361260,Ozan Muhammed Kabak,NA,NA,0
+2813,45599,Emiliano Insua,NA,NA,0
+63347,283863,Ailton Ferreira Silva,NA,NA,0
+73824,289592,Orel Mangala,NA,NA,0
+74935,486031,Nicolas Gonzalez,NA,NA,0
+39236,353366,Benjamin Pavard,NA,NA,0
+4726,54659,Holger Badstuber,NA,NA,0
+19150,129358,Marcin Kaminski,NA,NA,0
+62575,293194,Borna Sosa,NA,NA,0
+44772,251876,Pablo Maffeo Becerra,-0.188837,0.0233831,5
+66307,423436,Santiago Ascacibar,NA,NA,0
+64255,192637,Anto Grgic,NA,NA,0
+5253,156779,Erik Thommy,NA,NA,0
+69829,249952,Berkay Ozcan,NA,NA,0
+39591,247459,Chadrac Akolo,NA,NA,0
+65393,243606,Anastasios Donis,NA,NA,0
+3912,19112,Christian Gentner,NA,NA,0
+4651,19354,Dennis Aogo,NA,NA,0
+5315,161204,Julian Wesley Green,NA,NA,0
+4898,36284,Simon Terodde,NA,NA,0
+84572,76158,Alexander Meyer,NA,NA,0
+5008,86848,Matthias Zimmermann,NA,NA,0
+2456,262597,Ebenezer Ofori,NA,NA,0
+27957,218299,Jan Kliment,NA,NA,0
+5246,44594,Felix Wiedwald,NA,NA,0
+40975,256866,Carlos Salcedo,NA,NA,0
+72611,234625,Anderson Rafael Ordonez Valdez,NA,NA,0
+14945,146258,Jetro Willems,NA,NA,0
+4918,49723,Timothy Chandler,NA,NA,0
+5173,20081,Gelson Tavares Fernandes,NA,NA,0
+31590,213670,Lucas Torro,NA,NA,0
+3421,31067,Jonathan de Guzman,NA,NA,0
+72608,207578,Max Besuschkow,NA,NA,0
+20039,215864,Mijat Gacinovic,NA,NA,0
+12349,107775,Frederik Ronnow,NA,NA,0
+4114,10917,Jan Zimmermann,NA,NA,0
+5145,58178,David Abraham,NA,NA,0
+4205,16520,Marco Russ,NA,NA,0
+72579,371149,Obite Evan N'Dicka,NA,NA,0
+13858,60761,Taleb Twatiha,NA,NA,0
+4999,85906,Danny Vieira da Costa,NA,NA,0
+4527,39259,Makoto Hasebe,NA,NA,0
+91553,342100,Sahverdi Cetin,NA,NA,0
+5158,160943,Marc Stendera,NA,NA,0
+74419,419255,Marijan Cavar,NA,NA,0
+73828,356141,Daichi Kamada,NA,NA,0
+47214,41541,Danny Blum,NA,NA,0
+4984,39426,Nicolai Muller,NA,NA,0
+9410,187587,Ante Rebic,NA,NA,0
+39323,181547,Goncalo Mendes Paciencia,NA,NA,0
+65581,170522,Yanni Regasel,NA,NA,0
+6713,142031,Omar Mascarell,NA,NA,0
+5077,171209,Branimir Hrgota,NA,NA,0
+30132,67685,Marco Fabian,NA,NA,0
+70905,315332,Aymen Barkok,NA,NA,0
+63538,257462,Luka Jovic,NA,NA,0
+4707,53533,Carlos Augusto Zambrano Ochandarte,NA,NA,0
+4298,17259,Manuel Peter Neuer,NA,NA,0
+4386,39728,Mats Julian Hummels,NA,NA,0
+5165,166601,Niklas Sule,NA,NA,0
+42200,161056,Joshua Kimmich,NA,NA,0
+5099,44017,Javi Martinez,NA,NA,0
+5199,60444,Thiago Alcantara,NA,NA,0
+3503,159471,Serge David Gnabry,NA,NA,0
+4862,38253,Robert Lewandowski,NA,NA,0
+4535,40680,Sven Ulreich,NA,NA,0
+3181,26485,Jerome Boateng,NA,NA,0
+75585,156990,Marco Friedl,NA,NA,0
+4822,59016,David Olatukunbo Alaba,NA,NA,0
+4626,57051,Sebastian Rudy,NA,NA,0
+5198,153084,Leon Goretzka,NA,NA,0
+65613,258027,Renato Junior Luz Sanches,NA,NA,0
+69720,424204,Alphonso Davies,-0.151312,0.0676038,1666
+4560,58358,Thomas Muller,NA,NA,0
+4403,39743,Sandro Wagner,NA,NA,0
+4064,33947,Rafinha,NA,NA,0
+4393,22068,Franck Ribery,NA,NA,0
+4756,4360,Arjen Robben,NA,NA,0
+4455,37666,Arturo Erasmo Vidal Pardo,NA,NA,0
+6894,88103,James Rodriguez,NA,NA,0
+27986,260053,Jiri Pavlenka,NA,NA,0
+86097,196813,Michael Zetterer,NA,NA,0
+3705,202228,Milos Veljkovic,NA,NA,0
+14604,5017,Niklas Moisander,NA,NA,0
+2457,170646,Ludwig Augustinsson,NA,NA,0
+5063,60632,Theodor Gebre Selassie,NA,NA,0
+70900,275249,Niklas Schmidt,NA,NA,0
+14057,106270,Florian Kainz,NA,NA,0
+5289,108650,Yuya Osako,NA,NA,0
+80356,393325,Joshua Sargent,NA,NA,0
+79651,335997,Luca Plogmann,NA,NA,0
+47292,179634,Robert Bauer,NA,NA,0
+4725,42033,Philipp Bargfrede,NA,NA,0
+63980,94137,Kevin Mohwald,NA,NA,0
+4489,36207,Fin Bartels,NA,NA,0
+4047,532,Claudio Miguel Pizarro Bosio,NA,NA,0
+4357,12864,Jaroslav Drobny,NA,NA,0
+5016,82389,Fallou Diagne,NA,NA,0
+7419,93309,Sambou Yatabare,NA,NA,0
+5192,88680,Luca Caldirola,NA,NA,0
+21873,192616,Ulisses Alexandre Garcia Lopes,NA,NA,0
+4831,82110,Thanos Petsos,NA,NA,0
+12302,119169,Aron Johannsson,NA,NA,0
+66441,264429,Yuning Zhang,NA,NA,0
+47267,77108,Jerome Gondorf,NA,NA,0
+20201,220656,Laszlo Kleinheisler,NA,NA,0
+12111,48015,Lukas Hradecky,NA,NA,0
+70974,324351,Panagiotis Retsos,NA,NA,0
+14167,59032,Aleksandar Dragovic,NA,NA,0
+5322,228433,Wendell,NA,NA,0
+30134,89701,Charles Aranguiz,NA,NA,0
+70902,309400,Kai Havertz,NA,NA,0
+64510,387626,Leon Bailey,NA,NA,0
+52250,193782,Lucas Nicolas Alario,NA,NA,0
+4568,16498,Ramazan Ozcan,NA,NA,0
+5207,196357,Jonathan Glao Tah,NA,NA,0
+5294,206386,Tin Jedvaj,NA,NA,0
+4769,30059,Lars Bender,NA,NA,0
+5058,118847,Dominik Kohr,NA,NA,0
+80556,335100,Sam Francis Schreck,NA,NA,0
+5252,187492,Julian Brandt,NA,NA,0
+79650,428791,Paulo Henrique Sampaio Filho,NA,NA,0
+5076,82009,Kevin Volland,NA,NA,0
+14977,175792,Andre Ramalho,NA,NA,0
+5184,140579,Josip Drmic,NA,NA,0
+4634,39015,Ralf Fahrmann,NA,NA,0
+812,19114,Michael Langer,NA,NA,0
+6679,171362,Pablo Insua,-0.12714,0.0342636,90
+41891,118397,Alessandro Schopf,NA,NA,0
+47026,93827,Steven Skrzybski,NA,NA,0
+20824,237662,Breel Donald Embolo,NA,NA,0
+65877,227102,Fabian Reese,NA,NA,0
+67253,195778,Alexander Nubel,NA,NA,0
+3487,143559,Matija Nastasic,NA,NA,0
+4841,53437,Bastian Oczipka,NA,NA,0
+72619,332697,Weston McKennie,NA,NA,0
+4787,38410,Daniel Caligiuri,NA,NA,0
+70781,372711,Amine Harit,NA,NA,0
+17591,58949,Evgen Konoplyanka,NA,NA,0
+22340,112935,Mark-Alexander Uth,NA,NA,0
+10817,49239,Guido Burgstaller,NA,NA,0
+47294,207597,Cedric Teuchert,NA,NA,0
+73849,315291,Haji Wright,NA,NA,0
+4490,39020,Benedikt Howedes,NA,NA,0
+45783,196227,Donis Avdijaj,NA,NA,0
+70909,422380,Bernard Tekpetey,NA,NA,0
+2634,59783,Franco di Santo,NA,NA,0
+5155,89650,Johannes Geis,NA,NA,0
+3414,1662,Sascha Riether,NA,NA,0
+4832,55089,Oliver Baumann,NA,NA,0
+5263,10329,Alexander Stolz,NA,NA,0
+63978,160241,Kevin Akpoguma,NA,NA,0
+31935,263801,Kasim Adams Nuhu,NA,NA,0
+4910,51676,Ermin Bicakcic,NA,NA,0
+5179,85867,Nico Schulz,NA,NA,0
+73827,251309,Dennis Geiger,NA,NA,0
+45841,232454,Nadiem Amiri,NA,NA,0
+64379,195736,Florian Grillitsch,NA,NA,0
+5313,68033,Steven Zuber,-0.0688785,0.0896543,96
+18828,122676,Robert Zulj,NA,NA,0
+5113,185077,Vincenzo Grifo,NA,NA,0
+64378,207592,Philipp Ochs,NA,NA,0
+12633,46580,Andrej Kramaric,NA,NA,0
+4799,39106,Adam Szalai,NA,NA,0
+75711,257814,Gregor Kobel,NA,NA,0
+4693,84435,Kevin Vogt,NA,NA,0
+46817,52348,Benjamin Hubner,NA,NA,0
+75236,223974,Stefan Posch,NA,NA,0
+13697,143798,Pavel Kaderabek,NA,NA,0
+5266,125858,Kerem Demirbay,NA,NA,0
+4968,82863,Lukas Rupp,NA,NA,0
+5115,93844,Leonardo Bittencourt,NA,NA,0
+45784,327911,Felipe Augusto Rodrigues Pires,NA,NA,0
+75234,284010,Robin Hack,NA,NA,0
+7243,111039,Ishak Belfodil,NA,NA,0
+66127,333241,Joelinton Cassio Apolinario de Lira,NA,NA,0
+75716,362184,David Otto,NA,NA,0
+72630,227084,Benedikt Gimber,NA,NA,0
+70907,161072,Baris Atik,NA,NA,0
+6819,89718,Eduardo Vargas,NA,NA,0
+4917,70285,Jonathan Schmid,NA,NA,0
+66669,344695,Dayotchanculle Upamecano,NA,NA,0
+72581,357119,Ibrahima Konate,NA,NA,0
+47183,70243,Marcel Halstenberg,NA,NA,0
+47030,82070,Diego Demme,NA,NA,0
+67434,332705,Tyler Adams,NA,NA,0
+21928,223967,Konrad Laimer,NA,NA,0
+11693,139396,Bruma,NA,NA,0
+64203,264956,Jean-Kevin Augustin,NA,NA,0
+74125,517894,Matheus Santos Carneiro Da Cunha,NA,NA,0
+21776,147051,Yvon Landry Mvogo Nganoma,NA,NA,0
+4980,93740,Willi Orban,NA,NA,0
+30402,149516,Atinc Nukan,-0.0696789,0.0996895,45
+74942,373916,Marcelo Josemir Saracchi Pintos,NA,NA,0
+47237,215599,Lukas Klostermann,NA,NA,0
+13170,40074,Stefan Ilsanker,NA,NA,0
+72095,402008,Amadou Haidara,NA,NA,0
+2206,111078,Emil Forsberg,NA,NA,0
+19573,106987,Marcel Sabitzer,NA,NA,0
+5323,170527,Timo Werner,NA,NA,0
+12338,157635,Yussuf Yurary Poulsen,NA,NA,0
+47249,118161,Marius Muller,NA,NA,0
+4125,9340,Marvin Compper,NA,NA,0
+21931,160968,Benno Schmitz,NA,NA,0
+30989,199268,Zsolt Kalmar,NA,NA,0
+14601,111376,Massimo Bruno,NA,NA,0
+10445,57071,Peter Gulacsi,NA,NA,0
+47122,58995,Anthony Jung,NA,NA,0
+70947,328784,Robin Koch,NA,NA,0
+4806,45683,Manuel Gulde,NA,NA,0
+70951,227087,Patrick Kammerbauer,NA,NA,0
+4709,30942,Mike Frantz,NA,NA,0
+63800,280387,Vincent Sierro,NA,NA,0
+75239,293592,Brandon Joel Gaetano Borrello,NA,NA,0
+70915,248999,Lucas Holer,NA,NA,0
+63785,125714,Mark Flekken,NA,NA,0
+5061,110036,Dominique Heintz,NA,NA,0
+64829,225657,Philipp Lienhart,NA,NA,0
+80800,413843,Keven Schlotterbeck,NA,NA,0
+5127,93707,Christian Gunter,NA,NA,0
+80352,284035,Chima Okoroji,NA,NA,0
+47141,93604,Lukas Kubler,NA,NA,0
+14968,66005,Amir Abrashi,NA,NA,0
+63977,177779,Janik Haberer,NA,NA,0
+65108,332798,Roland Sallai,NA,NA,0
+7342,82461,Yoric Ravet,NA,NA,0
+4701,42936,Nils Petersen,NA,NA,0
+4986,74295,Aleksandar Ignjovski,NA,NA,0
+743,190831,Mats Moller Daehli,NA,NA,0
+47221,193033,Tim Kleindienst,NA,NA,0
+64706,192169,Jonas Fohrenbach,NA,NA,0
+19877,107574,Jonas Meffert,NA,NA,0
+64386,168741,Lucas Hufnagel,NA,NA,0
+47203,152733,Onur Bulut,NA,NA,0
+373,136181,Havard Nielsen,-0.0843932,0.0849083,1
+4785,53408,Fabian Giefer,NA,NA,0
+14344,85789,Martin Hinteregger,NA,NA,0
+72610,263236,Kevin Danso,NA,NA,0
+70901,111277,Tim Rieder,NA,NA,0
+5212,124410,Rani Khedira,NA,NA,0
+79653,330635,Felix Gotze,NA,NA,0
+4766,63022,Jan Moravek,NA,NA,0
+4647,54137,Caiuby,NA,NA,0
+75237,279009,Marco Richter,NA,NA,0
+2262,90024,Alfred Finnbogason,NA,NA,0
+4660,58124,Julian Schieber,NA,NA,0
+4772,41323,Andreas Luthe,NA,NA,0
+19719,106405,Jeffrey Gouweleeuw,NA,NA,0
+5258,111275,Philipp Max,NA,NA,0
+70956,324760,Killian Jakob,NA,NA,0
+72606,146163,Raphael Framberger,NA,NA,0
+4416,4018,Daniel Baier,NA,NA,0
+14485,81698,Georg Teigl,NA,NA,0
+4971,111881,Takashi Usami,NA,NA,0
+47298,161079,Julian Gunther Schmidt,NA,NA,0
+73826,377387,Sergio Duvan Cordova Lezama,NA,NA,0
+4192,3851,Jan-Ingwer Callsen-Bracker,NA,NA,0
+3880,196231,Marvin Friedrich,NA,NA,0
+5233,148967,Konstantinos Stafylidis,NA,NA,0
+3259,164265,Dong-Won Ji,NA,NA,0
+5324,89659,Shawn Parker,NA,NA,0
+4614,14977,Christoph Janker,NA,NA,0
+4925,91841,Ja-Cheol Koo,NA,NA,0
+3870,1986,Markus Feulner,NA,NA,0
+4732,51356,Raul Bobadilla,NA,NA,0
+20823,195906,Albian Ajeti,NA,NA,0
+4353,32207,Marcel Heller,NA,NA,0
+12405,45601,Martin Hansen,NA,NA,0
+47077,43257,Romain Bregerie,NA,NA,0
+4863,78950,Sonny Kittel,NA,NA,0
+47260,119120,Robert Leipertz,NA,NA,0
+18501,80031,Dario Lezcano,NA,NA,0
+718,73517,Orjan Nyland,NA,NA,0
+3872,17025,Marvin Matip Job,NA,NA,0
+64883,154147,Hauke Wahl,NA,NA,0
+4872,56711,Almog Cohen,NA,NA,0
+66126,279657,Nico Rinderknecht,NA,NA,0
+5121,131561,Thomas Pledl,NA,NA,0
+30556,11765,Aytac Sulu,NA,NA,0
+5057,54846,Fabian Holland,NA,NA,0
+4595,16726,Markus Steinhofer,NA,NA,0
+5000,55512,Wilson Kamavuaka,NA,NA,0
+66430,84993,Daniel Heuer Fernandes,NA,NA,0
+5037,77920,Immanuel Hohn,NA,NA,0
+12363,186557,Patrick Banggaard Jensen,NA,NA,0
+47265,40456,Sandro Sirigu,NA,NA,0
+4282,31173,Jan Rosenthal,NA,NA,0
+14838,80672,Roman Bezjak,NA,NA,0
+19753,103064,Terrence Boyd,NA,NA,0
+4677,41319,Patrick Fabian,NA,NA,0
+5218,35405,Marc Pfitzner,NA,NA,0
+5194,36255,Mirko Boland,NA,NA,0
+5311,75680,Thomas Bertels,NA,NA,0
+6929,207302,Sergio Rico,NA,NA,0
+4834,48859,Simon Kjaer,NA,NA,0
+3519,37712,Daniel Carrico,NA,NA,0
+76945,346766,Guilherme Antonio Arana Lopes,NA,NA,0
+3605,15956,Jesus Navas,NA,NA,0
+41181,67920,Paulo Henrique Chagas de Lima,NA,NA,0
+6882,223725,Munir El Haddadi Mohamed,NA,NA,0
+6833,216464,Carlos Fernandez,NA,NA,0
+19756,64000,Tomas Vaclik,NA,NA,0
+7064,102744,Sebastien Corchia,NA,NA,0
+6752,88490,Aleix Vidal Parreu,NA,NA,0
+19374,182381,Quincy Anton Promes,NA,NA,0
+7481,146854,Wissam Ben Yedder,NA,NA,0
+65513,376486,Marc Gual Huguet,NA,NA,0
+66032,182904,Clement Lenglet,NA,NA,0
+4929,93935,Sergio Escudero Palomo,NA,NA,0
+5064,86175,Hiroshi Kiyotake,NA,NA,0
+51653,45319,Gabriel Mercado,NA,NA,0
+6167,41281,Nicolas Pareja,NA,NA,0
+52749,267420,Walter Montoya,NA,NA,0
+9676,67082,Vitolo,NA,NA,0
+52017,105899,Guido Pizarro,NA,NA,0
+3947,148666,Naldo,NA,NA,0
+61656,251878,Aaron Martin Caricol,NA,NA,0
+3462,44065,Esteban Granero,NA,NA,0
+70205,448344,Oscar Melendo Jimenez,NA,NA,0
+38902,140436,Lei Wu,NA,NA,0
+39126,278359,Borja Iglesias Quintas,NA,NA,0
+5808,34370,Diego Lopez,NA,NA,0
+64525,281769,Mario Hermoso Canseco,NA,NA,0
+6347,67090,Didac Vila,NA,NA,0
+66385,423166,Gonzalo Avila Gordon,NA,NA,0
+45681,313113,Alejandro Lopez Moreno,NA,NA,0
+6138,56067,Pablo Daniel Piatti,NA,NA,0
+6647,221899,Leo Baptistao,NA,NA,0
+15032,93795,Facundo Ferreyra,NA,NA,0
+3651,141835,Alvaro Vazquez,NA,NA,0
+5744,37403,Roberto Jimenez,NA,NA,0
+20648,175323,Oscar Duarte,NA,NA,0
+4871,28261,Jose Manuel Jurado,NA,NA,0
+44597,177046,Ruben Duarte,NA,NA,0
+6555,73636,Hernan Perez,NA,NA,0
+44713,166683,Mamadou Sylla Diallo,NA,NA,0
+70328,262396,Unai Simon Mendibil,NA,NA,0
+45428,255488,Yeray Alvarez,NA,NA,0
+48184,262117,Cristian George Ganea,NA,NA,0
+6263,96718,Oscar de Marcos,NA,NA,0
+6878,178425,Dani Garcia,NA,NA,0
+6262,54235,Iker Muniain,-0.0538523,0.114946,340
+39122,255508,Inaki Williams,NA,NA,0
+5747,29124,Aritz Aduriz Zubeldia,NA,NA,0
+70330,338285,Unai Nunez Gestoso,NA,NA,0
+6164,85258,Mikel Balenziaga Oruesagasti,NA,NA,0
+44940,255501,Inigo Lekue,NA,NA,0
+6879,197545,Ander Capa,NA,NA,0
+5918,40888,Benat Etxebarria,NA,NA,0
+6505,51474,Mikel Rico Moreno,NA,NA,0
+65216,251848,Inigo Cordoba Kerejeta,NA,NA,0
+6440,127837,Ibai Gomez,NA,NA,0
+5435,34601,Raul Garcia,NA,NA,0
+45562,212862,Alejandro Remiro Gargallo,NA,NA,0
+44148,192736,Sabin Merino Zuloaga,NA,NA,0
+5681,28003,Lionel Messi,NA,NA,0
+4936,74857,Marc-Andre ter Stegen,NA,NA,0
+31827,142033,Adrian Ortola,NA,NA,0
+5895,18944,Gerard Pique,NA,NA,0
+70569,284857,Marc Cucurella Saseta,NA,NA,0
+6491,85370,Sergio Roberto Carnicer,NA,NA,0
+4392,32467,Ivan Rakitic,NA,NA,0
+78839,362842,Arthur Henrique Ramos de Oliveira Melo,NA,NA,0
+64809,284854,Carles Alena Castillo,NA,NA,0
+3225,44352,Luis Suarez,NA,NA,0
+15029,146227,Jasper Cillessen,NA,NA,0
+6296,69751,Jordi Alba Ramos,NA,NA,0
+64464,231572,Nelson Cabral Semedo,NA,NA,0
+6157,65230,Sergio Busquets i Burgos,NA,NA,0
+6962,129473,Rafinha,NA,NA,0
+6866,221025,Andre Gomes,NA,NA,0
+6578,126716,Paco Alcacer,NA,NA,0
+70297,443222,Marc Cardona Rovira,NA,NA,0
+2814,19981,Javier Alejandro Mascherano,NA,NA,0
+6938,58426,Douglas,NA,NA,0
+2758,15904,Thomas Vermaelen,NA,NA,0
+20989,181112,Sergi Samper,NA,NA,0
+6514,21369,Arda Turan,NA,NA,0
+2081,57229,Paulinho,NA,NA,0
+45270,320271,Antonio Latorre Grueso,-0.205511,0.00263606,14
+6215,59561,Dani Parejo,NA,NA,0
+74699,417575,Uros Racic,NA,NA,0
+75756,557149,Kangin Lee,-0.193777,0.0224248,81
+70519,398184,Ferran Torres Garcia,-0.190983,0.0224481,16
+3189,131505,Rodrigo,NA,NA,0
+6738,27389,Kevin Gameiro,NA,NA,0
+31735,85383,Ruben Sobrino,NA,NA,0
+44722,227805,Jaume Domenech,NA,NA,0
+5791,35939,Ezequiel Marcelo Garay,NA,NA,0
+6845,221322,Jose Luis Gaya,-0.1787,0.0238727,24
+9112,163086,Cristiano Piccini,NA,NA,0
+9682,253839,Alvaro Medran,NA,NA,0
+62643,372246,Carlos Soler Barragan,NA,NA,0
+45180,336731,Ignacio Gil de Pareja Vicent,NA,NA,0
+75102,328914,Alejandro Blanco Sanchez,NA,NA,0
+6698,255653,Santiago Mina Lorenzo,NA,NA,0
+11706,159142,Aderlan Leandro de Jesus Santos,NA,NA,0
+6835,258374,Vinicius Araujo,NA,NA,0
+11441,56066,Enzo Perez,NA,NA,0
+2779,33706,Nani,NA,NA,0
+14950,203378,Zakaria Bakkali,NA,NA,0
+3607,18644,Alvaro Negredo,NA,NA,0
+45264,216870,Ignacio Vidal Miralles,NA,NA,0
+5457,25557,Sergio Ramos,NA,NA,0
+6080,27486,Kiko Casilla,NA,NA,0
+31869,251896,Jesus Vallejo,NA,NA,0
+70195,339808,Theo Bernard Francois Hernandez,NA,NA,0
+4478,31909,Toni Kroos,NA,NA,0
+2804,27992,Luka Modric,NA,NA,0
+70401,369081,Federico Santiago Valverde Dipetta,NA,NA,0
+6442,85288,Isco,NA,NA,0
+31815,296622,Marco Asensio Willemsen,NA,NA,0
+70771,314678,Brahim Abdelkader Diaz,NA,NA,0
+6917,221316,Lucas Vazquez,NA,NA,0
+31641,162038,Raul de Tomas,NA,NA,0
+6614,79422,Keylor Antonio Navas Gamboa,NA,NA,0
+71443,404839,Andriy Lunin,NA,NA,0
+6553,164770,Raphael Varane,NA,NA,0
+5516,58884,Nacho Fernandez,NA,NA,0
+6967,44501,Marcelo,NA,NA,0
+64684,282429,Sergio Reguilon Rodriguez,NA,NA,0
+5092,138927,Daniel Carvajal Ramos,NA,NA,0
+45801,218118,Lucas Silva Borges,NA,NA,0
+6843,319745,Dani Ceballos,NA,NA,0
+79011,371998,Vinicius Jose Paixao de Oliveira Junior,NA,NA,0
+2946,39381,Gareth Frank Bale,NA,NA,0
+459,316264,Martin Odegaard,-0.179967,0.0454865,3622
+6240,18922,Karim Benzema,NA,NA,0
+45766,298976,Borja Mayoral Moya,NA,NA,0
+6531,33648,Fabio Coentrao,NA,NA,0
